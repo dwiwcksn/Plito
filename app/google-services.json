@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1092330563781",
+    "firebase_url": "https://plito-ef17e.firebaseio.com",
+    "project_id": "plito-ef17e",
+    "storage_bucket": "plito-ef17e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092330563781:android:8c3261efc768501d5ca8ac",
+        "android_client_info": {
+          "package_name": "com.wicak.plito"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1092330563781-2iac1b0488c9rsq49a1si9lf05467lem.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWet0MV43Xnodh2MXUzo9C2fVvo8sB1m0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1092330563781-2iac1b0488c9rsq49a1si9lf05467lem.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

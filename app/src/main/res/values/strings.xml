@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Plito</string>
+    <string name="title_activity_bottom">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_chat">Chat</string>
+    <string name="title_info">Info</string>
+    <string name="title_quiz">Quiz</string>
+    <string name="title_materi">Materi</string>
+    <string name="judul_hero">PLITO</string>
+    <string name="des_hero">Aplikasi ini digunakan sebagai media pembelajaran yang dikhususkan untuk siswa kelas X Otomotif</string>
+    <string name="tujuan_hero">Tujuan penggunaan Aplikasi ini</string>
+    <string name="des_tujuan_hero">1. Aplikasi ini blablablabalbal/n2. Aplikasi ini untuk balsdaldasdalsda/n3. Aplikasi untuk abdlkashdalidhaoida/n4. Aplikasi ini untuk asdkjasgkdads</string>
+    <string name="kasus_hero">Cara menggunakan aplikasi</string>
+    <string name="des_kasus_hero">Simak tutorial berikut untuk dapat menggunakan aplikasi secara optimal</string>
+</resources>

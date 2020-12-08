@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.wicak.plito">
+
+    <application
+        android:name=".LoggedIn"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".ui.chat.ChatRoom"></activity>
+        <activity android:name=".SignInActivity"
+            android:theme="@style/AppTheme.NoActionBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".SignUpActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".ui.materi.empat.MateriEmpat" />
+        <activity android:name=".ui.materi.lima.MateriLima" />
+        <activity android:name=".ui.materi.tiga.MateriTiga" />
+        <activity android:name=".ui.materi.dua.MateriDua" />
+        <activity android:name=".ui.materi.satu.MateriSatu" />
+        <activity android:name=".ui.quiz.HasilKuis" />
+        <activity android:name=".ui.quiz.MulaiKuis" />
+        <activity
+            android:name=".BottomActivity"
+            android:label="@string/title_activity_bottom" />
+        <activity android:name=".SplashScreen"
+            android:theme="@style/AppTheme.NoActionBar" ></activity>
+        <activity android:name=".MainActivity" />
+    </application>
+
+</manifest>
