@@ -1,0 +1,274 @@
+[
+    {
+        "merged": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_mulai_kuis.xml.flat",
+        "source": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\layout\\activity_mulai_kuis.xml"
+    },
+    {
+        "merged": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_ic_action_name.xml.flat",
+        "source": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable-anydpi\\ic_action_name.xml"
+    },
+    {
+        "merged": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rb_b_unchecked.xml.flat",
+        "source": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable\\rb_b_unchecked.xml"
+    },
+    {
+        "merged": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_hasil_kuis.xml.flat",
+        "source": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\layout\\activity_hasil_kuis.xml"
+    },
+    {
+        "merged": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rb_a_selector.xml.flat",
+        "source": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable\\rb_a_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable_next.xml.flat",
+        "source": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable\\next.xml"
+    },
+    {
+        "merged": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_bottom.xml.flat",
+        "source": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\layout\\activity_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bar_layout.xml.flat",
+        "source": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable\\bar_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_name.png.flat",
+        "source": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_name.png"
+    },
+    {
+        "merged": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_chatroom.xml.flat",
+        "source": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\layout\\fragment_chatroom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rb_c_selector.xml.flat",
+        "source": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable\\rb_c_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_materi_dua.xml.flat",
+        "source": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\layout\\activity_materi_dua.xml"
+    },
+    {
+        "merged": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_cardview_materi.xml.flat",
+        "source": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\layout\\cardview_materi.xml"
+    },
+    {
+        "merged": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_quiz.xml.flat",
+        "source": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\layout\\fragment_quiz.xml"
+    },
+    {
+        "merged": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rb_a_checked.xml.flat",
+        "source": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable\\rb_a_checked.xml"
+    },
+    {
+        "merged": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_notifications_black_24dp.xml.flat",
+        "source": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable\\ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mood_up.xml.flat",
+        "source": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable\\mood_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_name.png.flat",
+        "source": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_name.png"
+    },
+    {
+        "merged": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_home_black_24dp.xml.flat",
+        "source": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable\\ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_right.xml.flat",
+        "source": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable\\bg_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_left.xml.flat",
+        "source": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable\\bg_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rb_a_unchecked.xml.flat",
+        "source": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable\\rb_a_unchecked.xml"
+    },
+    {
+        "merged": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_materi.xml.flat",
+        "source": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\layout\\fragment_materi.xml"
+    },
+    {
+        "merged": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_materi_empat.xml.flat",
+        "source": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\layout\\activity_materi_empat.xml"
+    },
+    {
+        "merged": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_materi_satu.xml.flat",
+        "source": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\layout\\activity_materi_satu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_chat_item_right.xml.flat",
+        "source": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\layout\\chat_item_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_materi_lima.xml.flat",
+        "source": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\layout\\activity_materi_lima.xml"
+    },
+    {
+        "merged": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_white.xml.flat",
+        "source": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable\\bg_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_tes.jpg.flat",
+        "source": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable-v24\\tes.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_materi_tiga.xml.flat",
+        "source": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\layout\\activity_materi_tiga.xml"
+    },
+    {
+        "merged": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_send_24.xml.flat",
+        "source": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable\\ic_baseline_send_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sign_in.xml.flat",
+        "source": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\layout\\activity_sign_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rb_c_checked.xml.flat",
+        "source": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable\\rb_c_checked.xml"
+    },
+    {
+        "merged": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rb_b_selector.xml.flat",
+        "source": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable\\rb_b_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_name.png.flat",
+        "source": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable-mdpi\\ic_action_name.png"
+    },
+    {
+        "merged": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash_screen.xml.flat",
+        "source": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rb_d_selector.xml.flat",
+        "source": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable\\rb_d_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_name.png.flat",
+        "source": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable-hdpi\\ic_action_name.png"
+    },
+    {
+        "merged": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rb_d_unchecked.xml.flat",
+        "source": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable\\rb_d_unchecked.xml"
+    },
+    {
+        "merged": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_chat_message.xml.flat",
+        "source": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\layout\\activity_chat_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_info.xml.flat",
+        "source": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\layout\\fragment_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rb_b_checked.xml.flat",
+        "source": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable\\rb_b_checked.xml"
+    },
+    {
+        "merged": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\navigation_mobile_navigation.xml.flat",
+        "source": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\navigation\\mobile_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rb_d_checked.xml.flat",
+        "source": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable\\rb_d_checked.xml"
+    },
+    {
+        "merged": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sign_up.xml.flat",
+        "source": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mood_bad.xml.flat",
+        "source": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable\\mood_bad.xml"
+    },
+    {
+        "merged": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable_nav_up.xml.flat",
+        "source": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable\\nav_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_dashboard_black_24dp.xml.flat",
+        "source": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable\\ic_dashboard_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_chat_item_left.xml.flat",
+        "source": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\layout\\chat_item_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_chat_item.xml.flat",
+        "source": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\layout\\chat_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rb_c_unchecked.xml.flat",
+        "source": "C:\\Users\\Herla\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable\\rb_c_unchecked.xml"
+    }
+]

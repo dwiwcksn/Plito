@@ -5,10 +5,15 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
 import android.os.Bundle;
+import android.text.TextUtils;
+import android.text.method.HideReturnsTransformationMethod;
+import android.text.method.PasswordTransformationMethod;
 import android.util.Patterns;
 import android.view.View;
 import android.widget.Button;
+import android.widget.CheckBox;
 import android.widget.EditText;
+import android.widget.ProgressBar;
 import android.widget.TextView;
 import android.widget.Toast;
 
@@ -23,6 +28,8 @@ public class SignInActivity extends AppCompatActivity {
     private EditText mEmail, mPass;
     private TextView mTextView;
     private Button signInButton;
+    private CheckBox showPassword;
+    private ProgressBar progressBar;
 
     private FirebaseAuth mAuth;
     @Override
@@ -32,8 +39,20 @@ public class SignInActivity extends AppCompatActivity {
         mEmail = findViewById(R.id.emailSignIn);
         mPass = findViewById(R.id.passSignIn);
         mTextView =findViewById(R.id.toSignUp);
-
+        progressBar = findViewById(R.id.progressBar2);
+        showPassword = findViewById(R.id.showPass);
         mAuth = FirebaseAuth.getInstance();
+
+        showPassword.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                if (showPassword.isChecked()){
+                    mPass.setTransformationMethod(HideReturnsTransformationMethod.getInstance());
+                }else{
+                    mPass.setTransformationMethod(PasswordTransformationMethod.getInstance());
+                }
+            }
+        });
 
         signInButton = findViewById(R.id.signInBtn);
         mTextView.setOnClickListener(new View.OnClickListener() {
@@ -55,29 +74,41 @@ public class SignInActivity extends AppCompatActivity {
         String email = mEmail.getText().toString();
         String pass = mPass.getText().toString();
 
-        if (!email.isEmpty() && Patterns.EMAIL_ADDRESS.matcher(email).matches()){
-            if (!pass.isEmpty() && pass.length() >= 6){
-                mAuth.signInWithEmailAndPassword(email, pass)
-                        .addOnSuccessListener(new OnSuccessListener<AuthResult>() {
-                            @Override
-                            public void onSuccess(AuthResult authResult) {
-                                Toast.makeText(SignInActivity.this, "Sign In Success", Toast.LENGTH_SHORT).show();
-                                startActivity(new Intent(SignInActivity.this, BottomActivity.class));
-                                finish();
-                            }
-                        }).addOnFailureListener(new OnFailureListener() {
-                    @Override
-                    public void onFailure(@NonNull Exception e) {
-                        Toast.makeText(SignInActivity.this, "Sign In Error", Toast.LENGTH_SHORT).show();
-                    }
-                });
-            }else {
-                mPass.setText("Minimal 6 karakter");
-            }
-        }else if (email.isEmpty()){
-            mEmail.setText("Mohon isi email");
-        }else{
-            mEmail.setText("Email Salah");
+
+        if(TextUtils.isEmpty(email)){
+            mEmail.setError("Email is Required.");
+            return;
         }
+
+
+        if(TextUtils.isEmpty(pass)){
+            mPass.setError("Password is Required.");
+            return;
+        }
+
+        if(pass.length() < 6){
+            mPass.setError("Password Must be >= 6 Characters");
+            return;
+        }
+
+
+        progressBar.setVisibility(View.VISIBLE);
+
+        mAuth.signInWithEmailAndPassword(email, pass).addOnCompleteListener(new OnCompleteListener<AuthResult>() {
+            @Override
+            public void onComplete(@NonNull Task<AuthResult> task) {
+                if (task.isSuccessful()){
+                    Intent intent =  new Intent(SignInActivity.this, BottomActivity.class);
+                    intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TASK | Intent.FLAG_ACTIVITY_NEW_TASK);
+                    startActivity(intent);
+                    finish();
+                }else {
+                    Toast.makeText(SignInActivity.this, "Authentication Failed", Toast.LENGTH_SHORT).show();
+                    progressBar.setVisibility(View.GONE);
+
+                }
+            }
+        });
+
     }
 }

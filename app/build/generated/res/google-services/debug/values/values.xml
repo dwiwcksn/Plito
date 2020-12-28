@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1092330563781-2iac1b0488c9rsq49a1si9lf05467lem.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://plito-ef17e.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1092330563781</string>
+    <string name="google_api_key" translatable="false">AIzaSyDWet0MV43Xnodh2MXUzo9C2fVvo8sB1m0</string>
+    <string name="google_app_id" translatable="false">1:1092330563781:android:8c3261efc768501d5ca8ac</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDWet0MV43Xnodh2MXUzo9C2fVvo8sB1m0</string>
+    <string name="google_storage_bucket" translatable="false">plito-ef17e.appspot.com</string>
+    <string name="project_id" translatable="false">plito-ef17e</string>
+</resources>
