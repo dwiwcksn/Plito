@@ -4,6 +4,6 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".ui.materi.empat.MateriEmpat">
+    tools:context=".ui.materi.tang.MateriEmpat">
 
 </androidx.constraintlayout.widget.ConstraintLayout>

@@ -6,6 +6,7 @@ import android.content.ContentResolver;
 import android.content.Intent;
 import android.net.Uri;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -55,12 +56,14 @@ import java.util.concurrent.Executor;
 import de.hdodenhof.circleimageview.CircleImageView;
 
 import static android.app.Activity.RESULT_OK;
+import static android.content.ContentValues.TAG;
 
 public class InfoFragment extends Fragment {
     private TextView profleName, profileEmail;
+    private String profilekode;
     private CircleImageView profileImage;
     private Button signOutBtn, addRoom;
-    private EditText roomName;
+    private EditText roomName, kodeName;
     private FirebaseAuth mAuth;
     private FirebaseFirestore mStore;
 
@@ -102,12 +105,14 @@ public class InfoFragment extends Fragment {
             public void onDataChange(@NonNull DataSnapshot snapshot) {
                 User user = snapshot.getValue(User.class);
                 profleName.setText(user.getUsername());
-                profileEmail.setText(user.getEmail());
+                profileEmail.setText(user.getKodeKelas());
                 if (user.getImageURL().equals("default")){
                     profileImage.setImageResource(R.mipmap.ic_launcher);
                 }else {
                     Glide.with(getContext()).load(user.getImageURL()).into(profileImage);
                 }
+
+
             }
 
             @Override
@@ -115,7 +120,6 @@ public class InfoFragment extends Fragment {
 
             }
         });
-
 
 
 
@@ -131,17 +135,30 @@ public class InfoFragment extends Fragment {
         });
 
         roomName = root.findViewById(R.id.add_room_txt);
+        kodeName = root.findViewById(R.id.room_kode_txt);
         addRoom = root.findViewById(R.id.add_room_btn);
 
         addRoom.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-
                 DatabaseReference ref = FirebaseDatabase.getInstance().getReference("ChatMessage");
+
                 Map<String,Object> chatroom = new HashMap<String,Object>();
                 chatroom.put(roomName.getText().toString(),"");
 
                 ref.updateChildren(chatroom);
+
+/////////////
+
+//                DatabaseReference ref1 = FirebaseDatabase.getInstance().getReference("RoomChat");
+//                String roomKey = ref1.push().getKey();
+//                DatabaseReference roomRef = ref1.child(kodeName.getText().toString());
+//
+//                Map<String,Object> chatroom1 = new HashMap<String,Object>();
+////                chatroom1.put(roomName.getText().toString(),"");
+//                chatroom1.put("RoomName" ,kodeName.getText().toString());
+//
+//                roomRef.updateChildren(chatroom1);
 
             }
         });

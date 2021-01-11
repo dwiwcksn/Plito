@@ -11,13 +11,13 @@
 9-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.INTERNET" />
-11-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:5:5-66
+11-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:5:5-67
 11-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:5:22-64
 12    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-12-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:6:5-80
+12-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:6:5-81
 12-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:6:22-78
 13    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-13-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:7:5-79
+13-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:7:5-80
 13-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:7:22-77
 14    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 14-->[com.pierfrancescosoffritti.androidyoutubeplayer:core:10.0.5] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\1fef9e95c8c64f4571d603f368c8d0be\jetified-core-10.0.5\AndroidManifest.xml:12:5-79
@@ -30,7 +30,7 @@
 16-->[com.google.android.gms:play-services-measurement:17.5.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\b7b92f2f9514564c9583ba6c5d9e72ab\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:26:22-107
 17
 18    <application
-18-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:9:5-41:19
+18-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:9:5-91:19
 19        android:name="com.wicak.plito.LoggedIn"
 19-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:10:9-33
 20        android:allowBackup="true"
@@ -49,219 +49,331 @@
 27        android:testOnly="true"
 28        android:theme="@style/AppTheme" >
 28-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:16:9-40
-29        <activity android:name="com.wicak.plito.ui.chat.ChatMessage" />
-29-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:17:9-66
-29-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:17:19-54
-30        <activity
-30-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:18:9-25:20
-31            android:name="com.wicak.plito.SignInActivity"
-31-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:18:19-49
-32            android:theme="@style/AppTheme.NoActionBar" >
+29        <activity
+29-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:17:9-19:68
+30            android:name="com.wicak.plito.ui.materi.kunci.video.VideoKunciPas"
+30-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:17:19-70
+31            android:screenOrientation="landscape"
+31-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:18:13-50
+32            android:theme="@style/AppTheme.NoActionBar" />
 32-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:19:13-56
-33            <intent-filter>
-33-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:20:13-24:29
-34                <action android:name="android.intent.action.MAIN" />
-34-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:21:17-69
-34-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:21:25-66
-35
-36                <category android:name="android.intent.category.LAUNCHER" />
-36-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:23:17-77
-36-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:23:27-74
-37            </intent-filter>
-38        </activity>
-39        <activity
-39-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:26:9-27:59
-40            android:name="com.wicak.plito.SignUpActivity"
-40-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:26:19-49
-41            android:theme="@style/AppTheme.NoActionBar" />
-41-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:27:13-56
-42        <activity android:name="com.wicak.plito.ui.materi.empat.MateriEmpat" />
-42-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:28:9-65
-42-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:28:19-62
-43        <activity android:name="com.wicak.plito.ui.materi.lima.MateriLima" />
-43-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:29:9-63
-43-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:29:19-60
-44        <activity android:name="com.wicak.plito.ui.materi.tiga.MateriTiga" />
-44-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:30:9-63
-44-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:30:19-60
-45        <activity android:name="com.wicak.plito.ui.materi.dua.MateriDua" />
-45-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:31:9-61
-45-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:31:19-58
-46        <activity android:name="com.wicak.plito.ui.materi.satu.MateriSatu" />
-46-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:32:9-63
-46-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:32:19-60
-47        <activity android:name="com.wicak.plito.ui.quiz.HasilKuis" />
-47-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:33:9-55
-47-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:33:19-52
-48        <activity android:name="com.wicak.plito.ui.quiz.MulaiKuis" />
-48-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:34:9-55
-48-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:34:19-52
+33        <activity
+33-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:20:9-22:68
+34            android:name="com.wicak.plito.ui.materi.kunci.video.VideoKunciKombi"
+34-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:20:19-72
+35            android:screenOrientation="landscape"
+35-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:21:13-50
+36            android:theme="@style/AppTheme.NoActionBar" />
+36-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:22:13-56
+37        <activity
+37-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:23:9-25:68
+38            android:name="com.wicak.plito.ui.materi.kunci.video.VideoKunciRing"
+38-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:23:19-71
+39            android:screenOrientation="landscape"
+39-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:24:13-50
+40            android:theme="@style/AppTheme.NoActionBar" />
+40-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:25:13-56
+41        <activity
+41-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:26:9-28:68
+42            android:name="com.wicak.plito.ui.materi.kunci.video.VideoSocket"
+42-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:26:19-68
+43            android:screenOrientation="landscape"
+43-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:27:13-50
+44            android:theme="@style/AppTheme.NoActionBar" />
+44-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:28:13-56
+45        <activity
+45-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:29:9-31:68
+46            android:name="com.wicak.plito.ui.materi.kunci.video.VideoRachet"
+46-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:29:19-68
+47            android:screenOrientation="landscape"
+47-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:30:13-50
+48            android:theme="@style/AppTheme.NoActionBar" />
+48-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:31:13-56
 49        <activity
-49-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:35:9-37:61
-50            android:name="com.wicak.plito.BottomActivity"
-50-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:36:13-43
-51            android:label="@string/title_activity_bottom" />
-51-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:37:13-58
-52        <activity
-52-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:38:9-39:69
-53            android:name="com.wicak.plito.SplashScreen"
-53-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:38:19-47
-54            android:theme="@style/AppTheme.NoActionBar" />
-54-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:39:13-56
-55        <activity android:name="com.wicak.plito.MainActivity" />
-55-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:40:9-50
-55-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:40:19-47
-56        <activity
-56-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\e4b89fdf0cd4aa94d7d4680d12e28d1d\jetified-firebase-auth-19.2.0\AndroidManifest.xml:24:9-31:50
-57            android:name="com.google.firebase.auth.internal.FederatedSignInActivity"
-57-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\e4b89fdf0cd4aa94d7d4680d12e28d1d\jetified-firebase-auth-19.2.0\AndroidManifest.xml:25:13-85
-58            android:excludeFromRecents="true"
-58-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\e4b89fdf0cd4aa94d7d4680d12e28d1d\jetified-firebase-auth-19.2.0\AndroidManifest.xml:26:13-46
-59            android:exported="true"
-59-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\e4b89fdf0cd4aa94d7d4680d12e28d1d\jetified-firebase-auth-19.2.0\AndroidManifest.xml:27:13-36
-60            android:launchMode="singleTask"
-60-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\e4b89fdf0cd4aa94d7d4680d12e28d1d\jetified-firebase-auth-19.2.0\AndroidManifest.xml:28:13-44
-61            android:permission="com.google.firebase.auth.api.gms.permission.LAUNCH_FEDERATED_SIGN_IN"
-61-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\e4b89fdf0cd4aa94d7d4680d12e28d1d\jetified-firebase-auth-19.2.0\AndroidManifest.xml:29:13-102
-62            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-62-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\e4b89fdf0cd4aa94d7d4680d12e28d1d\jetified-firebase-auth-19.2.0\AndroidManifest.xml:30:13-72
-63
-64        <service
-64-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\e4b89fdf0cd4aa94d7d4680d12e28d1d\jetified-firebase-auth-19.2.0\AndroidManifest.xml:33:9-39:19
-65            android:name="com.google.firebase.components.ComponentDiscoveryService"
-65-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\e4b89fdf0cd4aa94d7d4680d12e28d1d\jetified-firebase-auth-19.2.0\AndroidManifest.xml:34:13-84
-66            android:directBootAware="true"
-66-->[com.google.firebase:firebase-common:19.5.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\d783eb5e4d25e462c5ff8a9ddfc544e8\jetified-firebase-common-19.5.0\AndroidManifest.xml:35:13-43
-67            android:exported="false" >
-67-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\e4b89fdf0cd4aa94d7d4680d12e28d1d\jetified-firebase-auth-19.2.0\AndroidManifest.xml:35:13-37
-68            <meta-data
-68-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\e4b89fdf0cd4aa94d7d4680d12e28d1d\jetified-firebase-auth-19.2.0\AndroidManifest.xml:36:13-38:85
-69                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
-69-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\e4b89fdf0cd4aa94d7d4680d12e28d1d\jetified-firebase-auth-19.2.0\AndroidManifest.xml:37:17-109
-70                android:value="com.google.firebase.components.ComponentRegistrar" />
-70-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\e4b89fdf0cd4aa94d7d4680d12e28d1d\jetified-firebase-auth-19.2.0\AndroidManifest.xml:38:17-82
-71            <meta-data
-71-->[com.google.firebase:firebase-database:19.5.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\57865f2684547697bcf0a2e378da5988\jetified-firebase-database-19.5.0\AndroidManifest.xml:32:13-34:85
-72                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
-72-->[com.google.firebase:firebase-database:19.5.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\57865f2684547697bcf0a2e378da5988\jetified-firebase-database-19.5.0\AndroidManifest.xml:33:17-109
-73                android:value="com.google.firebase.components.ComponentRegistrar" />
-73-->[com.google.firebase:firebase-database:19.5.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\57865f2684547697bcf0a2e378da5988\jetified-firebase-database-19.5.0\AndroidManifest.xml:34:17-82
-74            <meta-data
-74-->[com.google.firebase:firebase-config:19.2.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\e1aa1ca0c37452373985dcfb28aafa38\jetified-firebase-config-19.2.0\AndroidManifest.xml:32:13-34:85
-75                android:name="com.google.firebase.components:com.google.firebase.remoteconfig.RemoteConfigRegistrar"
-75-->[com.google.firebase:firebase-config:19.2.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\e1aa1ca0c37452373985dcfb28aafa38\jetified-firebase-config-19.2.0\AndroidManifest.xml:33:17-117
-76                android:value="com.google.firebase.components.ComponentRegistrar" />
-76-->[com.google.firebase:firebase-config:19.2.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\e1aa1ca0c37452373985dcfb28aafa38\jetified-firebase-config-19.2.0\AndroidManifest.xml:34:17-82
-77            <meta-data
-77-->[com.google.firebase:firebase-storage:19.2.1] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\3c49246819d89d16c5086085c5a36d4c\jetified-firebase-storage-19.2.1\AndroidManifest.xml:33:13-35:85
-78                android:name="com.google.firebase.components:com.google.firebase.storage.StorageRegistrar"
-78-->[com.google.firebase:firebase-storage:19.2.1] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\3c49246819d89d16c5086085c5a36d4c\jetified-firebase-storage-19.2.1\AndroidManifest.xml:34:17-107
-79                android:value="com.google.firebase.components.ComponentRegistrar" />
-79-->[com.google.firebase:firebase-storage:19.2.1] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\3c49246819d89d16c5086085c5a36d4c\jetified-firebase-storage-19.2.1\AndroidManifest.xml:35:17-82
-80            <meta-data
-80-->[com.google.firebase:firebase-firestore:22.0.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\7b396bb215b803305333f11cee85c0f1\jetified-firebase-firestore-22.0.0\AndroidManifest.xml:20:13-22:85
-81                android:name="com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar"
-81-->[com.google.firebase:firebase-firestore:22.0.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\7b396bb215b803305333f11cee85c0f1\jetified-firebase-firestore-22.0.0\AndroidManifest.xml:21:17-111
-82                android:value="com.google.firebase.components.ComponentRegistrar" />
-82-->[com.google.firebase:firebase-firestore:22.0.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\7b396bb215b803305333f11cee85c0f1\jetified-firebase-firestore-22.0.0\AndroidManifest.xml:22:17-82
-83            <meta-data
-83-->[com.google.android.gms:play-services-measurement-api:17.5.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\29d033bc80f7fe3bdfce534879e09440\jetified-play-services-measurement-api-17.5.0\AndroidManifest.xml:30:13-32:85
-84                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
-84-->[com.google.android.gms:play-services-measurement-api:17.5.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\29d033bc80f7fe3bdfce534879e09440\jetified-play-services-measurement-api-17.5.0\AndroidManifest.xml:31:17-139
-85                android:value="com.google.firebase.components.ComponentRegistrar" />
-85-->[com.google.android.gms:play-services-measurement-api:17.5.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\29d033bc80f7fe3bdfce534879e09440\jetified-play-services-measurement-api-17.5.0\AndroidManifest.xml:32:17-82
-86            <meta-data
-86-->[com.google.firebase:firebase-installations:16.3.2] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\c324646d0ddf8eb4ab30f3b6bd1343aa\jetified-firebase-installations-16.3.2\AndroidManifest.xml:17:13-19:85
-87                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
-87-->[com.google.firebase:firebase-installations:16.3.2] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\c324646d0ddf8eb4ab30f3b6bd1343aa\jetified-firebase-installations-16.3.2\AndroidManifest.xml:18:17-127
-88                android:value="com.google.firebase.components.ComponentRegistrar" />
-88-->[com.google.firebase:firebase-installations:16.3.2] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\c324646d0ddf8eb4ab30f3b6bd1343aa\jetified-firebase-installations-16.3.2\AndroidManifest.xml:19:17-82
-89            <meta-data
-89-->[com.google.firebase:firebase-abt:19.1.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\9fbda3305230e1c68fbba3a982164463\jetified-firebase-abt-19.1.0\AndroidManifest.xml:13:13-15:85
-90                android:name="com.google.firebase.components:com.google.firebase.abt.component.AbtRegistrar"
-90-->[com.google.firebase:firebase-abt:19.1.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\9fbda3305230e1c68fbba3a982164463\jetified-firebase-abt-19.1.0\AndroidManifest.xml:14:17-109
-91                android:value="com.google.firebase.components.ComponentRegistrar" />
-91-->[com.google.firebase:firebase-abt:19.1.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\9fbda3305230e1c68fbba3a982164463\jetified-firebase-abt-19.1.0\AndroidManifest.xml:15:17-82
-92            <!--
-93                This registrar is not defined in the dynamic-module-support sdk itself to allow non-firebase
-94                clients to use it as well, by defining this registrar in their own core/common library.
-95            -->
-96            <meta-data
-96-->[com.google.firebase:firebase-common:19.5.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\d783eb5e4d25e462c5ff8a9ddfc544e8\jetified-firebase-common-19.5.0\AndroidManifest.xml:43:13-45:85
-97                android:name="com.google.firebase.components:com.google.firebase.dynamicloading.DynamicLoadingRegistrar"
-97-->[com.google.firebase:firebase-common:19.5.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\d783eb5e4d25e462c5ff8a9ddfc544e8\jetified-firebase-common-19.5.0\AndroidManifest.xml:44:17-121
-98                android:value="com.google.firebase.components.ComponentRegistrar" />
-98-->[com.google.firebase:firebase-common:19.5.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\d783eb5e4d25e462c5ff8a9ddfc544e8\jetified-firebase-common-19.5.0\AndroidManifest.xml:45:17-82
-99        </service>
-100
-101        <activity
-101-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\d92a27efcac738b4f280b9ad0c07bda7\jetified-play-services-base-17.1.0\AndroidManifest.xml:23:9-26:75
-102            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-102-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\d92a27efcac738b4f280b9ad0c07bda7\jetified-play-services-base-17.1.0\AndroidManifest.xml:24:13-79
-103            android:exported="false"
-103-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\d92a27efcac738b4f280b9ad0c07bda7\jetified-play-services-base-17.1.0\AndroidManifest.xml:25:13-37
-104            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-104-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\d92a27efcac738b4f280b9ad0c07bda7\jetified-play-services-base-17.1.0\AndroidManifest.xml:26:13-72
-105
-106        <receiver
-106-->[com.google.android.gms:play-services-measurement:17.5.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\b7b92f2f9514564c9583ba6c5d9e72ab\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:29:9-33:20
-107            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
-107-->[com.google.android.gms:play-services-measurement:17.5.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\b7b92f2f9514564c9583ba6c5d9e72ab\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:30:13-85
-108            android:enabled="true"
-108-->[com.google.android.gms:play-services-measurement:17.5.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\b7b92f2f9514564c9583ba6c5d9e72ab\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:31:13-35
-109            android:exported="false" >
-109-->[com.google.android.gms:play-services-measurement:17.5.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\b7b92f2f9514564c9583ba6c5d9e72ab\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:32:13-37
-110        </receiver>
-111
-112        <service
-112-->[com.google.android.gms:play-services-measurement:17.5.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\b7b92f2f9514564c9583ba6c5d9e72ab\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:35:9-38:40
-113            android:name="com.google.android.gms.measurement.AppMeasurementService"
-113-->[com.google.android.gms:play-services-measurement:17.5.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\b7b92f2f9514564c9583ba6c5d9e72ab\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:36:13-84
-114            android:enabled="true"
-114-->[com.google.android.gms:play-services-measurement:17.5.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\b7b92f2f9514564c9583ba6c5d9e72ab\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:37:13-35
-115            android:exported="false" />
-115-->[com.google.android.gms:play-services-measurement:17.5.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\b7b92f2f9514564c9583ba6c5d9e72ab\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:38:13-37
-116        <service
-116-->[com.google.android.gms:play-services-measurement:17.5.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\b7b92f2f9514564c9583ba6c5d9e72ab\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:39:9-43:72
-117            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
-117-->[com.google.android.gms:play-services-measurement:17.5.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\b7b92f2f9514564c9583ba6c5d9e72ab\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:40:13-87
-118            android:enabled="true"
-118-->[com.google.android.gms:play-services-measurement:17.5.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\b7b92f2f9514564c9583ba6c5d9e72ab\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:41:13-35
-119            android:exported="false"
-119-->[com.google.android.gms:play-services-measurement:17.5.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\b7b92f2f9514564c9583ba6c5d9e72ab\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:42:13-37
-120            android:permission="android.permission.BIND_JOB_SERVICE" />
-120-->[com.google.android.gms:play-services-measurement:17.5.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\b7b92f2f9514564c9583ba6c5d9e72ab\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:43:13-69
-121
-122        <provider
-122-->[com.google.firebase:firebase-common:19.5.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\d783eb5e4d25e462c5ff8a9ddfc544e8\jetified-firebase-common-19.5.0\AndroidManifest.xml:26:9-31:39
-123            android:name="com.google.firebase.provider.FirebaseInitProvider"
-123-->[com.google.firebase:firebase-common:19.5.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\d783eb5e4d25e462c5ff8a9ddfc544e8\jetified-firebase-common-19.5.0\AndroidManifest.xml:27:13-77
-124            android:authorities="com.wicak.plito.firebaseinitprovider"
-124-->[com.google.firebase:firebase-common:19.5.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\d783eb5e4d25e462c5ff8a9ddfc544e8\jetified-firebase-common-19.5.0\AndroidManifest.xml:28:13-72
-125            android:directBootAware="true"
-125-->[com.google.firebase:firebase-common:19.5.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\d783eb5e4d25e462c5ff8a9ddfc544e8\jetified-firebase-common-19.5.0\AndroidManifest.xml:29:13-43
-126            android:exported="false"
-126-->[com.google.firebase:firebase-common:19.5.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\d783eb5e4d25e462c5ff8a9ddfc544e8\jetified-firebase-common-19.5.0\AndroidManifest.xml:30:13-37
-127            android:initOrder="100" />
-127-->[com.google.firebase:firebase-common:19.5.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\d783eb5e4d25e462c5ff8a9ddfc544e8\jetified-firebase-common-19.5.0\AndroidManifest.xml:31:13-36
-128
-129        <meta-data
-129-->[com.google.android.gms:play-services-basement:17.2.1] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\002ce9cd568f5ca2868e28af67b3f6fc\jetified-play-services-basement-17.2.1\AndroidManifest.xml:23:9-25:69
-130            android:name="com.google.android.gms.version"
-130-->[com.google.android.gms:play-services-basement:17.2.1] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\002ce9cd568f5ca2868e28af67b3f6fc\jetified-play-services-basement-17.2.1\AndroidManifest.xml:24:13-58
-131            android:value="@integer/google_play_services_version" />
-131-->[com.google.android.gms:play-services-basement:17.2.1] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\002ce9cd568f5ca2868e28af67b3f6fc\jetified-play-services-basement-17.2.1\AndroidManifest.xml:25:13-66
-132
-133        <provider
-133-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\750f1a1e9f5b24d221117033f9c85515\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:25:9-29:43
-134            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
-134-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\750f1a1e9f5b24d221117033f9c85515\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:26:13-79
-135            android:authorities="com.wicak.plito.lifecycle-process"
-135-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\750f1a1e9f5b24d221117033f9c85515\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:27:13-69
-136            android:exported="false"
-136-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\750f1a1e9f5b24d221117033f9c85515\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:28:13-37
-137            android:multiprocess="true" />
-137-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\750f1a1e9f5b24d221117033f9c85515\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:29:13-40
-138    </application>
-139
-140</manifest>
+49-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:32:9-34:68
+50            android:name="com.wicak.plito.ui.materi.kunci.video.VideoRoda"
+50-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:32:19-66
+51            android:screenOrientation="landscape"
+51-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:33:13-50
+52            android:theme="@style/AppTheme.NoActionBar" />
+52-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:34:13-56
+53        <activity
+53-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:35:9-37:68
+54            android:name="com.wicak.plito.ui.materi.kunci.video.VideoAllen"
+54-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:35:19-67
+55            android:screenOrientation="landscape"
+55-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:36:13-50
+56            android:theme="@style/AppTheme.NoActionBar" />
+56-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:37:13-56
+57        <activity
+57-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:38:9-40:68
+58            android:name="com.wicak.plito.ui.materi.kunci.video.VideoInggris"
+58-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:38:19-69
+59            android:screenOrientation="landscape"
+59-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:39:13-50
+60            android:theme="@style/AppTheme.NoActionBar" />
+60-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:40:13-56
+61        <activity
+61-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:41:9-43:68
+62            android:name="com.wicak.plito.ui.materi.kunci.video.VideoNipel"
+62-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:41:19-67
+63            android:screenOrientation="landscape"
+63-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:42:13-50
+64            android:theme="@style/AppTheme.NoActionBar" />
+64-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:43:13-56
+65        <activity android:name="com.wicak.plito.ui.chat.ChatMessage" />
+65-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:44:9-57
+65-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:44:19-54
+66        <activity
+66-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:45:9-47:68
+67            android:name="com.wicak.plito.SignInActivity"
+67-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:46:13-43
+68            android:theme="@style/AppTheme.NoActionBar" />
+68-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:47:13-56
+69        <activity
+69-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:48:9-50:59
+70            android:name="com.wicak.plito.SignUpActivity"
+70-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:49:13-43
+71            android:theme="@style/AppTheme.NoActionBar" />
+71-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:50:13-56
+72        <activity android:name="com.wicak.plito.ui.materi.tang.MateriEmpat" />
+72-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:51:9-64
+72-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:51:19-61
+73        <activity android:name="com.wicak.plito.ui.materi.extention.MateriLima" />
+73-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:52:9-68
+73-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:52:19-65
+74        <activity android:name="com.wicak.plito.ui.materi.obeng.MateriTiga" />
+74-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:53:9-64
+74-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:53:19-61
+75        <activity android:name="com.wicak.plito.ui.materi.palu.MateriDua" />
+75-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:54:9-62
+75-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:54:19-59
+76        <activity android:name="com.wicak.plito.ui.materi.kunci.MateriSatu" />
+76-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:55:9-64
+76-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:55:19-61
+77        <activity
+77-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:56:9-59:59
+78            android:name="com.wicak.plito.ui.materi.kunci.TabsKunci"
+78-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:57:13-54
+79            android:label="Kunci"
+79-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:58:13-34
+80            android:theme="@style/AppTheme.NoActionBar" />
+80-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:59:13-56
+81        <activity
+81-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:60:9-63:59
+82            android:name="com.wicak.plito.ui.materi.palu.TabsPalu"
+82-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:61:13-52
+83            android:label="Palu"
+83-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:62:13-33
+84            android:theme="@style/AppTheme.NoActionBar" />
+84-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:63:13-56
+85        <activity
+85-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:64:9-67:59
+86            android:name="com.wicak.plito.ui.materi.extension.TabsExtension"
+86-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:65:13-62
+87            android:label="Extension"
+87-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:66:13-38
+88            android:theme="@style/AppTheme.NoActionBar" />
+88-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:67:13-56
+89        <activity
+89-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:68:9-71:59
+90            android:name="com.wicak.plito.ui.materi.tang.TabsTang"
+90-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:69:13-52
+91            android:label="Tang"
+91-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:70:13-33
+92            android:theme="@style/AppTheme.NoActionBar" />
+92-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:71:13-56
+93        <activity
+93-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:72:9-75:59
+94            android:name="com.wicak.plito.ui.materi.obeng.TabsObeng"
+94-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:73:13-54
+95            android:label="Obeng"
+95-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:74:13-34
+96            android:theme="@style/AppTheme.NoActionBar" />
+96-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:75:13-56
+97        <activity android:name="com.wicak.plito.ui.quiz.HasilKuis" />
+97-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:76:9-55
+97-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:76:19-52
+98        <activity android:name="com.wicak.plito.ui.quiz.MulaiKuis" />
+98-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:77:9-55
+98-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:77:19-52
+99        <activity
+99-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:78:9-80:61
+100            android:name="com.wicak.plito.BottomActivity"
+100-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:79:13-43
+101            android:label="@string/title_activity_bottom" />
+101-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:80:13-58
+102        <activity
+102-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:81:9-89:20
+103            android:name="com.wicak.plito.SplashScreen"
+103-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:82:13-41
+104            android:theme="@style/AppTheme.NoActionBar" >
+104-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:83:13-56
+105            <intent-filter>
+105-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:84:13-88:29
+106                <action android:name="android.intent.action.MAIN" />
+106-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:85:17-69
+106-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:85:25-66
+107
+108                <category android:name="android.intent.category.LAUNCHER" />
+108-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:87:17-77
+108-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:87:27-74
+109            </intent-filter>
+110        </activity>
+111        <activity android:name="com.wicak.plito.MainActivity" />
+111-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:90:9-50
+111-->C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:90:19-47
+112        <activity
+112-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\e4b89fdf0cd4aa94d7d4680d12e28d1d\jetified-firebase-auth-19.2.0\AndroidManifest.xml:24:9-31:50
+113            android:name="com.google.firebase.auth.internal.FederatedSignInActivity"
+113-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\e4b89fdf0cd4aa94d7d4680d12e28d1d\jetified-firebase-auth-19.2.0\AndroidManifest.xml:25:13-85
+114            android:excludeFromRecents="true"
+114-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\e4b89fdf0cd4aa94d7d4680d12e28d1d\jetified-firebase-auth-19.2.0\AndroidManifest.xml:26:13-46
+115            android:exported="true"
+115-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\e4b89fdf0cd4aa94d7d4680d12e28d1d\jetified-firebase-auth-19.2.0\AndroidManifest.xml:27:13-36
+116            android:launchMode="singleTask"
+116-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\e4b89fdf0cd4aa94d7d4680d12e28d1d\jetified-firebase-auth-19.2.0\AndroidManifest.xml:28:13-44
+117            android:permission="com.google.firebase.auth.api.gms.permission.LAUNCH_FEDERATED_SIGN_IN"
+117-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\e4b89fdf0cd4aa94d7d4680d12e28d1d\jetified-firebase-auth-19.2.0\AndroidManifest.xml:29:13-102
+118            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+118-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\e4b89fdf0cd4aa94d7d4680d12e28d1d\jetified-firebase-auth-19.2.0\AndroidManifest.xml:30:13-72
+119
+120        <service
+120-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\e4b89fdf0cd4aa94d7d4680d12e28d1d\jetified-firebase-auth-19.2.0\AndroidManifest.xml:33:9-39:19
+121            android:name="com.google.firebase.components.ComponentDiscoveryService"
+121-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\e4b89fdf0cd4aa94d7d4680d12e28d1d\jetified-firebase-auth-19.2.0\AndroidManifest.xml:34:13-84
+122            android:directBootAware="true"
+122-->[com.google.firebase:firebase-common:19.5.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\d783eb5e4d25e462c5ff8a9ddfc544e8\jetified-firebase-common-19.5.0\AndroidManifest.xml:35:13-43
+123            android:exported="false" >
+123-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\e4b89fdf0cd4aa94d7d4680d12e28d1d\jetified-firebase-auth-19.2.0\AndroidManifest.xml:35:13-37
+124            <meta-data
+124-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\e4b89fdf0cd4aa94d7d4680d12e28d1d\jetified-firebase-auth-19.2.0\AndroidManifest.xml:36:13-38:85
+125                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+125-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\e4b89fdf0cd4aa94d7d4680d12e28d1d\jetified-firebase-auth-19.2.0\AndroidManifest.xml:37:17-109
+126                android:value="com.google.firebase.components.ComponentRegistrar" />
+126-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\e4b89fdf0cd4aa94d7d4680d12e28d1d\jetified-firebase-auth-19.2.0\AndroidManifest.xml:38:17-82
+127            <meta-data
+127-->[com.google.firebase:firebase-database:19.5.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\57865f2684547697bcf0a2e378da5988\jetified-firebase-database-19.5.0\AndroidManifest.xml:32:13-34:85
+128                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+128-->[com.google.firebase:firebase-database:19.5.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\57865f2684547697bcf0a2e378da5988\jetified-firebase-database-19.5.0\AndroidManifest.xml:33:17-109
+129                android:value="com.google.firebase.components.ComponentRegistrar" />
+129-->[com.google.firebase:firebase-database:19.5.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\57865f2684547697bcf0a2e378da5988\jetified-firebase-database-19.5.0\AndroidManifest.xml:34:17-82
+130            <meta-data
+130-->[com.google.firebase:firebase-config:19.2.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\e1aa1ca0c37452373985dcfb28aafa38\jetified-firebase-config-19.2.0\AndroidManifest.xml:32:13-34:85
+131                android:name="com.google.firebase.components:com.google.firebase.remoteconfig.RemoteConfigRegistrar"
+131-->[com.google.firebase:firebase-config:19.2.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\e1aa1ca0c37452373985dcfb28aafa38\jetified-firebase-config-19.2.0\AndroidManifest.xml:33:17-117
+132                android:value="com.google.firebase.components.ComponentRegistrar" />
+132-->[com.google.firebase:firebase-config:19.2.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\e1aa1ca0c37452373985dcfb28aafa38\jetified-firebase-config-19.2.0\AndroidManifest.xml:34:17-82
+133            <meta-data
+133-->[com.google.firebase:firebase-storage:19.2.1] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\3c49246819d89d16c5086085c5a36d4c\jetified-firebase-storage-19.2.1\AndroidManifest.xml:33:13-35:85
+134                android:name="com.google.firebase.components:com.google.firebase.storage.StorageRegistrar"
+134-->[com.google.firebase:firebase-storage:19.2.1] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\3c49246819d89d16c5086085c5a36d4c\jetified-firebase-storage-19.2.1\AndroidManifest.xml:34:17-107
+135                android:value="com.google.firebase.components.ComponentRegistrar" />
+135-->[com.google.firebase:firebase-storage:19.2.1] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\3c49246819d89d16c5086085c5a36d4c\jetified-firebase-storage-19.2.1\AndroidManifest.xml:35:17-82
+136            <meta-data
+136-->[com.google.firebase:firebase-firestore:22.0.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\7b396bb215b803305333f11cee85c0f1\jetified-firebase-firestore-22.0.0\AndroidManifest.xml:20:13-22:85
+137                android:name="com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar"
+137-->[com.google.firebase:firebase-firestore:22.0.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\7b396bb215b803305333f11cee85c0f1\jetified-firebase-firestore-22.0.0\AndroidManifest.xml:21:17-111
+138                android:value="com.google.firebase.components.ComponentRegistrar" />
+138-->[com.google.firebase:firebase-firestore:22.0.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\7b396bb215b803305333f11cee85c0f1\jetified-firebase-firestore-22.0.0\AndroidManifest.xml:22:17-82
+139            <meta-data
+139-->[com.google.android.gms:play-services-measurement-api:17.5.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\29d033bc80f7fe3bdfce534879e09440\jetified-play-services-measurement-api-17.5.0\AndroidManifest.xml:30:13-32:85
+140                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+140-->[com.google.android.gms:play-services-measurement-api:17.5.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\29d033bc80f7fe3bdfce534879e09440\jetified-play-services-measurement-api-17.5.0\AndroidManifest.xml:31:17-139
+141                android:value="com.google.firebase.components.ComponentRegistrar" />
+141-->[com.google.android.gms:play-services-measurement-api:17.5.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\29d033bc80f7fe3bdfce534879e09440\jetified-play-services-measurement-api-17.5.0\AndroidManifest.xml:32:17-82
+142            <meta-data
+142-->[com.google.firebase:firebase-installations:16.3.2] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\c324646d0ddf8eb4ab30f3b6bd1343aa\jetified-firebase-installations-16.3.2\AndroidManifest.xml:17:13-19:85
+143                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+143-->[com.google.firebase:firebase-installations:16.3.2] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\c324646d0ddf8eb4ab30f3b6bd1343aa\jetified-firebase-installations-16.3.2\AndroidManifest.xml:18:17-127
+144                android:value="com.google.firebase.components.ComponentRegistrar" />
+144-->[com.google.firebase:firebase-installations:16.3.2] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\c324646d0ddf8eb4ab30f3b6bd1343aa\jetified-firebase-installations-16.3.2\AndroidManifest.xml:19:17-82
+145            <meta-data
+145-->[com.google.firebase:firebase-abt:19.1.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\9fbda3305230e1c68fbba3a982164463\jetified-firebase-abt-19.1.0\AndroidManifest.xml:13:13-15:85
+146                android:name="com.google.firebase.components:com.google.firebase.abt.component.AbtRegistrar"
+146-->[com.google.firebase:firebase-abt:19.1.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\9fbda3305230e1c68fbba3a982164463\jetified-firebase-abt-19.1.0\AndroidManifest.xml:14:17-109
+147                android:value="com.google.firebase.components.ComponentRegistrar" />
+147-->[com.google.firebase:firebase-abt:19.1.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\9fbda3305230e1c68fbba3a982164463\jetified-firebase-abt-19.1.0\AndroidManifest.xml:15:17-82
+148            <!--
+149                This registrar is not defined in the dynamic-module-support sdk itself to allow non-firebase
+150                clients to use it as well, by defining this registrar in their own core/common library.
+151            -->
+152            <meta-data
+152-->[com.google.firebase:firebase-common:19.5.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\d783eb5e4d25e462c5ff8a9ddfc544e8\jetified-firebase-common-19.5.0\AndroidManifest.xml:43:13-45:85
+153                android:name="com.google.firebase.components:com.google.firebase.dynamicloading.DynamicLoadingRegistrar"
+153-->[com.google.firebase:firebase-common:19.5.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\d783eb5e4d25e462c5ff8a9ddfc544e8\jetified-firebase-common-19.5.0\AndroidManifest.xml:44:17-121
+154                android:value="com.google.firebase.components.ComponentRegistrar" />
+154-->[com.google.firebase:firebase-common:19.5.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\d783eb5e4d25e462c5ff8a9ddfc544e8\jetified-firebase-common-19.5.0\AndroidManifest.xml:45:17-82
+155        </service>
+156
+157        <activity
+157-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\d92a27efcac738b4f280b9ad0c07bda7\jetified-play-services-base-17.1.0\AndroidManifest.xml:23:9-26:75
+158            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+158-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\d92a27efcac738b4f280b9ad0c07bda7\jetified-play-services-base-17.1.0\AndroidManifest.xml:24:13-79
+159            android:exported="false"
+159-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\d92a27efcac738b4f280b9ad0c07bda7\jetified-play-services-base-17.1.0\AndroidManifest.xml:25:13-37
+160            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+160-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\d92a27efcac738b4f280b9ad0c07bda7\jetified-play-services-base-17.1.0\AndroidManifest.xml:26:13-72
+161
+162        <receiver
+162-->[com.google.android.gms:play-services-measurement:17.5.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\b7b92f2f9514564c9583ba6c5d9e72ab\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:29:9-33:20
+163            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+163-->[com.google.android.gms:play-services-measurement:17.5.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\b7b92f2f9514564c9583ba6c5d9e72ab\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:30:13-85
+164            android:enabled="true"
+164-->[com.google.android.gms:play-services-measurement:17.5.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\b7b92f2f9514564c9583ba6c5d9e72ab\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:31:13-35
+165            android:exported="false" >
+165-->[com.google.android.gms:play-services-measurement:17.5.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\b7b92f2f9514564c9583ba6c5d9e72ab\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:32:13-37
+166        </receiver>
+167
+168        <service
+168-->[com.google.android.gms:play-services-measurement:17.5.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\b7b92f2f9514564c9583ba6c5d9e72ab\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:35:9-38:40
+169            android:name="com.google.android.gms.measurement.AppMeasurementService"
+169-->[com.google.android.gms:play-services-measurement:17.5.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\b7b92f2f9514564c9583ba6c5d9e72ab\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:36:13-84
+170            android:enabled="true"
+170-->[com.google.android.gms:play-services-measurement:17.5.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\b7b92f2f9514564c9583ba6c5d9e72ab\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:37:13-35
+171            android:exported="false" />
+171-->[com.google.android.gms:play-services-measurement:17.5.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\b7b92f2f9514564c9583ba6c5d9e72ab\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:38:13-37
+172        <service
+172-->[com.google.android.gms:play-services-measurement:17.5.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\b7b92f2f9514564c9583ba6c5d9e72ab\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:39:9-43:72
+173            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+173-->[com.google.android.gms:play-services-measurement:17.5.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\b7b92f2f9514564c9583ba6c5d9e72ab\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:40:13-87
+174            android:enabled="true"
+174-->[com.google.android.gms:play-services-measurement:17.5.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\b7b92f2f9514564c9583ba6c5d9e72ab\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:41:13-35
+175            android:exported="false"
+175-->[com.google.android.gms:play-services-measurement:17.5.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\b7b92f2f9514564c9583ba6c5d9e72ab\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:42:13-37
+176            android:permission="android.permission.BIND_JOB_SERVICE" />
+176-->[com.google.android.gms:play-services-measurement:17.5.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\b7b92f2f9514564c9583ba6c5d9e72ab\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:43:13-69
+177
+178        <provider
+178-->[com.google.firebase:firebase-common:19.5.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\d783eb5e4d25e462c5ff8a9ddfc544e8\jetified-firebase-common-19.5.0\AndroidManifest.xml:26:9-31:39
+179            android:name="com.google.firebase.provider.FirebaseInitProvider"
+179-->[com.google.firebase:firebase-common:19.5.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\d783eb5e4d25e462c5ff8a9ddfc544e8\jetified-firebase-common-19.5.0\AndroidManifest.xml:27:13-77
+180            android:authorities="com.wicak.plito.firebaseinitprovider"
+180-->[com.google.firebase:firebase-common:19.5.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\d783eb5e4d25e462c5ff8a9ddfc544e8\jetified-firebase-common-19.5.0\AndroidManifest.xml:28:13-72
+181            android:directBootAware="true"
+181-->[com.google.firebase:firebase-common:19.5.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\d783eb5e4d25e462c5ff8a9ddfc544e8\jetified-firebase-common-19.5.0\AndroidManifest.xml:29:13-43
+182            android:exported="false"
+182-->[com.google.firebase:firebase-common:19.5.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\d783eb5e4d25e462c5ff8a9ddfc544e8\jetified-firebase-common-19.5.0\AndroidManifest.xml:30:13-37
+183            android:initOrder="100" />
+183-->[com.google.firebase:firebase-common:19.5.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\d783eb5e4d25e462c5ff8a9ddfc544e8\jetified-firebase-common-19.5.0\AndroidManifest.xml:31:13-36
+184
+185        <meta-data
+185-->[com.google.android.gms:play-services-basement:17.2.1] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\002ce9cd568f5ca2868e28af67b3f6fc\jetified-play-services-basement-17.2.1\AndroidManifest.xml:23:9-25:69
+186            android:name="com.google.android.gms.version"
+186-->[com.google.android.gms:play-services-basement:17.2.1] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\002ce9cd568f5ca2868e28af67b3f6fc\jetified-play-services-basement-17.2.1\AndroidManifest.xml:24:13-58
+187            android:value="@integer/google_play_services_version" />
+187-->[com.google.android.gms:play-services-basement:17.2.1] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\002ce9cd568f5ca2868e28af67b3f6fc\jetified-play-services-basement-17.2.1\AndroidManifest.xml:25:13-66
+188
+189        <provider
+189-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\750f1a1e9f5b24d221117033f9c85515\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:25:9-29:43
+190            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+190-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\750f1a1e9f5b24d221117033f9c85515\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:26:13-79
+191            android:authorities="com.wicak.plito.lifecycle-process"
+191-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\750f1a1e9f5b24d221117033f9c85515\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:27:13-69
+192            android:exported="false"
+192-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\750f1a1e9f5b24d221117033f9c85515\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:28:13-37
+193            android:multiprocess="true" />
+193-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\750f1a1e9f5b24d221117033f9c85515\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:29:13-40
+194    </application>
+195
+196</manifest>

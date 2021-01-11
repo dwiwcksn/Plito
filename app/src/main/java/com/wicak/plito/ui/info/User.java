@@ -8,17 +8,20 @@ public class User {
     private String username;
     private String imageURL;
     private String email;
+    private String kodeKelas;
 
-    public User(String id, String username, String imageURL, String email) {
+    public User(String id, String username, String imageURL, String email, String kodeKelas) {
         this.id = id;
         this.username = username;
         this.imageURL = imageURL;
         this.email = email;
+        this.kodeKelas = kodeKelas;
     }
 
     public User(){
 
     }
+
 
     public String getId() {
         return id;
@@ -53,4 +56,11 @@ public class User {
     }
 
 
+    public String getKodeKelas() {
+        return kodeKelas;
+    }
+
+    public void setKodeKelas(String kodeKelas) {
+        this.kodeKelas = kodeKelas;
+    }
 }

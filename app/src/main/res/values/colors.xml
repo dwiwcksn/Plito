@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#6200EE</color>
-    <color name="colorPrimaryDark">#3700B3</color>
-    <color name="colorAccent">#03DAC5</color>
+<!--    <color name="colorPrimary">#6200EE</color>-->
+<!--    <color name="colorPrimaryDark">#3700B3</color>-->
+<!--    <color name="colorAccent">#03DAC5</color>-->
+
+    <color name="colorPrimary">#21302f</color>
+    <color name="colorPrimaryDark">#25c0b7</color>
+    <color name="colorAccent">#f8b24b</color>
+
+    <color name="warna_kulit">#f2f2f2</color>
+
+    <color name="grey2">#a0a5b9</color>
 
     <color name="white">#fff</color>
 
@@ -28,5 +36,8 @@
     <color name="blue2">#0D1B1E</color>
     <color name="blue3">#007991</color>
 
+    <color name="kode1">#4e51bf</color>
+    <color name="kode2">#ffe9ce</color>
+    <color name="kode3">#ff92a4</color>
 
 </resources>

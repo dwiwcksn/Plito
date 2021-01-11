@@ -34,7 +34,7 @@ import java.util.Map;
 
 public class SignUpActivity extends AppCompatActivity {
     public static final String TAG = "TAG";
-    private EditText mName, mEmail, mPass;
+    private EditText mName, mEmail, mPass, mKode;
     private TextView mTextView;
     private Button signUpButton;
     private ProgressBar progressBar;
@@ -52,6 +52,7 @@ public class SignUpActivity extends AppCompatActivity {
         mName = findViewById(R.id.editTextName);
         mEmail = findViewById(R.id.editTextEmail);
         mPass = findViewById(R.id.editTextPassword);
+        mKode =  findViewById(R.id.kodeKelas);
         mTextView =findViewById(R.id.textView4);
         progressBar = findViewById(R.id.progressBar);
         showPassword = findViewById(R.id.showPassUp);
@@ -92,13 +93,17 @@ public class SignUpActivity extends AppCompatActivity {
         final String email = mEmail.getText().toString();
         String pass = mPass.getText().toString();
         final String name = mName.getText().toString();
+        final String kode = mKode.getText().toString();
 
 
         if(TextUtils.isEmpty(email)){
             mEmail.setError("Email is Required.");
             return;
         }
-
+        if(TextUtils.isEmpty(kode)){
+            mKode.setError("Kode is Required.");
+            return;
+        }
         if(TextUtils.isEmpty(pass)){
             mPass.setError("Password is Required.");
             return;
@@ -127,6 +132,7 @@ public class SignUpActivity extends AppCompatActivity {
                     Map<String,Object> user = new HashMap<>();
                     user.put("id",userID);
                     user.put("username",name);
+                    user.put("kodeKelas",kode);
                     user.put("email",email);
                     user.put("imageURL","default");
 

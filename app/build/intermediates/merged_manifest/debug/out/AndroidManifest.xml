@@ -26,24 +26,74 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.wicak.plito.ui.materi.kunci.video.VideoKunciPas"
+            android:screenOrientation="landscape"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.wicak.plito.ui.materi.kunci.video.VideoKunciKombi"
+            android:screenOrientation="landscape"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.wicak.plito.ui.materi.kunci.video.VideoKunciRing"
+            android:screenOrientation="landscape"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.wicak.plito.ui.materi.kunci.video.VideoSocket"
+            android:screenOrientation="landscape"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.wicak.plito.ui.materi.kunci.video.VideoRachet"
+            android:screenOrientation="landscape"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.wicak.plito.ui.materi.kunci.video.VideoRoda"
+            android:screenOrientation="landscape"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.wicak.plito.ui.materi.kunci.video.VideoAllen"
+            android:screenOrientation="landscape"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.wicak.plito.ui.materi.kunci.video.VideoInggris"
+            android:screenOrientation="landscape"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.wicak.plito.ui.materi.kunci.video.VideoNipel"
+            android:screenOrientation="landscape"
+            android:theme="@style/AppTheme.NoActionBar" />
         <activity android:name="com.wicak.plito.ui.chat.ChatMessage" />
         <activity
             android:name="com.wicak.plito.SignInActivity"
-            android:theme="@style/AppTheme.NoActionBar" >
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
-        </activity>
+            android:theme="@style/AppTheme.NoActionBar" />
         <activity
             android:name="com.wicak.plito.SignUpActivity"
             android:theme="@style/AppTheme.NoActionBar" />
-        <activity android:name="com.wicak.plito.ui.materi.empat.MateriEmpat" />
-        <activity android:name="com.wicak.plito.ui.materi.lima.MateriLima" />
-        <activity android:name="com.wicak.plito.ui.materi.tiga.MateriTiga" />
-        <activity android:name="com.wicak.plito.ui.materi.dua.MateriDua" />
-        <activity android:name="com.wicak.plito.ui.materi.satu.MateriSatu" />
+        <activity android:name="com.wicak.plito.ui.materi.tang.MateriEmpat" />
+        <activity android:name="com.wicak.plito.ui.materi.extention.MateriLima" />
+        <activity android:name="com.wicak.plito.ui.materi.obeng.MateriTiga" />
+        <activity android:name="com.wicak.plito.ui.materi.palu.MateriDua" />
+        <activity android:name="com.wicak.plito.ui.materi.kunci.MateriSatu" />
+        <activity
+            android:name="com.wicak.plito.ui.materi.kunci.TabsKunci"
+            android:label="Kunci"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.wicak.plito.ui.materi.palu.TabsPalu"
+            android:label="Palu"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.wicak.plito.ui.materi.extension.TabsExtension"
+            android:label="Extension"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.wicak.plito.ui.materi.tang.TabsTang"
+            android:label="Tang"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.wicak.plito.ui.materi.obeng.TabsObeng"
+            android:label="Obeng"
+            android:theme="@style/AppTheme.NoActionBar" />
         <activity android:name="com.wicak.plito.ui.quiz.HasilKuis" />
         <activity android:name="com.wicak.plito.ui.quiz.MulaiKuis" />
         <activity
@@ -51,7 +101,13 @@
             android:label="@string/title_activity_bottom" />
         <activity
             android:name="com.wicak.plito.SplashScreen"
-            android:theme="@style/AppTheme.NoActionBar" />
+            android:theme="@style/AppTheme.NoActionBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
         <activity android:name="com.wicak.plito.MainActivity" />
         <activity
             android:name="com.google.firebase.auth.internal.FederatedSignInActivity"

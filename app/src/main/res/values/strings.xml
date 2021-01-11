@@ -14,4 +14,44 @@
     <string name="des_tujuan_hero">1. Aplikasi ini blablablabalbal/n2. Aplikasi ini untuk balsdaldasdalsda/n3. Aplikasi untuk abdlkashdalidhaoida/n4. Aplikasi ini untuk asdkjasgkdads</string>
     <string name="kasus_hero">Cara menggunakan aplikasi</string>
     <string name="des_kasus_hero">Simak tutorial berikut untuk dapat menggunakan aplikasi secara optimal</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+
+    <string name="video_socket">R19OFo8Wivs</string>
+    <string name="video_allen">R19OFo8Wivs</string>
+    <string name="video_roda">R19OFo8Wivs</string>
+    <string name="video_rachet">R19OFo8Wivs</string>
+    <string name="video_nipel">R19OFo8Wivs</string>
+    <string name="video_kombi">R19OFo8Wivs</string>
+    <string name="video_pas">AU0z8eiEAu8</string>
+    <string name="video_ring">R19OFo8Wivs</string>
+    <string name="video_inggris">R19OFo8Wivs</string>
+
+
+
+
+<!--    Halaman Kunci Pas-->
+    <string name="deskripsi_kunci">Kunci adalah bla bala bla blaa balalaa</string>
+    <string name="pengertian_kuncipas">R19OFo8Wivs</string>
+    <string name="jenis_kuncipas">R19OFo8Wivs</string>
+    <string name="perawatan_kuncipas">R19OFo8Wivs</string>
+    <string name="penggunaan_kuncipas">R19OFo8Wivs</string>
+
+
+    <string name="pengertian_kunciring">R19OFo8Wivs</string>
+    <string name="jenis_kunciring">R19OFo8Wivs</string>
+    <string name="perawatan_kunciring">R19OFo8Wivs</string>
+    <string name="penggunaan_kunciring">R19OFo8Wivs</string>
+
+    <string name="pengertian_kuncikombi">R19OFo8Wivs</string>
+    <string name="jenis_kuncikombi">R19OFo8Wivs</string>
+    <string name="perawatan_kuncikombi">R19OFo8Wivs</string>
+    <string name="penggunaan_kuncikombi">R19OFo8Wivs</string>
+
+    <string name="pengertian_palubesi">Palu Besi adalah sebuah besi yang ditempa menggunakan alat bantu lain</string>
+
+
+
 </resources>

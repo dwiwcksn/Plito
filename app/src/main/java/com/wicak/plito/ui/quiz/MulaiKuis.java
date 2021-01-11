@@ -78,7 +78,7 @@ public class MulaiKuis extends AppCompatActivity {
     private static final Integer[] img ={
             R.drawable.rb_a_checked,
             R.drawable.rb_a_checked,
-            R.drawable.rb_a_checked,
+            R.drawable.data_cleaning,
             R.drawable.rb_a_checked,
             R.drawable.rb_a_checked,
             R.drawable.rb_a_checked,

@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:2:1-43:12
-INJECTED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:2:1-43:12
-INJECTED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:2:1-43:12
-INJECTED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:2:1-43:12
+ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:2:1-93:12
+INJECTED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:2:1-93:12
+INJECTED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:2:1-93:12
+INJECTED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:2:1-93:12
 MERGED from [com.github.florent37:expansionpanel:1.2.4] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\08a99c1c160dfffca3aea9fc6acfe1bd\jetified-expansionpanel-1.2.4\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\fafe6fc6cf84c5b73938e7cfbec0e0d0\constraintlayout-2.0.1\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.navigation:navigation-ui:2.3.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\e5ff35c5be8c99afad1d3f4e0d46d627\navigation-ui-2.3.0\AndroidManifest.xml:17:1-24:12
@@ -86,25 +86,25 @@ MERGED from [androidx.print:print:1.0.0] C:\Users\Herla\.gradle\caches\transform
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\616513930b2d8570c7c0caf2b6f7c974\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.firebase:protolite-well-known-types:17.1.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\3c410805b211f565ddf8d6b49f7dd616\jetified-protolite-well-known-types-17.1.0\AndroidManifest.xml:2:1-11:12
 MERGED from [io.grpc:grpc-android:1.28.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\47a9b793fb482438f4facbefe890c2a3\jetified-grpc-android-1.28.0\AndroidManifest.xml:2:1-13:12
-INJECTED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:2:1-43:12
-INJECTED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:2:1-43:12
-INJECTED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:2:1-93:12
+INJECTED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:2:1-93:12
+INJECTED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:2:1-93:12
 	package
 		ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:3:5-30
 		INJECTED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:2:1-43:12
+		ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:2:1-93:12
 		INJECTED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:2:1-43:12
+		ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:2:1-93:12
 		INJECTED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:5:5-66
+ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:5:5-67
 MERGED from [com.pierfrancescosoffritti.androidyoutubeplayer:core:10.0.5] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\1fef9e95c8c64f4571d603f368c8d0be\jetified-core-10.0.5\AndroidManifest.xml:11:5-67
 MERGED from [com.pierfrancescosoffritti.androidyoutubeplayer:core:10.0.5] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\1fef9e95c8c64f4571d603f368c8d0be\jetified-core-10.0.5\AndroidManifest.xml:11:5-67
 MERGED from [com.google.firebase:firebase-database:19.5.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\57865f2684547697bcf0a2e378da5988\jetified-firebase-database-19.5.0\AndroidManifest.xml:26:5-67
@@ -128,15 +128,15 @@ MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.5.0] C:
 	android:name
 		ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:5:22-64
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:6:5-80
+ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:6:5-81
 	android:name
 		ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:6:22-78
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:7:5-79
+ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:7:5-80
 	android:name
 		ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:7:22-77
 application
-ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:9:5-41:19
+ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:9:5-91:19
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\fafe6fc6cf84c5b73938e7cfbec0e0d0\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\fafe6fc6cf84c5b73938e7cfbec0e0d0\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
 MERGED from [com.google.android.material:material:1.1.0] C:\Users\Herla\.gradle\caches\transforms-2\files-2.1\033fa273db51aa87cae83056de67d807\material-1.1.0\AndroidManifest.xml:22:5-20
@@ -215,76 +215,188 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\He
 		ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:16:9-40
 	android:name
 		ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:10:9-33
-activity#com.wicak.plito.ui.chat.ChatMessage
-ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:17:9-66
-	android:name
-		ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:17:19-54
-activity#com.wicak.plito.SignInActivity
-ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:18:9-25:20
+activity#com.wicak.plito.ui.materi.kunci.video.VideoKunciPas
+ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:17:9-19:68
+	android:screenOrientation
+		ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:18:13-50
 	android:theme
 		ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:19:13-56
 	android:name
-		ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:18:19-49
-intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:20:13-24:29
-action#android.intent.action.MAIN
-ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:21:17-69
+		ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:17:19-70
+activity#com.wicak.plito.ui.materi.kunci.video.VideoKunciKombi
+ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:20:9-22:68
+	android:screenOrientation
+		ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:21:13-50
+	android:theme
+		ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:22:13-56
 	android:name
-		ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:21:25-66
-category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:23:17-77
+		ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:20:19-72
+activity#com.wicak.plito.ui.materi.kunci.video.VideoKunciRing
+ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:23:9-25:68
+	android:screenOrientation
+		ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:24:13-50
+	android:theme
+		ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:25:13-56
 	android:name
-		ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:23:27-74
+		ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:23:19-71
+activity#com.wicak.plito.ui.materi.kunci.video.VideoSocket
+ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:26:9-28:68
+	android:screenOrientation
+		ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:27:13-50
+	android:theme
+		ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:28:13-56
+	android:name
+		ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:26:19-68
+activity#com.wicak.plito.ui.materi.kunci.video.VideoRachet
+ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:29:9-31:68
+	android:screenOrientation
+		ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:30:13-50
+	android:theme
+		ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:31:13-56
+	android:name
+		ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:29:19-68
+activity#com.wicak.plito.ui.materi.kunci.video.VideoRoda
+ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:32:9-34:68
+	android:screenOrientation
+		ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:33:13-50
+	android:theme
+		ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:34:13-56
+	android:name
+		ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:32:19-66
+activity#com.wicak.plito.ui.materi.kunci.video.VideoAllen
+ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:35:9-37:68
+	android:screenOrientation
+		ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:36:13-50
+	android:theme
+		ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:37:13-56
+	android:name
+		ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:35:19-67
+activity#com.wicak.plito.ui.materi.kunci.video.VideoInggris
+ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:38:9-40:68
+	android:screenOrientation
+		ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:39:13-50
+	android:theme
+		ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:40:13-56
+	android:name
+		ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:38:19-69
+activity#com.wicak.plito.ui.materi.kunci.video.VideoNipel
+ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:41:9-43:68
+	android:screenOrientation
+		ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:42:13-50
+	android:theme
+		ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:43:13-56
+	android:name
+		ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:41:19-67
+activity#com.wicak.plito.ui.chat.ChatMessage
+ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:44:9-57
+	android:name
+		ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:44:19-54
+activity#com.wicak.plito.SignInActivity
+ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:45:9-47:68
+	android:theme
+		ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:47:13-56
+	android:name
+		ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:46:13-43
 activity#com.wicak.plito.SignUpActivity
-ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:26:9-27:59
+ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:48:9-50:59
 	android:theme
-		ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:27:13-56
+		ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:50:13-56
 	android:name
-		ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:26:19-49
-activity#com.wicak.plito.ui.materi.empat.MateriEmpat
-ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:28:9-65
+		ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:49:13-43
+activity#com.wicak.plito.ui.materi.tang.MateriEmpat
+ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:51:9-64
 	android:name
-		ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:28:19-62
-activity#com.wicak.plito.ui.materi.lima.MateriLima
-ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:29:9-63
+		ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:51:19-61
+activity#com.wicak.plito.ui.materi.extention.MateriLima
+ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:52:9-68
 	android:name
-		ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:29:19-60
-activity#com.wicak.plito.ui.materi.tiga.MateriTiga
-ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:30:9-63
+		ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:52:19-65
+activity#com.wicak.plito.ui.materi.obeng.MateriTiga
+ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:53:9-64
 	android:name
-		ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:30:19-60
-activity#com.wicak.plito.ui.materi.dua.MateriDua
-ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:31:9-61
+		ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:53:19-61
+activity#com.wicak.plito.ui.materi.palu.MateriDua
+ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:54:9-62
 	android:name
-		ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:31:19-58
-activity#com.wicak.plito.ui.materi.satu.MateriSatu
-ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:32:9-63
+		ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:54:19-59
+activity#com.wicak.plito.ui.materi.kunci.MateriSatu
+ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:55:9-64
 	android:name
-		ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:32:19-60
-activity#com.wicak.plito.ui.quiz.HasilKuis
-ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:33:9-55
-	android:name
-		ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:33:19-52
-activity#com.wicak.plito.ui.quiz.MulaiKuis
-ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:34:9-55
-	android:name
-		ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:34:19-52
-activity#com.wicak.plito.BottomActivity
-ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:35:9-37:61
+		ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:55:19-61
+activity#com.wicak.plito.ui.materi.kunci.TabsKunci
+ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:56:9-59:59
 	android:label
-		ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:37:13-58
-	android:name
-		ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:36:13-43
-activity#com.wicak.plito.SplashScreen
-ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:38:9-39:69
+		ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:58:13-34
 	android:theme
-		ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:39:13-56
+		ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:59:13-56
 	android:name
-		ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:38:19-47
+		ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:57:13-54
+activity#com.wicak.plito.ui.materi.palu.TabsPalu
+ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:60:9-63:59
+	android:label
+		ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:62:13-33
+	android:theme
+		ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:63:13-56
+	android:name
+		ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:61:13-52
+activity#com.wicak.plito.ui.materi.extension.TabsExtension
+ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:64:9-67:59
+	android:label
+		ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:66:13-38
+	android:theme
+		ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:67:13-56
+	android:name
+		ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:65:13-62
+activity#com.wicak.plito.ui.materi.tang.TabsTang
+ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:68:9-71:59
+	android:label
+		ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:70:13-33
+	android:theme
+		ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:71:13-56
+	android:name
+		ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:69:13-52
+activity#com.wicak.plito.ui.materi.obeng.TabsObeng
+ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:72:9-75:59
+	android:label
+		ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:74:13-34
+	android:theme
+		ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:75:13-56
+	android:name
+		ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:73:13-54
+activity#com.wicak.plito.ui.quiz.HasilKuis
+ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:76:9-55
+	android:name
+		ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:76:19-52
+activity#com.wicak.plito.ui.quiz.MulaiKuis
+ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:77:9-55
+	android:name
+		ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:77:19-52
+activity#com.wicak.plito.BottomActivity
+ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:78:9-80:61
+	android:label
+		ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:80:13-58
+	android:name
+		ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:79:13-43
+activity#com.wicak.plito.SplashScreen
+ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:81:9-89:20
+	android:theme
+		ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:83:13-56
+	android:name
+		ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:82:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:84:13-88:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:85:17-69
+	android:name
+		ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:85:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:87:17-77
+	android:name
+		ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:87:27-74
 activity#com.wicak.plito.MainActivity
-ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:40:9-50
+ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:90:9-50
 	android:name
-		ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:40:19-47
+		ADDED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:90:19-47
 uses-sdk
 INJECTED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\Herla\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml
