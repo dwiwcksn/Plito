@@ -49,11 +49,11 @@ public class MateriFragment extends Fragment {
         MateriAdapter adapter = new MateriAdapter(this, lstMateri);
 
         rv.setAdapter(adapter);
-        lstMateri.add(new Materi("Kunci", "Categories 2", "Description", R.drawable.ic_notifications_black_24dp));
-        lstMateri.add(new Materi("Palu", "Categories 3", "Description", R.drawable.ic_dashboard_black_24dp));
-        lstMateri.add(new Materi("Obeng", "Categories 4", "Description", R.drawable.mood_bad));
-        lstMateri.add(new Materi("Tang", "Categories 4", "Description", R.drawable.mood_up));
-        lstMateri.add(new Materi("Extension", "Categories 1", "Description", R.drawable.ic_home_black_24dp));
+        lstMateri.add(new Materi("Kunci", "Categories 2", "Description", R.drawable.kunci));
+        lstMateri.add(new Materi("Palu", "Categories 3", "Description", R.drawable.palu));
+        lstMateri.add(new Materi("Obeng", "Categories 4", "Description", R.drawable.obeng));
+        lstMateri.add(new Materi("Tang", "Categories 4", "Description", R.drawable.tang));
+        lstMateri.add(new Materi("Additional", "Categories 1", "Description", R.drawable.add));
 
         return root;
 

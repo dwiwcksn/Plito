@@ -4,7 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    android:background="@color/white"
+    android:background="@color/bg1"
     tools:context=".ui.materi.kunci.Pas">
 
     <ScrollView
@@ -140,7 +140,7 @@
                             android:layout_centerVertical="true"
                             android:layout_height="wrap_content"
                             android:layout_width="wrap_content"
-                            android:text="Cara Guna"
+                            android:text="Penggunaan"
                             android:textStyle="bold"
                             android:textColor="@color/color_darkprime"
                             android:textSize="16sp"
@@ -199,40 +199,7 @@
                     android:layout_marginTop="8dp"
                     app:expansion_headerIndicator="@id/headerIndicator10"
                     app:expansion_layout="@id/expansionLayout10"
-                    app:expansion_toggleOnClick="true">
-
-                    <RelativeLayout
-                        android:background="@drawable/bg_expand"
-                        android:layout_height="48dp"
-                        android:layout_width="match_parent"
-                        android:paddingLeft="16dp"
-                        android:paddingRight="16dp">
-
-                        <TextView
-                            android:layout_centerVertical="true"
-                            android:layout_height="wrap_content"
-                            android:layout_width="wrap_content"
-                            android:text="Tes coba coba"
-                            android:textStyle="bold"
-                            android:textColor="@color/color_darkprime"
-                            android:textSize="16sp"
-                            android:elevation="4dp"
-                            android:layout_marginBottom="4dp"
-                            tools:ignore="RelativeOverlap" />
-
-
-                        <androidx.appcompat.widget.AppCompatImageView
-                            android:adjustViewBounds="true"
-                            android:id="@+id/headerIndicator10"
-                            android:layout_alignParentEnd="true"
-                            android:layout_centerVertical="true"
-                            android:layout_height="wrap_content"
-                            android:layout_marginStart="16dp"
-                            android:layout_width="wrap_content"
-                            app:srcCompat="@drawable/expansion_header" />
-
-                    </RelativeLayout>
-                </com.github.florent37.expansionpanel.ExpansionHeader>
+                    app:expansion_toggleOnClick="true"/>
                 <com.github.florent37.expansionpanel.ExpansionLayout
                     android:id="@+id/expansionLayout10"
                     app:expansion_expanded="false"

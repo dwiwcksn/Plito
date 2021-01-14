@@ -13,12 +13,16 @@
             android:id="@+id/toolbar"
             android:layout_width="match_parent"
             android:layout_height="?attr/actionBarSize"
-            android:background="?attr/colorPrimary"
+            android:background="@color/tabsbg1"
+            app:subtitleTextColor="@color/white"
+            app:titleTextColor="@color/white"
             app:layout_scrollFlags="scroll|enterAlways"
             app:popupTheme="@style/ThemeOverlay.AppCompat.Light" />
 
         <com.google.android.material.tabs.TabLayout
             android:id="@+id/tabs"
+            android:background="@color/tabsbg1"
+            app:tabTextColor="@color/white"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             app:tabMode="scrollable"
@@ -27,6 +31,7 @@
 
     <androidx.viewpager.widget.ViewPager
         android:id="@+id/viewpager"
+        android:layout_marginTop="-4dp"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         app:layout_behavior="@string/appbar_scrolling_view_behavior"/>

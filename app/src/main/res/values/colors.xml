@@ -4,9 +4,11 @@
 <!--    <color name="colorPrimaryDark">#3700B3</color>-->
 <!--    <color name="colorAccent">#03DAC5</color>-->
 
-    <color name="colorPrimary">#21302f</color>
-    <color name="colorPrimaryDark">#25c0b7</color>
-    <color name="colorAccent">#f8b24b</color>
+    <color name="colorPrimary">#5a7392</color>
+    <color name="colorPrimaryDark">#5a7392</color>
+    <color name="colorAccent">#5a7392</color>
+    <color name="tabsbg">#6C5DA5</color>
+    <color name="tabsbg1">#9176B3</color>
 
     <color name="warna_kulit">#f2f2f2</color>
 
@@ -15,8 +17,8 @@
     <color name="white">#fff</color>
 
     <!--Color Scheme 2-->
-    <color name="background">#F2FCFF</color>
-    <color name="color_darkprime">#020202</color>
+    <color name="background">#a0a5b9</color>
+    <color name="color_darkprime">#F2FCFF</color>
     <color name="color_light">#4760FF</color>
     <color name="color_dark">#011627</color>
 
@@ -39,5 +41,12 @@
     <color name="kode1">#4e51bf</color>
     <color name="kode2">#ffe9ce</color>
     <color name="kode3">#ff92a4</color>
+
+    <color name="base">#5a7392</color>
+    <color name="sub">#f4cf65</color>
+    <color name="font">#c3c7ca</color>
+
+    <color name="bg1">#B0DBFF</color>
+
 
 </resources>

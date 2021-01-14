@@ -9,11 +9,11 @@
     <string name="title_quiz">Quiz</string>
     <string name="title_materi">Materi</string>
     <string name="judul_hero">PLITO</string>
-    <string name="des_hero">Aplikasi ini digunakan sebagai media pembelajaran yang dikhususkan untuk siswa kelas X Otomotif</string>
+    <string name="des_hero">Aplikasi ini digunakan sebagai media pembelajaran yang dikhususkan untuk siswa SMK kelas X Teknik Kendaraan Ringan</string>
     <string name="tujuan_hero">Tujuan penggunaan Aplikasi ini</string>
     <string name="des_tujuan_hero">1. Aplikasi ini blablablabalbal/n2. Aplikasi ini untuk balsdaldasdalsda/n3. Aplikasi untuk abdlkashdalidhaoida/n4. Aplikasi ini untuk asdkjasgkdads</string>
-    <string name="kasus_hero">Cara menggunakan aplikasi</string>
-    <string name="des_kasus_hero">Simak tutorial berikut untuk dapat menggunakan aplikasi secara optimal</string>
+    <string name="kompetensi">Kompetensi Hand Tools</string>
+    <string name="kompetensi_hand_tools">Hand Tools adalah alat yang dalam penggunaannya hanya menggunakan tenaga mansia untuk pengoperasiannya, yang di gunakan oleh mekanik dalam mempermudah pekerjaannya</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
 
@@ -30,28 +30,102 @@
     <string name="video_inggris">R19OFo8Wivs</string>
 
 
-
-
 <!--    Halaman Kunci Pas-->
-    <string name="deskripsi_kunci">Kunci adalah bla bala bla blaa balalaa</string>
-    <string name="pengertian_kuncipas">R19OFo8Wivs</string>
-    <string name="jenis_kuncipas">R19OFo8Wivs</string>
-    <string name="perawatan_kuncipas">R19OFo8Wivs</string>
-    <string name="penggunaan_kuncipas">R19OFo8Wivs</string>
+    <string name="deskripsi_kunci">Kunci memiliki arti peralatan bengkel yang memiliki fungsi yang sama seperti untuk mengencangkan dan membuka sebuah baut terhadap murnya</string>
+    <string name="pengertian_kuncipas">Kunci untuk melepas baut atau mur yang sudah dikendorkan dengan kunci socket atau ring</string>
+    <string name="penggunaan_kuncipas">Kunci pas tidak boleh untuk mengencangkan atau mengendorkan baut yang belum kendor, karena dapat merusak kepala baut/mur, mengingat bidang sentuhnya hanya sedikit.</string>
 
 
-    <string name="pengertian_kunciring">R19OFo8Wivs</string>
-    <string name="jenis_kunciring">R19OFo8Wivs</string>
-    <string name="perawatan_kunciring">R19OFo8Wivs</string>
+    <string name="pengertian_kunciring">Kunci untuk mengendorkan dan mengencangkan mur/baut</string>
     <string name="penggunaan_kunciring">R19OFo8Wivs</string>
 
-    <string name="pengertian_kuncikombi">R19OFo8Wivs</string>
-    <string name="jenis_kuncikombi">R19OFo8Wivs</string>
-    <string name="perawatan_kuncikombi">R19OFo8Wivs</string>
+    <string name="pengertian_kuncikombi">Bagian ring untuk mengendorkan juga mengencangkan baut/mur pas untuk memasang dan melepaskan mur/baut</string>
     <string name="penggunaan_kuncikombi">R19OFo8Wivs</string>
+    <string name="ukuran_kunci">R19OFo8Wivs</string>
 
-    <string name="pengertian_palubesi">Palu Besi adalah sebuah besi yang ditempa menggunakan alat bantu lain</string>
+    <string name="pengertian_kuncinipel">untuk mengencangkan/melepas baut pada sambungan–sambungan pipa yang serupa dengan sambungan-sambungan yang digunakan pada injector line atau pipa rem</string>
+    <string name="penggunaan_kuncinipel">R19OFo8Wivs</string>
 
+    <string name="pengertian_kuncirachet">Ratchet adalah kelengkapan kunci socket untuk melepas/memasang baut yang dalam keadaan longgar, tanpa harus melepaskan kunci sock dari kepala baut atau mur</string>
+    <string name="penggunaan_kuncirachet">R19OFo8Wivs</string>
 
+    <string name="pengertian_kunciallen">Kunci allen dibuat dari baja heksagonal high tensile berbentuk huruf ”L” dan berbentuk huruf ”T”. Untuk melepaskan dan mengganti mur/sekrup dengan tengah kepala berbentuk segi enam (Allen headed cap)</string>
+    <string name="penggunaan_kunciallen">R19OFo8Wivs</string>
+
+    <string name="pengertian_kuncisocket">Alat ini untuk membantu memasang dan melepas baut/mur</string>
+    <string name="penggunaan_kuncisocket">R19OFo8Wivs</string>
+
+    <string name="pengertian_kunciroda">Kunci roda untuk melepaskan dan memasang kembali pelak(lug)/mur(nut) pada roda</string>
+    <string name="penggunaan_kunciroda">R19OFo8Wivs</string>
+
+    <string name="pengertian_kunciinggris">Kunci inggris digunakan bila spanner atau socket yang tepat untuk pekerjaan tersebut tidak tersedia (ukuran khusus)</string>
+    <string name="penggunaan_kunciinggris">R19OFo8Wivs</string>
+
+    palu
+    <string name="pengertian_palubesi">Palu konde mempunyai bola di salah satu ujung dan permukaan yang rata pada ujung lainnya. Digunakan untuk membulatkan paku keling (rivet), membentuk logam, memukul dan pahat serta fungsi lainnya yang sejenis.</string>
+    <string name="penggunaan_palubesi">R19OFo8Wivs</string>
+
+    <string name="pengertian_palukaret">Palu Karet dibuat dari karet yang keras untuk pemakaian seperti pemasangan ban</string>
+    <string name="penggunaan_palukaret">R19OFo8Wivs</string>
+
+    <string name="pengertian_palukuningan">Palu Kuningan dibuat dari kuningan untuk pemukulan berkekuatan sedang dan mencegah agar tidak rusak komponen-komponen yang dipukul</string>
+    <string name="penggunaan_palukuningan">R19OFo8Wivs</string>
+
+    <string name="pengertian_palukulit">Palu Kulit dibuat dengan permukaan dari kulit. Digunakan untuk memukul permukaan benda yang sangat halus atau bahan lunak tanpa mengakibatkan kerusakan.</string>
+    <string name="penggunaan_palukulit">R19OFo8Wivs</string>
+
+    <string name="pengertian_paluplastik">Palu Plastik dibuat dari plastik digunakan serupa dengan brass hammer namun ditujukan hanya untuk pemukulan ringan</string>
+    <string name="penggunaan_paluplastik">R19OFo8Wivs</string>
+
+    tang
+    <string name="pengertian_tangpotong">Tang potong berfungsi untuk melepaskan dan memasang cotter pin, memotong selang berdiameter kecil, pipa tembaga, baja berdiameter kecil, mengelupas isolasi dari kabel, dsb</string>
+    <string name="penggunaan_tangpotong">R19OFo8Wivs</string>
+
+    <string name="pengertian_tangkombinasi">Tang Kombinasi mempunyai gerigi untuk memegang beda rata, gerigi untuk memegang pipa, pemotong samping (side cutter),dan dua sambungan atau pemotong kabel (wire cutter)</string>
+    <string name="penggunaan_tangkombinasi">R19OFo8Wivs</string>
+
+    <string name="pengertian_tangcucut">Tang ini digunakan dalam pekerjaan di ruangan-ruangan sempit, untuk membengkokkan dan membentukkabel atau lembaran besi lunak</string>
+    <string name="penggunaan_tangcucut">R19OFo8Wivs</string>
+
+    <string name="pengertian_tangsirklipdalam">Tang ini digunakan untuk melepaskan atau memasang internal circlipyang digunakan untuk menahan beberapa gudgeonpin di dalam piston</string>
+    <string name="penggunaan_tangsirklipdalam">R19OFo8Wivs</string>
+
+    <string name="pengertian_tangsirklipluar">Tang ini untuk melepaskan dan memasang external circlip seperti yang akan digunakan untuk menahan bearing pada shaft. Alat ini mempunyai gerakan ganda, sehingga pada saat tangan Anda menutup, jawterbuka.</string>
+    <string name="penggunaan_tangsieklipluar">R19OFo8Wivs</string>
+
+    <string name="pengertian_tangair">Tang ini untuk menjepit benda bundar atau bengkok dengan sangat kuat</string>
+    <string name="penggunaan_tangair">R19OFo8Wivs</string>
+
+    <string name="pengertian_tangvice">Tang ini digunakan sebagai sekrup bangku (vice) portabel berukuran kecil untuk menahan komponen yang dilas, diruncingkan, dibor atau dipotong</string>
+    <string name="penggunaan_tangvice">R19OFo8Wivs</string>
+
+    <string name="pengertian_tangslip">Tang ini digunakan untuk mencengkeram komponen-komponen kecil atau bisa diperbesar untuk mencengkeram komponen-komponen yang lebih besar</string>
+    <string name="penggunaan_tangslip">R19OFo8Wivs</string>
+
+    obeng
+    <string name="pengertian_obengpls">Obeng plus berfungsi untuk memasang dan mengendorkan sekrup berkepala plus (+)</string>
+    <string name="penggunaan_obengpls">R19OFo8Wivs</string>
+
+    <string name="pengertian_obengmin">Obeng plus berfungsi untuk memasang dan mengendorkan sekrup berkepala minus (-)</string>
+    <string name="penggunaan_obengmin">R19OFo8Wivs</string>
+
+    <string name="pengertian_obengketok">Obeng ketok digunakan untuk mengencangkan atau melepas sekrup dengan kekencangan yang lebih</string>
+    <string name="penggunaan_obengketok">R19OFo8Wivs</string>
+
+    additional
+    <string name="pengertian_startpunch">Start Punch adalah punch yang dilancipkan/diruncingkan menjadi lebih kuat dibanding pin punch. Kegunaannya sebagai pembuka awal sebuah dowel/retaining pin sebelum menggunakan pin punch.</string>
+    <string name="penggunaan_startpunch">R19OFo8Wivs</string>
+
+    <string name="pengertian_pinpunch">Pin Punch memiliki diameter yang sama dari ujung hingga kerangka/bodinya. Digunakan untuk melepaskan pin yang menahan komponen pada sebuah shaft dari tempatnya, yang sebelumnya telah diawali dengan starting punch.</string>
+    <string name="penggunaan_pinpunch">R19OFo8Wivs</string>
+
+    <string name="pengertian_threadgauge">Thread Gauge digunakan untuk mengidentifikasi threat pitch atau jenis ulir pada baut yang tidak diketahui.</string>
+    <string name="penggunaan_threadgauge">R19OFo8Wivs</string>
+
+    <string name="pengertian_feelergauge">Feeler Gauge digunakan untuk mengukur celah atau kerenggangan kecil di antara dua komponen</string>
+    <string name="penggunaan_feelergauge">R19OFo8Wivs</string>
+
+    <string name="pengertian_skrap">Skrap digunakan untuk melepaskan material gasket yang menempel pada komponen sebelum komponen dipasang kembali.</string>
+    <string name="penggunaan_skrap">R19OFo8Wivs</string>
 
 </resources>
