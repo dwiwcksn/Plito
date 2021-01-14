@@ -4,11 +4,12 @@
 <!--    <color name="colorPrimaryDark">#3700B3</color>-->
 <!--    <color name="colorAccent">#03DAC5</color>-->
 
-    <color name="colorPrimary">#5a7392</color>
-    <color name="colorPrimaryDark">#5a7392</color>
-    <color name="colorAccent">#5a7392</color>
-    <color name="tabsbg">#6C5DA5</color>
-    <color name="tabsbg1">#9176B3</color>
+    <color name="colorPrimary">#8FCAF7</color>
+    <color name="colorPrimaryDark">#8FCAF7</color>
+    <color name="colorAccent">#EAEFFF</color>
+    <color name="tabsbg">#5a7392</color>
+    <color name="tabsbg1">#EAEFFF</color>
+
 
     <color name="warna_kulit">#f2f2f2</color>
 

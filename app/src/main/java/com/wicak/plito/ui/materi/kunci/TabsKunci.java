@@ -17,6 +17,8 @@ import java.util.List;
 import java.util.Objects;
 
 public class TabsKunci extends AppCompatActivity {
+    private TabLayout tabLayout;
+    private ViewPager viewPager;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -25,17 +27,17 @@ public class TabsKunci extends AppCompatActivity {
         Toolbar toolbar = findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
 
-        Objects.requireNonNull(getSupportActionBar()).setDisplayHomeAsUpEnabled(true);
+        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
 
-        ViewPager viewPager = (ViewPager) findViewById(R.id.viewpager);
+        viewPager = (ViewPager) findViewById(R.id.viewpager);
         setupViewPager(viewPager);
 
-        TabLayout tabLayout = (TabLayout) findViewById(R.id.tabs);
+        tabLayout = (TabLayout) findViewById(R.id.tabs);
         tabLayout.setupWithViewPager(viewPager);
     }
 
     private void setupViewPager(ViewPager viewPager) {
-        TabsKunci.ViewPagerAdapter adapter = new ViewPagerAdapter(getSupportFragmentManager());
+        TabsKunci.ViewPagerAdapter adapter = new TabsKunci.ViewPagerAdapter(getSupportFragmentManager());
         adapter.addFrag(new Pas(), "Pas");
         adapter.addFrag(new Nipel(), "Nipel");
         adapter.addFrag(new Rachet(), "Rachet");

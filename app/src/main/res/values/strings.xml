@@ -9,9 +9,12 @@
     <string name="title_quiz">Quiz</string>
     <string name="title_materi">Materi</string>
     <string name="judul_hero">PLITO</string>
-    <string name="des_hero">Aplikasi ini digunakan sebagai media pembelajaran yang dikhususkan untuk siswa SMK kelas X Teknik Kendaraan Ringan</string>
+    <string name="des_hero"><b><i> Aplikasi</i></b> ini digunakan sebagai media pembelajaran yang dikhususkan untuk siswa SMK kelas X Teknik Kendaraan Ringan</string>
     <string name="tujuan_hero">Tujuan penggunaan Aplikasi ini</string>
-    <string name="des_tujuan_hero">1. Aplikasi ini blablablabalbal/n2. Aplikasi ini untuk balsdaldasdalsda/n3. Aplikasi untuk abdlkashdalidhaoida/n4. Aplikasi ini untuk asdkjasgkdads</string>
+    <string name="des_tujuan_hero">1. Aplikasi ini blablablabalbal\n
+        2. Aplikasi ini untuk balsdaldasdalsda\n
+        3. Aplikasi untuk abdlkashdalidhaoida\n
+        4. Aplikasi ini untuk asdkjasgkdads</string>
     <string name="kompetensi">Kompetensi Hand Tools</string>
     <string name="kompetensi_hand_tools">Hand Tools adalah alat yang dalam penggunaannya hanya menggunakan tenaga mansia untuk pengoperasiannya, yang di gunakan oleh mekanik dalam mempermudah pekerjaannya</string>
     <!-- TODO: Remove or change this placeholder text -->
@@ -61,7 +64,7 @@
     <string name="pengertian_kunciinggris">Kunci inggris digunakan bila spanner atau socket yang tepat untuk pekerjaan tersebut tidak tersedia (ukuran khusus)</string>
     <string name="penggunaan_kunciinggris">R19OFo8Wivs</string>
 
-    palu
+<!--    palu-->
     <string name="pengertian_palubesi">Palu konde mempunyai bola di salah satu ujung dan permukaan yang rata pada ujung lainnya. Digunakan untuk membulatkan paku keling (rivet), membentuk logam, memukul dan pahat serta fungsi lainnya yang sejenis.</string>
     <string name="penggunaan_palubesi">R19OFo8Wivs</string>
 
@@ -77,7 +80,7 @@
     <string name="pengertian_paluplastik">Palu Plastik dibuat dari plastik digunakan serupa dengan brass hammer namun ditujukan hanya untuk pemukulan ringan</string>
     <string name="penggunaan_paluplastik">R19OFo8Wivs</string>
 
-    tang
+<!--    tang-->
     <string name="pengertian_tangpotong">Tang potong berfungsi untuk melepaskan dan memasang cotter pin, memotong selang berdiameter kecil, pipa tembaga, baja berdiameter kecil, mengelupas isolasi dari kabel, dsb</string>
     <string name="penggunaan_tangpotong">R19OFo8Wivs</string>
 
@@ -102,7 +105,7 @@
     <string name="pengertian_tangslip">Tang ini digunakan untuk mencengkeram komponen-komponen kecil atau bisa diperbesar untuk mencengkeram komponen-komponen yang lebih besar</string>
     <string name="penggunaan_tangslip">R19OFo8Wivs</string>
 
-    obeng
+<!--    obeng-->
     <string name="pengertian_obengpls">Obeng plus berfungsi untuk memasang dan mengendorkan sekrup berkepala plus (+)</string>
     <string name="penggunaan_obengpls">R19OFo8Wivs</string>
 
@@ -112,7 +115,7 @@
     <string name="pengertian_obengketok">Obeng ketok digunakan untuk mengencangkan atau melepas sekrup dengan kekencangan yang lebih</string>
     <string name="penggunaan_obengketok">R19OFo8Wivs</string>
 
-    additional
+<!--    additional-->
     <string name="pengertian_startpunch">Start Punch adalah punch yang dilancipkan/diruncingkan menjadi lebih kuat dibanding pin punch. Kegunaannya sebagai pembuka awal sebuah dowel/retaining pin sebelum menggunakan pin punch.</string>
     <string name="penggunaan_startpunch">R19OFo8Wivs</string>
 

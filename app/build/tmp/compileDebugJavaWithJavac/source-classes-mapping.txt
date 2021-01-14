@@ -47,14 +47,17 @@ com/wicak/plito/ui/materi/obeng/TabsObeng.java
  com.wicak.plito.ui.materi.obeng.TabsObeng$ViewPagerAdapter
 com/wicak/plito/ui/materi/kunci/video/VideoNipel.java
  com.wicak.plito.ui.materi.kunci.video.VideoNipel
-com/wicak/plito/ui/materi/kunci/TabsKunci.java
- com.wicak.plito.ui.materi.kunci.TabsKunci
- com.wicak.plito.ui.materi.kunci.TabsKunci$ViewPagerAdapter
+com/wicak/plito/SignUpActivity.java
+ com.wicak.plito.SignUpActivity
+ com.wicak.plito.SignUpActivity$1
+ com.wicak.plito.SignUpActivity$2
+ com.wicak.plito.SignUpActivity$3
+ com.wicak.plito.SignUpActivity$4
+ com.wicak.plito.SignUpActivity$4$1
 com/wicak/plito/ui/materi/palu/Karet.java
  com.wicak.plito.ui.materi.palu.Karet
-com/wicak/plito/ui/materi/MateriViewModel.java
- com.wicak.plito.ui.materi.MateriViewModel
- com.wicak.plito.ui.materi.MateriViewModel$1
+com/wicak/plito/ui/materi/palu/MtrDua.java
+ com.wicak.plito.ui.materi.palu.MtrDua
 com/wicak/plito/ui/materi/palu/MateriDuaAdapter.java
  com.wicak.plito.ui.materi.palu.MateriDuaAdapter
 com/wicak/plito/ui/materi/extention/MateriLima.java
@@ -205,12 +208,9 @@ com/wicak/plito/ui/home/HomeFragment.java
 com/wicak/plito/ui/materi/kunci/Inggris.java
  com.wicak.plito.ui.materi.kunci.Inggris
  com.wicak.plito.ui.materi.kunci.Inggris$1
-com/wicak/plito/ui/materi/palu/MtrDua.java
- com.wicak.plito.ui.materi.palu.MtrDua
-com/wicak/plito/SignUpActivity.java
- com.wicak.plito.SignUpActivity
- com.wicak.plito.SignUpActivity$1
- com.wicak.plito.SignUpActivity$2
- com.wicak.plito.SignUpActivity$3
- com.wicak.plito.SignUpActivity$4
- com.wicak.plito.SignUpActivity$4$1
+com/wicak/plito/ui/materi/kunci/TabsKunci.java
+ com.wicak.plito.ui.materi.kunci.TabsKunci
+ com.wicak.plito.ui.materi.kunci.TabsKunci$ViewPagerAdapter
+com/wicak/plito/ui/materi/MateriViewModel.java
+ com.wicak.plito.ui.materi.MateriViewModel
+ com.wicak.plito.ui.materi.MateriViewModel$1

@@ -172,6 +172,10 @@
         "source": "E:\\Plito\\app\\src\\main\\res\\layout\\fragment_materi.xml"
     },
     {
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_bottom.xml.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable\\bg_bottom.xml"
+    },
+    {
         "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_plastik.xml.flat",
         "source": "E:\\Plito\\app\\src\\main\\res\\layout\\fragment_plastik.xml"
     },
@@ -190,6 +194,10 @@
     {
         "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_kombinasi.xml.flat",
         "source": "E:\\Plito\\app\\src\\main\\res\\layout\\fragment_kombinasi.xml"
+    },
+    {
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_appbar.xml.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable\\bg_appbar.xml"
     },
     {
         "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_roda.xml.flat",
@@ -360,6 +368,10 @@
         "source": "E:\\Plito\\app\\src\\main\\res\\layout\\fragment_kuningan.xml"
     },
     {
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_bgfix.png.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\bgfix.png"
+    },
+    {
         "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_pinpunch.xml.flat",
         "source": "E:\\Plito\\app\\src\\main\\res\\layout\\fragment_pinpunch.xml"
     },
@@ -402,6 +414,10 @@
     {
         "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_logo1.png.flat",
         "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\logo1.png"
+    },
+    {
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_bgfix2.png.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\bgfix2.png"
     },
     {
         "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",

@@ -1588,10 +1588,14 @@ drawable bar_layout
 drawable bg2
 drawable bg3
 drawable bg4
+drawable bg_appbar
+drawable bg_bottom
 drawable bg_expand
 drawable bg_left
 drawable bg_right
 drawable bg_white
+drawable bgfix
+drawable bgfix2
 drawable btn_checkbox_checked_mtrl
 drawable btn_checkbox_checked_to_unchecked_mtrl_animation
 drawable btn_checkbox_unchecked_mtrl
@@ -1834,8 +1838,6 @@ id container3
 id container4
 id container5
 id container6
-id container7
-id container8
 id container9
 id content
 id contentPanel
@@ -1905,8 +1907,6 @@ id expansionLayout3
 id expansionLayout4
 id expansionLayout5
 id expansionLayout6
-id expansionLayout7
-id expansionLayout8
 id expansionLayout9
 id extra_views_container
 id fade
@@ -1945,8 +1945,6 @@ id headerIndicator3
 id headerIndicator4
 id headerIndicator5
 id headerIndicator6
-id headerIndicator7
-id headerIndicator8
 id headerIndicator9
 id hero_awal
 id hidden_klas_txt
@@ -2102,8 +2100,6 @@ id sampleHeader3
 id sampleHeader4
 id sampleHeader5
 id sampleHeader6
-id sampleHeader7
-id sampleHeader8
 id sampleHeader9
 id save_non_transition_alpha
 id save_overlay_view
