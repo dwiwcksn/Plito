@@ -54,14 +54,14 @@ public class ChatMessage extends AppCompatActivity {
 
         Toolbar toolbar = findViewById(R.id.toolbar);
 //        setSupportActionBar(toolbar);
-        getSupportActionBar().setTitle("");
+
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
-        toolbar.setNavigationOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                finish();
-            }
-        });
+//        toolbar.setNavigationOnClickListener(new View.OnClickListener() {
+//            @Override
+//            public void onClick(View view) {
+//                finish();
+//            }
+//        });
 
 
         recyclerView = findViewById(R.id.recycler_view_message);
@@ -71,8 +71,8 @@ public class ChatMessage extends AppCompatActivity {
         recyclerView.setLayoutManager(linearLayoutManager);
 
 
-        profile_image = findViewById(R.id.profile_image);
-        username = findViewById(R.id.username);
+//        profile_image = findViewById(R.id.profile_image);
+//        username = findViewById(R.id.username);
 //        chat_conversationReceiver = findViewById(R.id.chat_conversation);
 //        chat_conversationSender = findViewById(R.id.chat_conversation_sender);
 
@@ -85,11 +85,11 @@ public class ChatMessage extends AppCompatActivity {
         final String chatId = intent.getStringExtra("chatId");
         final String currentGroupName = intent.getStringExtra("room_name");
 
+        getSupportActionBar().setTitle(currentGroupName);
 
         fUser = FirebaseAuth.getInstance().getCurrentUser();
         usersRef = FirebaseDatabase.getInstance().getReference("users").child(fUser.getUid());
         roomRef = FirebaseDatabase.getInstance().getReference().child("ChatMessage").child(currentGroupName);
-
 
         usersRef.addValueEventListener(new ValueEventListener() {
             @Override
@@ -113,8 +113,9 @@ public class ChatMessage extends AppCompatActivity {
 //                Room chat = snapshot.getValue(Room.class);
 ////                setTitle(chat.getUsername());
                 setTitle(currentGroupName);
-                username.setText(currentGroupName);
-                profile_image.setImageResource(R.mipmap.ic_launcher);
+//                Untuk custom AppBar
+//                username.setText(currentGroupName);
+//                profile_image.setImageResource(R.mipmap.ic_launcher);
 
 ////                if (chat.getImageURL().equals("default")){
 ////                    profile_image.setImageResource(R.mipmap.ic_launcher);

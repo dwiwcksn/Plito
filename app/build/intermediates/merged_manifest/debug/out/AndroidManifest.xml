@@ -16,7 +16,6 @@
     <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
 
     <application
-        android:name="com.wicak.plito.LoggedIn"
         android:allowBackup="true"
         android:appComponentFactory="androidx.core.app.CoreComponentFactory"
         android:debuggable="true"
@@ -26,6 +25,9 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.wicak.plito.ui.chat.RoomActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
         <activity
             android:name="com.wicak.plito.ui.materi.kunci.video.VideoKunciPas"
             android:screenOrientation="landscape"
@@ -62,7 +64,9 @@
             android:name="com.wicak.plito.ui.materi.kunci.video.VideoNipel"
             android:screenOrientation="landscape"
             android:theme="@style/AppTheme.NoActionBar" />
-        <activity android:name="com.wicak.plito.ui.chat.ChatMessage" />
+        <activity
+            android:name="com.wicak.plito.ui.chat.ChatMessage"
+            android:parentActivityName="com.wicak.plito.ui.chat.RoomActivity" />
         <activity
             android:name="com.wicak.plito.SignInActivity"
             android:theme="@style/AppTheme.NoActionBar" />
@@ -77,22 +81,27 @@
         <activity
             android:name="com.wicak.plito.ui.materi.kunci.TabsKunci"
             android:label="Kunci"
+            android:parentActivityName="com.wicak.plito.ui.materi.kunci.TabsKunci"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
             android:name="com.wicak.plito.ui.materi.palu.TabsPalu"
             android:label="Palu"
+            android:parentActivityName="com.wicak.plito.ui.materi.palu.TabsPalu"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
             android:name="com.wicak.plito.ui.materi.extension.TabsExtension"
             android:label="Extension"
+            android:parentActivityName="com.wicak.plito.ui.materi.extension.TabsExtension"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
             android:name="com.wicak.plito.ui.materi.tang.TabsTang"
             android:label="Tang"
+            android:parentActivityName="com.wicak.plito.ui.materi.tang.TabsTang"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
             android:name="com.wicak.plito.ui.materi.obeng.TabsObeng"
             android:label="Obeng"
+            android:parentActivityName="com.wicak.plito.ui.materi.obeng.TabsObeng"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity android:name="com.wicak.plito.ui.quiz.HasilKuis" />
         <activity android:name="com.wicak.plito.ui.quiz.MulaiKuis" />

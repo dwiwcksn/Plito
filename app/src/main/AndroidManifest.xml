@@ -7,44 +7,56 @@
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
 
     <application
-        android:name=".LoggedIn"
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".ui.materi.kunci.video.VideoKunciPas"
-            android:screenOrientation="landscape"
+        <activity android:name=".ui.chat.RoomActivity"
             android:theme="@style/AppTheme.NoActionBar"></activity>
-        <activity android:name=".ui.materi.kunci.video.VideoKunciKombi"
+        <activity
+            android:name=".ui.materi.kunci.video.VideoKunciPas"
             android:screenOrientation="landscape"
-            android:theme="@style/AppTheme.NoActionBar"></activity>
-        <activity android:name=".ui.materi.kunci.video.VideoKunciRing"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ui.materi.kunci.video.VideoKunciKombi"
             android:screenOrientation="landscape"
-            android:theme="@style/AppTheme.NoActionBar"></activity>
-        <activity android:name=".ui.materi.kunci.video.VideoSocket"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ui.materi.kunci.video.VideoKunciRing"
             android:screenOrientation="landscape"
-            android:theme="@style/AppTheme.NoActionBar"></activity>
-        <activity android:name=".ui.materi.kunci.video.VideoRachet"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ui.materi.kunci.video.VideoSocket"
             android:screenOrientation="landscape"
-            android:theme="@style/AppTheme.NoActionBar"></activity>
-        <activity android:name=".ui.materi.kunci.video.VideoRoda"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ui.materi.kunci.video.VideoRachet"
             android:screenOrientation="landscape"
-            android:theme="@style/AppTheme.NoActionBar"></activity>
-        <activity android:name=".ui.materi.kunci.video.VideoAllen"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ui.materi.kunci.video.VideoRoda"
             android:screenOrientation="landscape"
-            android:theme="@style/AppTheme.NoActionBar"></activity>
-        <activity android:name=".ui.materi.kunci.video.VideoInggris"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ui.materi.kunci.video.VideoAllen"
             android:screenOrientation="landscape"
-            android:theme="@style/AppTheme.NoActionBar"></activity>
-        <activity android:name=".ui.materi.kunci.video.VideoNipel"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ui.materi.kunci.video.VideoInggris"
             android:screenOrientation="landscape"
-            android:theme="@style/AppTheme.NoActionBar"></activity>
-        <activity android:name=".ui.chat.ChatMessage" />
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ui.materi.kunci.video.VideoNipel"
+            android:screenOrientation="landscape"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".ui.chat.ChatMessage"
+            android:parentActivityName=".ui.chat.RoomActivity"
+            />
         <activity
             android:name=".SignInActivity"
-            android:theme="@style/AppTheme.NoActionBar"></activity>
+            android:theme="@style/AppTheme.NoActionBar" />
         <activity
             android:name=".SignUpActivity"
             android:theme="@style/AppTheme.NoActionBar" />
@@ -56,21 +68,26 @@
         <activity
             android:name=".ui.materi.kunci.TabsKunci"
             android:label="Kunci"
+            android:parentActivityName=".ui.materi.kunci.TabsKunci"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
             android:name=".ui.materi.palu.TabsPalu"
+            android:parentActivityName=".ui.materi.palu.TabsPalu"
             android:label="Palu"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
             android:name=".ui.materi.extension.TabsExtension"
+            android:parentActivityName=".ui.materi.extension.TabsExtension"
             android:label="Extension"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
             android:name=".ui.materi.tang.TabsTang"
+            android:parentActivityName=".ui.materi.tang.TabsTang"
             android:label="Tang"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
             android:name=".ui.materi.obeng.TabsObeng"
+            android:parentActivityName=".ui.materi.obeng.TabsObeng"
             android:label="Obeng"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity android:name=".ui.quiz.HasilKuis" />

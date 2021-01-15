@@ -1786,7 +1786,6 @@ id all
 id always
 id animateToEnd
 id animateToStart
-id appbar
 id asConfigured
 id async
 id auto
@@ -1947,7 +1946,6 @@ id headerIndicator5
 id headerIndicator6
 id headerIndicator9
 id hero_awal
-id hidden_klas_txt
 id hideable
 id home
 id homeAsUp
@@ -2217,7 +2215,6 @@ id uniform
 id unlabeled
 id up
 id useLogo
-id username
 id video_title
 id view_offset_helper
 id view_tree_lifecycle_owner
@@ -2304,6 +2301,7 @@ layout activity_materi_lima
 layout activity_materi_satu
 layout activity_materi_tiga
 layout activity_mulai_kuis
+layout activity_room
 layout activity_sign_in
 layout activity_sign_up
 layout activity_splash_screen

@@ -5,6 +5,7 @@ import android.content.Intent;
 
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
+import com.wicak.plito.ui.chat.RoomActivity;
 
 public class LoggedIn extends Application {
 
@@ -16,7 +17,7 @@ public class LoggedIn extends Application {
         FirebaseUser mUser = mAuth.getCurrentUser();
 
         if (mUser != null){
-            Intent intent = new Intent(LoggedIn.this, BottomActivity.class);
+            Intent intent = new Intent(LoggedIn.this, RoomActivity.class);
             intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
             startActivity(intent);
         }

@@ -45,8 +45,11 @@ import com.google.firebase.storage.FirebaseStorage;
 import com.google.firebase.storage.StorageReference;
 import com.google.firebase.storage.StorageTask;
 import com.google.firebase.storage.UploadTask;
+import com.wicak.plito.BottomActivity;
+import com.wicak.plito.LoggedIn;
 import com.wicak.plito.R;
 import com.wicak.plito.SignInActivity;
+import com.wicak.plito.ui.chat.RoomActivity;
 import com.wicak.plito.ui.materi.MateriViewModel;
 
 import java.util.HashMap;
@@ -96,38 +99,42 @@ public class InfoFragment extends Fragment {
         mAuth = FirebaseAuth.getInstance();
         mStore = FirebaseFirestore.getInstance();
 
-
         fUser = mAuth.getCurrentUser();
-        userRef = FirebaseDatabase.getInstance().getReference("users").child(fUser.getUid());
+        if (fUser == null){
+            Toast.makeText(getContext(), "Please Log In First !", Toast.LENGTH_SHORT).show();
+            Intent intent = new Intent(getContext(), BottomActivity.class);
+            intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
+            startActivity(intent);
+        } else if (fUser != null){
+            userRef = FirebaseDatabase.getInstance().getReference("users").child(fUser.getUid());
+            userRef.addValueEventListener(new ValueEventListener() {
+                @Override
+                public void onDataChange(@NonNull DataSnapshot snapshot) {
+                    User user = snapshot.getValue(User.class);
+                    profleName.setText(user.getUsername());
+                    profileEmail.setText(user.getKodeKelas());
+                    if (user.getImageURL().equals("default")){
+                        profileImage.setImageResource(R.mipmap.ic_launcher);
+                    }else {
+                        Glide.with(getContext()).load(user.getImageURL()).into(profileImage);
+                    }
 
-        userRef.addValueEventListener(new ValueEventListener() {
-            @Override
-            public void onDataChange(@NonNull DataSnapshot snapshot) {
-                User user = snapshot.getValue(User.class);
-                profleName.setText(user.getUsername());
-                profileEmail.setText(user.getKodeKelas());
-                if (user.getImageURL().equals("default")){
-                    profileImage.setImageResource(R.mipmap.ic_launcher);
-                }else {
-                    Glide.with(getContext()).load(user.getImageURL()).into(profileImage);
+
                 }
 
+                @Override
+                public void onCancelled(@NonNull DatabaseError error) {
 
-            }
-
-            @Override
-            public void onCancelled(@NonNull DatabaseError error) {
-
-            }
-        });
-
+                }
+            });
+        }
 
 
         signOutBtn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 mAuth.signOut();
-                Intent intent = new Intent(getContext(), SignInActivity.class);
+                Intent intent = new Intent(getContext(), BottomActivity.class);
                 intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP);
                 intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TASK);
                 startActivity(intent);
