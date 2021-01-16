@@ -49,14 +49,14 @@
     <!--    Halaman Kunci Pas-->
     <string name="deskripsi_kunci">Kunci memiliki arti peralatan bengkel yang memiliki fungsi yang sama seperti untuk mengencangkan dan membuka sebuah baut terhadap murnya</string>
     <string name="pengertian_kuncipas">Kunci untuk melepas baut atau mur yang sudah dikendorkan dengan kunci socket atau ring dengan cepat</string>
-    <string name="penggunaan_kuncipas"> 1.Pilih ukuran kunci sesuai baut/mur\n
+    <string name="penggunaan_kuncipas">  1.Pilih ukuran kunci sesuai baut/mur\n
         2.Pasang kunci pada kepala baut sampai pas\n
         3.Tarik kunci ke arah ke kanan untuk melepaskan dan arah sebaliknya untuk memasang\n
         Kunci pas tidak boleh untuk mengencangkan atau mengendorkan baut yang belum kendor, karena bidang sentuh yang sedikit dapat merusak kepala baut/mur</string>
 
 
     <string name="pengertian_kunciring">Kunci untuk mengendorkan dan mengencangkan mur/baut</string>
-    <string name="penggunaan_kunciring"> 1.Pilih ukuran kunci sesuai baut/mur\n
+    <string name="penggunaan_kunciring">  1.Pilih ukuran kunci sesuai baut/mur\n
         2.Pasang kunci pada kepala baut sampai pas\n
         3.Tarik kunci ke arah ke kanan untuk mengencangkan dan arah sebaliknya untuk mengendorkan\n</string>
 
@@ -64,40 +64,40 @@
     <string name="penggunaan_kuncikombi">Bagian ring untuk mengendorkan juga mengencangkan baut/mur, bagian pas untuk memasang dan melepaskan mur/baut</string>
 
     <string name="pengertian_kuncinipel">Kunci untuk mengencangkan/melepas baut pada sambungan–sambungan pipa yang serupa dengan sambungan-sambungan yang digunakan pada injector line atau pipa rem</string>
-    <string name="penggunaan_kuncinipel"> 1.Pilih ukuran kunci sesuai baut\n
+    <string name="penggunaan_kuncinipel">  1.Pilih ukuran kunci sesuai baut\n
         2.Pasang kunci pada kepala baut sampai pas\n
         3.Tarik kunci ke arah ke kanan untuk melepaskan dan arah sebaliknya untuk memasang\n
         Jangan menggunakan kunci nipel untuk membuka baut biasa karena dapat merusak kunci maupun kepala baut.</string>
 
     <string name="pengertian_kuncirachet">Ratchet adalah kelengkapan kunci socket untuk melepas/memasang baut yang dalam keadaan longgar, tanpa harus melepaskan kunci sock dari kepala baut atau mur</string>
-    <string name="penggunaan_kuncirachet"> 1.Pilih sock yang sesuai dan pasang dengan menekan tombol belakang pada kepala rachet\n
+    <string name="penggunaan_kuncirachet">  1.Pilih sock yang sesuai dan pasang dengan menekan tombol belakang pada kepala rachet\n
         2.Atur jarum rachet (Arah kanan untuk mengencangkan dan kiri untuk mengendorkan)\n
         3.Tarik kunci ke arah ke kanan untuk melepaskan dan arah sebaliknya untuk memasang\n
         4.Bila stand tidak cukup, hanya perlu memutar rachet kearah sebaliknya tanpa perlu melepaskan rachet</string>
 
     <string name="pengertian_kunciallen">Kunci allen dibuat dari baja heksagonal high tensile berbentuk huruf ”L” dan berbentuk huruf ”T”. Untuk melepaskan dan mengganti mur/sekrup dengan tengah kepala berbentuk segi enam <i>(Allen headed cap)</i></string>
-    <string name="penggunaan_kunciallen"> 1.Pilih ukuran kunci sesuai ukuran dan jenis tengah kepala baut\n
+    <string name="penggunaan_kunciallen">  1.Pilih ukuran kunci sesuai ukuran dan jenis tengah kepala baut\n
         2.Pasang kunci pada bagian tengah kepala baut sampai pas\n
         3.Tarik kunci ke arah ke kanan untuk melepaskan dan arah sebaliknya untuk memasang\n</string>
 
     <string name="pengertian_kuncibusi">Kunci busi untuk membantu memasang dan melepas busi</string>
-    <string name="penggunaan_kuncibusi"> 1.Siapkan socket busi sesuai ukuran yang dibutuhkan\n
+    <string name="penggunaan_kuncibusi">  1.Siapkan socket busi sesuai ukuran yang dibutuhkan\n
         2.pasangkan socket pada alat bantu lain seperti batang t/rachet dan socket siap digunakan\n
     Pada saat pemasangan jangan terlalu kuat saat merapatkan busi agar porselen dan ulir busi tidak rusak</string>
     <string name="pengertian_kuncisocket">Socket ini untuk membantu memasang dan melepas baut/mur</string>
-    <string name="penggunaan_kuncisocket"> 1.Siapkan socket sesuai ukuran yang dibutuhkan\n
+    <string name="penggunaan_kuncisocket">  1.Siapkan socket sesuai ukuran yang dibutuhkan\n
         2.pasangkan socket pada alat bantu lain seperti batang t/rachet dan socket siap digunakan</string>
     <string name="pengertian_socket6">Socket segi 6 memiliki 6 bagian bidang bagian. Socket ini digunakan untuk pengencangan baut dengan extra</string>
     <string name="pengertian_socket6ganda">Socket segi 6 ganda memiliki 12 bagian bidang. Socket ini digunakan untuk pengencangan yang memudahkan posisi stand saat proses melepas baut</string>
     <string name="pengertian_socketbintang">Socket Bintang hampir mirip socket 6 ganda, namun penggunaanya pada jenis kepala baut yang berbeda</string>
 
     <string name="pengertian_kunciroda">Kunci roda untuk melepaskan dan memasang kembali pelak(lug)/mur(nut) pada roda</string>
-    <string name="penggunaan_kunciroda">1.Pasang kunci yang sesuai dengan mur roda\n
+    <string name="penggunaan_kunciroda">  1.Pasang kunci yang sesuai dengan mur roda\n
     2.Pegang kunci dengan kedua tangan\n
     3.Putar ke arah kanan untuk mengencangkan dan kiri untuk mengendorkan</string>
 
     <string name="pengertian_kunciinggris">Kunci inggris digunakan bila spanner atau socket yang tepat untuk pekerjaan tersebut tidak tersedia (ukuran khusus)</string>
-    <string name="penggunaan_kunciinggris">1.Setel rahang sampai sesuai ukuran mur dan pasang sampai pas\n
+    <string name="penggunaan_kunciinggris">  1.Setel rahang sampai sesuai ukuran mur dan pasang sampai pas\n
     2.Putar rahang penyetel bagian dalam dari putaran gerakan memutar kunci\n
     3.Putar kunci dengan ditarik dan bukan didorong</string>
 
@@ -118,53 +118,53 @@
     <string name="fungsi_paluplastik">Digunakan serupa dengan brass hammer namun ditujukan hanya untuk pemukulan ringan contohnya pengerjaan cetakan</string>
     <!--    tang-->
     <string name="pengertian_tangpotong">Tang potong berfungsi untuk melepaskan dan memasang cotter pin, memotong selang berdiameter kecil, pipa tembaga, baja berdiameter kecil, mengelupas isolasi dari kabel, dsb</string>
-    <string name="penggunaan_tangpotong"> 1.Siapkan tang dan pengang dengan kuat\n
+    <string name="penggunaan_tangpotong">  1.Siapkan tang dan pengang dengan kuat\n
     2.Potong kawat sesuai yang diinginkan</string>
 
     <string name="pengertian_tangkombinasi">Tang Kombinasi mempunyai gerigi untuk memegang beda rata, gerigi untuk memegang pipa, pemotong samping (side cutter),dan dua sambungan atau pemotong kabel (wire cutter)</string>
-    <string name="penggunaan_tangkombinasi">1.Siapkan tang dan pengang dengan kuat\n
+    <string name="penggunaan_tangkombinasi">  1.Siapkan tang dan pengang dengan kuat\n
     2.Gunakan bagian ujung tang untuk memegang plat/kawat, bagian tengah untuk mencengkeran kabel, dan bagian belakang untuk memotong kabel</string>
 
     <string name="pengertian_tangcucut">Tang ini digunakan dalam pekerjaan di ruangan-ruangan sempit, untuk membengkokkan dan membentuk kabel atau lembaran besi lunak</string>
-    <string name="penggunaan_tangcucut"> 1.Siapkan tang dan pengang dengan kuat\n
+    <string name="penggunaan_tangcucut">  1.Siapkan tang dan pengang dengan kuat\n
     2.Gunakan membentuk kabel/kawat/besi plat</string>
 
     <string name="pengertian_tangsirklipdalam">Tang ini digunakan untuk melepaskan atau memasang internal circlip yang digunakan untuk menahan beberapa pengunci di dalam piston</string>
-    <string name="penggunaan_tangsirklipdalam"> 1.Siapkan tang dan pengang dengan kuat\n
+    <string name="penggunaan_tangsirklipdalam">  1.Siapkan tang dan pengang dengan kuat\n
     2.Masukkan ujung jaw tang ke bagian bundaran ring\n
     3.Gunakan seperti menggunakan gunting, maka tang akan menekan ring kearah dalam</string>
 
     <string name="pengertian_tangsirklipluar">Tang ini untuk melepaskan dan memasang external circlip seperti yang akan digunakan untuk menahan bearing pada shaft. Alat ini mempunyai gerakan ganda, sehingga pada saat tangan Anda menutup, jawterbuka.</string>
-    <string name="penggunaan_tangsirklipluar"> 1.Siapkan tang dan pengang dengan kuat\n
+    <string name="penggunaan_tangsirklipluar">  1.Siapkan tang dan pengang dengan kuat\n
     2.Masukkan ujung jaw tang ke bagian bundaran ring\n
     3.Gunakan seperti menggunakan gunting, maka tang akan menekan ring kearah luar</string>
 
     <string name="pengertian_tangair">Tang ini untuk menjepit benda bundar atau bengkok dengan sangat kuat</string>
-    <string name="penggunaan_tangair"> 1.Geser as pada kepala tang dan atur sesuai kebutuhan\n
+    <string name="penggunaan_tangair">  1.Geser as pada kepala tang dan atur sesuai kebutuhan\n
     2.Jepit benda kerja dengan menekan tang</string>
 
     <string name="pengertian_tangvice">Tang ini digunakan sebagai sekrup bangku (vice) portabel berukuran kecil untuk menahan komponen yang dilas, diruncingkan, dibor atau dipotong</string>
-    <string name="penggunaan_tangvice"> 1.Atur ukuran mulut tang dengan memutar setelan belakang tangkai tang\n
+    <string name="penggunaan_tangvice">  1.Atur ukuran mulut tang dengan memutar setelan belakang tangkai tang\n
     2.Tekan tangkai sampai terdengar bunyi "klik"\n
     3.Untuk melepas tang tekan tuas pembuka pad bagian tengah tang</string>
 
     <string name="pengertian_tangslip">Tang ini digunakan untuk mencengkeram komponen-komponen kecil atau bisa diperbesar untuk mencengkeram komponen-komponen yang lebih besar</string>
-    <string name="penggunaan_tangslip"> 1.Pindahkan as pada tang sesuai ukuran benda kerja\n
+    <string name="penggunaan_tangslip">  1.Pindahkan as pada tang sesuai ukuran benda kerja\n
     2.Gunakan tang untuk menjepit benda kerja</string>
 
     <!--    obeng-->
     <string name="pengertian_obengpls">Obeng plus berfungsi untuk memasang dan mengendorkan sekrup berkepala plus (+)</string>
-    <string name="penggunaan_obengpls"> 1.Posisikan obeng sampai pas pada kepala sekrup\n
+    <string name="penggunaan_obengpls">  1.Posisikan obeng sampai pas pada kepala sekrup\n
     2.Putar obeng sambil memberi tekanan pada obeng\n
     Bila sekrup susah dibuka, jangan memukul obeng karena dapat merusak mata obeng ataupun obeng itu sendiri</string>
 
     <string name="pengertian_obengmin">Obeng plus berfungsi untuk memasang dan mengendorkan sekrup berkepala minus (-)</string>
-    <string name="penggunaan_obengmin"> 1.Posisikan obeng sampai pas pada kepala sekrup\n
+    <string name="penggunaan_obengmin">  1.Posisikan obeng sampai pas pada kepala sekrup\n
     2.Putar obeng sambil memberi tekanan pada obeng\n
     Bila sekrup susah dibuka, jangan memukul obeng karena dapat merusak mata obeng ataupun obeng itu sendiri</string>
 
     <string name="pengertian_obengketok">Obeng ketok digunakan untuk mengencangkan atau melepas sekrup dengan kekencangan yang lebih</string>
-    <string name="penggunaan_obengketok"> 1.Pasang mata obeng ke badan obeng\n
+    <string name="penggunaan_obengketok">  1.Pasang mata obeng ke badan obeng\n
     2.Posisikan obeng sampai pas pada kepala sekrup\n
     3.Pukul obeng dengan kuat sambil memutar obeng ke arah yang diinginkan</string>
 
@@ -177,22 +177,22 @@
     <string name="pengertian_ext">Batang perpanjangan sock digunakan bersama dengan ratchet atau alat yang sama untuk menjangkau mur atau baut yang tidak terjangkau oleh kunci</string>
 
     <string name="pengertian_startpunch">Start Punch adalah punch yang dilancipkan/diruncingkan menjadi lebih kuat dibanding pin punch. Kegunaannya sebagai pembuka awal sebuah dowel/retaining pin sebelum menggunakan pin punch.</string>
-    <string name="penggunaan_startpunch"> 1.Posisikan punch pada pin\n
+    <string name="penggunaan_startpunch">  1.Posisikan punch pada pin\n
     2.Pukul dengan kuat sampai pin bergerak\n
     3.Lanjutkan mengeluarkan dengan menggunakan pin punch</string>
 
     <string name="pengertian_pinpunch">Pin Punch memiliki diameter yang sama dari ujung hingga kerangka/bodinya. Digunakan untuk melepaskan pin yang menahan komponen pada sebuah shaft dari tempatnya, yang sebelumnya telah diawali dengan starting punch.</string>
-    <string name="penggunaan_pinpunch"> 1.Posisikan punch pada pin\n
+    <string name="penggunaan_pinpunch">  1.Posisikan punch pada pin\n
     2.Pukul sampai pin keluar dan dapat diambil</string>
 
     <string name="pengertian_threadgauge">Thread Gauge digunakan untuk mengidentifikasi threat pitch atau jenis ulir pada baut yang tidak diketahui.</string>
-    <string name="penggunaan_threadgauge"> 1.Bersihkan baut dan alat ukur\n
+    <string name="penggunaan_threadgauge">  1.Bersihkan baut dan alat ukur\n
         2.Tempelkan thread gauge tegak lurus dengan ulir\n
         3.Bila thread dan ulir belum pas, maka ubah ukuran thread\n
         4.Setelah thread gauge dan ulir sudah pas, baca hasilnya</string>
 
     <string name="pengertian_feelergauge">Feeler Gauge digunakan untuk mengukur celah atau kerenggangan kecil di antara dua komponen</string>
-    <string name="penggunaan_feelergauge"> 1.Bersihkan benda kerja dan alat ukur\n
+    <string name="penggunaan_feelergauge">  1.Bersihkan benda kerja dan alat ukur\n
         2.Posisikan feeler lurus pada celah yang diukur\n
         3.Tarik feeler dan rasakan sampai terasa rapat\n
         4.Bila sudah terasa rapat, baca hasilnya</string>
@@ -201,45 +201,45 @@
     <string name="penggunaan_skrap">Posisikan pada bagian yang akan dibersihkan dan beri dorongan hingga gasket hilang</string>
 
 
-    <string name="kuncipas"><b>KUNCI PAS<i>(Open End Spanner)</i></b></string>
-    <string name="kunciring"><b>KUNCI RING<i>Kunci Ring (Offset Ring Spanner)</i></b></string>
-    <string name="kuncikombina"><b>KUNCI KOMBINASI<i>(Combinatin Spanner)</i></b></string>
-    <string name="kuncinipel"><b>KUNCI NIPEL<i>(Flare Nut Spanner)</i></b></string>
-    <string name="kunciallen"><b>KUNCI ALLEN<i>(Allens Keys)</i></b></string>
-    <string name="kuncisocket"><b>KUNCI SOCKET<i>(Socket Wrench)</i></b></string>
-    <string name="sock6"><b>SOCKET SEGI 6<i>(Single Hexagonal)</i></b></string>
-    <string name="sock6ganda"><b>SOCKET SEGI 6 GANDA<i>(Double Hex Socket)</i></b></string>
-    <string name="sockbintang"><b>SOCKET BINTANG<i>(Star Socket)</i></b></string>
+    <string name="kuncipas"><b>KUNCI PAS <i>(Open End Spanner)</i></b></string>
+    <string name="kunciring"><b>KUNCI RING <i>(Offset Ring Spanner)</i></b></string>
+    <string name="kuncikombina"><b>KUNCI KOMBINASI <i>(Combinatin Spanner)</i></b></string>
+    <string name="kuncinipel"><b>KUNCI NIPEL <i>(Flare Nut Spanner)</i></b></string>
+    <string name="kunciallen"><b>KUNCI ALLEN <i>(Allens Keys)</i></b></string>
+    <string name="kuncisocket"><b>KUNCI SOCKET <i>(Socket Wrench)</i></b></string>
+    <string name="sock6"><b>SOCKET SEGI 6 <i>(Single Hexagonal)</i></b></string>
+    <string name="sock6ganda"><b>SOCKET SEGI 6 GANDA <i>(Double Hex Socket)</i></b></string>
+    <string name="sockbintang"><b>SOCKET BINTANG <i>(Star Socket)</i></b></string>
     <string name="rachet"><b>RACHET</b></string>
-    <string name="kuncibusi"><b>KUNCI BUSI<i>(Spark Plug Socket)</i></b></string>
-    <string name="kunciroda"><b>KUNCI RODA<i>(Wheel Brace)</i></b></string>
-    <string name="kunciingris"><b>KUNCI INGGRIS<i>(Adjustable/Shifing Spanner)</i></b></string>
-    <string name="tangpotong"><b>TANG POTONG<i>(Side Cutting Plier)</i></b></string>
-    <string name="tangkombinasi"><b>TANG KOMBINASI<i>(Combination Plier)</i></b></string>
-    <string name="tangcucut"><b>TANG CUCUT<i>(Long Nose Plier)</i></b></string>
-    <string name="tangslip"><b>TANG SAMBUNGAN SLIP<i>(Slip Joint Pliers)</i></b></string>
-    <string name="tangair"><b>TANG AIR<i>(Interlocking joint plier/Multi Grip)</i></b></string>
-    <string name="tangvice"><b>TANG BUAYA<i>(Vice grip Plier/Interlock Grip Plier)</i></b></string>
-    <string name="tangsirklipluar"><b>TANG SIRKLIP LUAR<i>(External Circlip Pliers)</i></b></string>
-    <string name="tangsirklipdlam"><b>TANG SIRKLIP DALAM<i>(Internal Circlip Pliers)</i></b></string>
-    <string name="obengketok"><b>OBENG KETOK<i>(Impact screwdriver) </i></b></string>
-    <string name="obengplus"><b>OBENG PLUS<i>(Philips screwdriver)</i></b></string>
-    <string name="obengmin"><b>OBENG MINUS<i>(Slotte Screwdriver)</i></b></string>
-    <string name="palukonde"><b>PALU KONDE<i>(Ball Pen Hammer)</i></b></string>
-    <string name="palukaret"><b>PALU KARET<i>(Rubber Mallet)</i></b></string>
-    <string name="palukulit"><b>PALU KULIT<i>(Rawhide Hammer)</i></b></string>
-    <string name="paluplastik"><b>PALU PLASTIK<i>(Plastic Hammer)</i></b></string>
-    <string name="palukuningan"><b>PALU KUNINGAN<i>(Brass Hammer)</i></b></string>
-    <string name="pin"><b>PENITIK PENA<i>(Pin Punch)</i></b></string>
-    <string name="start"><b>PENITIK AWAL<i>Starting Punch</i></b></string>
+    <string name="kuncibusi"><b>KUNCI BUSI <i>(Spark Plug Socket)</i></b></string>
+    <string name="kunciroda"><b>KUNCI RODA <i>(Wheel Brace)</i></b></string>
+    <string name="kunciingris"><b>KUNCI INGGRIS <i>(Adjustable/Shifing Spanner)</i></b></string>
+    <string name="tangpotong"><b>TANG POTONG <i>(Side Cutting Plier)</i></b></string>
+    <string name="tangkombinasi"><b>TANG KOMBINASI <i>(Combination Plier)</i></b></string>
+    <string name="tangcucut"><b>TANG CUCUT <i>(Long Nose Plier)</i></b></string>
+    <string name="tangslip"><b>TANG SAMBUNGAN SLIP <i>(Slip Joint Pliers)</i></b></string>
+    <string name="tangair"><b>TANG AIR <i>(Interlocking joint plier/Multi Grip)</i></b></string>
+    <string name="tangvice"><b>TANG BUAYA <i>(Vice grip Plier/Interlock Grip Plier)</i></b></string>
+    <string name="tangsirklipluar"><b>TANG SIRKLIP LUAR <i>(External Circlip Pliers)</i></b></string>
+    <string name="tangsirklipdlam"><b>TANG SIRKLIP DALAM <i>(Internal Circlip Pliers)</i></b></string>
+    <string name="obengketok"><b>OBENG KETOK <i>(Impact screwdriver) </i></b></string>
+    <string name="obengplus"><b>OBENG PLUS <i>(Philips screwdriver)</i></b></string>
+    <string name="obengmin"><b>OBENG MINUS <i>(Slotte Screwdriver)</i></b></string>
+    <string name="palukonde"><b>PALU KONDE <i>(Ball Pen Hammer)</i></b></string>
+    <string name="palukaret"><b>PALU KARET <i>(Rubber Mallet)</i></b></string>
+    <string name="palukulit"><b>PALU KULIT <i>(Rawhide Hammer)</i></b></string>
+    <string name="paluplastik"><b>PALU PLASTIK <i>(Plastic Hammer)</i></b></string>
+    <string name="palukuningan"><b>PALU KUNINGAN <i>(Brass Hammer)</i></b></string>
+    <string name="pin"><b>PENITIK PENA <i>(Pin Punch)</i></b></string>
+    <string name="start"><b>PENITIK AWAL <i>(Starting Punch)</i></b></string>
     <string name="thread"><b>THREAD GAUGE</b></string>
-    <string name="feeler"><b>FEELER GAUGE<i>(Thickness Gauge)</i></b></string>
-    <string name="skrap"><b>SKRAP<i>(Gasket Scraper)</i></b></string>
-    <string name="breaker"><b>BATANG UNIVERSAL<i>(Breaker Bar)</i></b></string>
-    <string name="speed"><b>ENGKOL PERCEPATAN<i>(Speed Brace)</i></b></string>
-    <string name="sliding"><b>BATANG GESER T<i>(Sliding ’T’ Bar)</i></b></string>
-    <string name="Extension"><b>BATANG PERPANJANGAN SOCK<i>(Socket Extension Bar)</i></b></string>
-    <string name="uni"><b>SAMBUNGAN SOCK UNIVERSAL<i>(Universal Socket Joint Wrench)</i></b></string>
+    <string name="feeler"><b>FEELER GAUGE <i>(Thickness Gauge)</i></b></string>
+    <string name="skrap"><b>SKRAP <i>(Gasket Scraper)</i></b></string>
+    <string name="breaker"><b>BATANG UNIVERSAL <i>(Breaker Bar)</i></b></string>
+    <string name="speed"><b>ENGKOL PERCEPATAN <i>(Speed Brace)</i></b></string>
+    <string name="sliding"><b>BATANG GESER T <i>(Sliding ’T’ Bar)</i></b></string>
+    <string name="Extension"><b>BATANG PERPANJANGAN SOCK <i>(Socket Extension Bar)</i></b></string>
+    <string name="uni"><b>SAMBUNGAN SOCK UNIVERSAL <i>(Universal Socket Joint Wrench)</i></b></string>
 
 
 

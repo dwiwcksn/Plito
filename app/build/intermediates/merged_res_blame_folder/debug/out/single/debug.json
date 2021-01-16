@@ -1,11 +1,11 @@
 [
     {
-        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_bottom.xml.flat",
-        "source": "E:\\Plito\\app\\src\\main\\res\\layout\\activity_bottom.xml"
-    },
-    {
         "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_materi_satu.xml.flat",
         "source": "E:\\Plito\\app\\src\\main\\res\\layout\\activity_materi_satu.xml"
+    },
+    {
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_bottom.xml.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\layout\\activity_bottom.xml"
     },
     {
         "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_logo.png.flat",
@@ -66,6 +66,10 @@
     {
         "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_materi.png.flat",
         "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\materi.png"
+    },
+    {
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_sock.xml.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\layout\\fragment_sock.xml"
     },
     {
         "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rb_c_selector.xml.flat",
