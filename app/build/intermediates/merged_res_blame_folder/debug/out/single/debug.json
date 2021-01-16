@@ -432,6 +432,10 @@
         "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\addspeedbrace.png"
     },
     {
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_splash.png.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\splash.png"
+    },
+    {
         "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rb_d_selector.xml.flat",
         "source": "E:\\Plito\\app\\src\\main\\res\\drawable\\rb_d_selector.xml"
     },

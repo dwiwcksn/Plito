@@ -4,7 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    android:background="@color/bg1"
+    android:background="@drawable/bgfix2"
     tools:context=".ui.materi.kunci.Pas">
 
     <ScrollView
@@ -22,22 +22,24 @@
                 tools:ignore="UselessParent">
 
                 <androidx.appcompat.widget.AppCompatImageView
-                    android:layout_width="200dp"
-                    android:layout_height="160dp"
-                    android:layout_marginLeft="70dp"
-                    android:src="@drawable/tang"/>
+                    android:layout_width="238dp"
+                    android:layout_height="225dp"
+                    android:layout_marginLeft="90dp"
+                    android:layout_marginTop="-48dp"
+                    android:src="@drawable/tangair" />
+
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:layout_marginTop="6dp"
+                    android:layout_marginTop="-32dp"
                     android:layout_marginBottom="16dp"
+                    android:background="@drawable/degrad"
                     android:paddingTop="16dp"
-                    android:paddingBottom="8dp"
+                    android:paddingBottom="16dp"
+                    android:text="@string/tangair"
                     android:textAlignment="center"
-                    android:background="@drawable/bg_white"
-                    android:textSize="16sp"
-                    android:text="Kunci"
-                    android:textColor="@color/colorPrimaryDark"/>
+                    android:textColor="@color/color_dark"
+                    android:textSize="16sp" />
 
                 <com.github.florent37.expansionpanel.ExpansionHeader
                     android:layout_height="wrap_content"
@@ -49,7 +51,7 @@
                     app:expansion_toggleOnClick="true">
 
                     <RelativeLayout
-                        android:background="@drawable/bg_expand"
+                        android:background="@drawable/degrad"
                         android:layout_height="48dp"
                         android:layout_width="match_parent"
                         android:paddingLeft="16dp"
@@ -104,9 +106,9 @@
                             android:paddingBottom="8dp"
                             android:textSize="16sp"
                             android:elevation="2dp"
-                            android:textColor="@color/color_darkprime"
+                            android:textColor="@color/color_dark"
                             android:background="@drawable/bg_white"
-                            android:text="Ini Pengertian dan Fungsi Kunci kunci"/>
+                            android:text="@string/pengertian_tangcucut"/>
 
                     </LinearLayout>
                 </com.github.florent37.expansionpanel.ExpansionLayout>
@@ -114,14 +116,14 @@
                 <com.github.florent37.expansionpanel.ExpansionHeader
                     android:layout_height="wrap_content"
                     android:layout_width="match_parent"
-                    android:id="@+id/sampleHeader3"
+                    android:id="@+id/sampleHeader4"
                     android:layout_marginTop="8dp"
-                    app:expansion_headerIndicator="@id/headerIndicator3"
-                    app:expansion_layout="@id/expansionLayout3"
+                    app:expansion_headerIndicator="@id/headerIndicator4"
+                    app:expansion_layout="@id/expansionLayout4"
                     app:expansion_toggleOnClick="true">
 
                     <RelativeLayout
-                        android:background="@drawable/bg_expand"
+                        android:background="@drawable/degrad"
                         android:layout_height="48dp"
                         android:layout_width="match_parent"
                         android:paddingLeft="16dp"
@@ -131,7 +133,7 @@
                             android:layout_centerVertical="true"
                             android:layout_height="wrap_content"
                             android:layout_width="wrap_content"
-                            android:text="Cara Guna"
+                            android:text="Penggunaan"
                             android:textStyle="bold"
                             android:textColor="@color/color_darkprime"
                             android:textSize="16sp"
@@ -169,16 +171,16 @@
                             android:layout_height="wrap_content"
                             android:layout_marginTop="-12dp"
                             android:layout_marginBottom="2dp"
+                            android:background="@drawable/bg_white"
+                            android:elevation="2dp"
                             android:lineSpacingMultiplier="1.5"
-                            android:paddingTop="20dp"
                             android:paddingStart="8dp"
+                            android:paddingTop="20dp"
                             android:paddingEnd="8dp"
                             android:paddingBottom="8dp"
-                            android:textSize="16sp"
-                            android:elevation="2dp"
-                            android:textColor="@color/color_darkprime"
-                            android:background="@drawable/bg_white"
-                            android:text="Ini Cara Guna"/>
+                            android:text="@string/penggunaan_tangcucut"
+                            android:textColor="@color/color_dark"
+                            android:textSize="16sp" />
 
                     </LinearLayout>
                 </com.github.florent37.expansionpanel.ExpansionLayout>
@@ -193,7 +195,7 @@
                     app:expansion_toggleOnClick="true">
 
                     <RelativeLayout
-                        android:background="@drawable/bg_expand"
+                        android:background="@drawable/degrad"
                         android:layout_height="48dp"
                         android:layout_width="match_parent"
                         android:paddingLeft="16dp"
@@ -256,6 +258,7 @@
 
                     </LinearLayout>
                 </com.github.florent37.expansionpanel.ExpansionLayout>
+
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"

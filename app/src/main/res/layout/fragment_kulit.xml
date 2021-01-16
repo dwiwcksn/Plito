@@ -4,7 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    android:background="@color/white"
+    android:background="@drawable/bgfix2"
     tools:context=".ui.materi.kunci.Pas">
 
     <ScrollView
@@ -22,19 +22,20 @@
                 tools:ignore="UselessParent">
  <androidx.appcompat.widget.AppCompatImageView
                     android:layout_width="match_parent"
-                    android:layout_height="80dp"
-                    android:src="@drawable/mood_up"/>
+                    android:layout_height="200dp"
+                    android:src="@drawable/palukulit"/>
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="-8dp"
                     android:layout_marginBottom="16dp"
                     android:paddingTop="16dp"
-                    android:paddingBottom="8dp"
+                    android:paddingBottom="16dp"
                     android:textAlignment="center"
                     android:textSize="16sp"
-                    android:text="Palu Kulit"
-                    android:textColor="@color/colorPrimaryDark"/>
+                    android:background="@drawable/degrad"
+                    android:text="@string/palukulit"
+                    android:textColor="@color/color_dark"/>
 
                 <com.github.florent37.expansionpanel.ExpansionHeader
                     android:layout_height="wrap_content"
@@ -46,7 +47,7 @@
                     app:expansion_toggleOnClick="true">
 
                     <RelativeLayout
-                        android:background="@drawable/bg_expand"
+                        android:background="@drawable/degrad"
                         android:layout_height="48dp"
                         android:layout_width="match_parent"
                         android:paddingLeft="16dp"
@@ -101,9 +102,9 @@
                             android:paddingBottom="8dp"
                             android:textSize="16sp"
                             android:elevation="2dp"
-                            android:textColor="@color/color_darkprime"
+                            android:textColor="@color/color_dark"
                             android:background="@drawable/bg_white"
-                            android:text="Ini Pengertian dan Fungsi Kunci kunci"/>
+                            android:text="@string/pengertian_palukulit"/>
 
                     </LinearLayout>
                 </com.github.florent37.expansionpanel.ExpansionLayout>
@@ -118,7 +119,7 @@
                     app:expansion_toggleOnClick="true">
 
                     <RelativeLayout
-                        android:background="@drawable/bg_expand"
+                        android:background="@drawable/degrad"
                         android:layout_height="48dp"
                         android:layout_width="match_parent"
                         android:paddingLeft="16dp"
@@ -128,7 +129,7 @@
                             android:layout_centerVertical="true"
                             android:layout_height="wrap_content"
                             android:layout_width="wrap_content"
-                            android:text="Cara Guna"
+                            android:text="Penggunaan"
                             android:textStyle="bold"
                             android:textColor="@color/color_darkprime"
                             android:textSize="16sp"
@@ -173,9 +174,9 @@
                             android:paddingBottom="8dp"
                             android:textSize="16sp"
                             android:elevation="2dp"
-                            android:textColor="@color/color_darkprime"
+                            android:textColor="@color/color_dark"
                             android:background="@drawable/bg_white"
-                            android:text="Ini Cara Guna"/>
+                            android:text="@string/fungsi_palukulit"/>
 
                     </LinearLayout>
                 </com.github.florent37.expansionpanel.ExpansionLayout>
