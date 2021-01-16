@@ -39,7 +39,7 @@
                 <com.github.florent37.expansionpanel.ExpansionHeader
                     android:layout_height="wrap_content"
                     android:layout_width="match_parent"
-                    android:id="@+id/sampleHeader"
+                    android:id="@+id/sampleHeader17"
                     android:layout_marginTop="8dp"
                     app:expansion_headerIndicator="@id/headerIndicator"
                     app:expansion_layout="@id/expansionLayout"
@@ -67,7 +67,7 @@
 
                         <androidx.appcompat.widget.AppCompatImageView
                             android:adjustViewBounds="true"
-                            android:id="@+id/headerIndicator"
+                            android:id="@+id/headerIndicator17"
                             android:layout_alignParentEnd="true"
                             android:layout_centerVertical="true"
                             android:layout_height="wrap_content"
@@ -78,13 +78,13 @@
                     </RelativeLayout>
                 </com.github.florent37.expansionpanel.ExpansionHeader>
                 <com.github.florent37.expansionpanel.ExpansionLayout
-                    android:id="@+id/expansionLayout"
+                    android:id="@+id/expansionLayout17"
                     app:expansion_expanded="false"
                     android:layout_height="wrap_content"
                     android:layout_width="match_parent">
 
                     <LinearLayout
-                        android:id="@+id/container"
+                        android:id="@+id/container17"
                         android:layout_height="wrap_content"
                         android:layout_width="match_parent"
                         android:orientation="vertical">
@@ -111,7 +111,7 @@
                 <com.github.florent37.expansionpanel.ExpansionHeader
                     android:layout_height="wrap_content"
                     android:layout_width="match_parent"
-                    android:id="@+id/sampleHeader4"
+                    android:id="@+id/sampleHeader18"
                     android:layout_marginTop="8dp"
                     app:expansion_headerIndicator="@id/headerIndicator4"
                     app:expansion_layout="@id/expansionLayout4"
@@ -139,7 +139,7 @@
 
                         <androidx.appcompat.widget.AppCompatImageView
                             android:adjustViewBounds="true"
-                            android:id="@+id/headerIndicator4"
+                            android:id="@+id/headerIndicator18"
                             android:layout_alignParentEnd="true"
                             android:layout_centerVertical="true"
                             android:layout_height="wrap_content"
@@ -150,13 +150,13 @@
                     </RelativeLayout>
                 </com.github.florent37.expansionpanel.ExpansionHeader>
                 <com.github.florent37.expansionpanel.ExpansionLayout
-                    android:id="@+id/expansionLayout4"
+                    android:id="@+id/expansionLayout18"
                     app:expansion_expanded="false"
                     android:layout_height="wrap_content"
                     android:layout_width="match_parent">
 
                     <LinearLayout
-                        android:id="@+id/container4"
+                        android:id="@+id/container18"
                         android:layout_height="wrap_content"
                         android:layout_width="match_parent"
                         android:orientation="vertical">
@@ -183,7 +183,7 @@
                 <com.github.florent37.expansionpanel.ExpansionHeader
                     android:layout_height="wrap_content"
                     android:layout_width="match_parent"
-                    android:id="@+id/sampleHeader5"
+                    android:id="@+id/sampleHeader19"
                     android:layout_marginTop="8dp"
                     app:expansion_headerIndicator="@id/headerIndicator5"
                     app:expansion_layout="@id/expansionLayout5"
@@ -211,7 +211,7 @@
 
                         <androidx.appcompat.widget.AppCompatImageView
                             android:adjustViewBounds="true"
-                            android:id="@+id/headerIndicator5"
+                            android:id="@+id/headerIndicator19"
                             android:layout_alignParentEnd="true"
                             android:layout_centerVertical="true"
                             android:layout_height="wrap_content"
@@ -222,13 +222,13 @@
                     </RelativeLayout>
                 </com.github.florent37.expansionpanel.ExpansionHeader>
                 <com.github.florent37.expansionpanel.ExpansionLayout
-                    android:id="@+id/expansionLayout5"
+                    android:id="@+id/expansionLayout19"
                     app:expansion_expanded="false"
                     android:layout_height="wrap_content"
                     android:layout_width="match_parent">
 
                     <LinearLayout
-                        android:id="@+id/container5"
+                        android:id="@+id/container19"
                         android:layout_height="wrap_content"
                         android:layout_width="match_parent"
                         android:orientation="vertical">
