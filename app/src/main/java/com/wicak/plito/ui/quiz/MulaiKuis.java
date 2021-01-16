@@ -32,59 +32,59 @@ public class MulaiKuis extends AppCompatActivity {
     public static int hasil, benar, salah;
 
     String[] nomor_urut = new String[]{
-            "1", "2","3","4","5","6","7","8","9","10"
+            "1","2","3","4","5","6","7","8","9","10"
 
     };
     String[] pertanyaan_kuis = new String[]{
-            "Yang tidak termasuk dalam komponen dasar dalam sebuah ER-Diagram adalah ",
-            "Atribut adalah ",
-            "Dalam ER-Diagram, Atribut yang didapatkan dari pengolahan nilai atau atribut lain disebut ",
-            "Atribut key dapat dibedakan menjadi tiga, yaitu",
-            "Primary key dalam tabel berikut adalah",
-            "Relasi adalah",
-            "Gambar berikut merupakan derajat relasi ",
-            "Gambar dibawah ini merupakan contoh dari relasi",
-            "Dalam kegiatan pembelajaran disekolah, bagaimanakah bentuk kardinalitas dari relasi antara entitas Siswa dengan entitas Mapel",
-            "Setiap anggota entitas X dapat berhubungan dengan lebih dari satu anggota entitas Y namun tidak sebaliknya merupakan definisi dari"
+            "Hand Tools adalah ",
+            "Kunci yang penggunannya tidak boleh untuk mengendorkan atau merapatkan baut/mur adalah ",
+            "Saat pelepasan baut selang rem kunci yang digunakan adalah",
+            "Fungsi dari gambar alat dibawah ini adalah",
+            "Alat yang digunakan untuk mengukur celah suatu benda kerja adalah",
+            "Fungsi alat pada gambar dibawah ini adalah",
+            "Tang yang berfungsi untuk melepas pengunci dalam piston adalah",
+            "Saat proses membuka sekrup yang memiliki kekencangan lebih sebaiknya menggunakan",
+            "Tang pada gambar digunakan saat",
+            "Saat proses pembukaan baut tidak ada kunci dengan ukuran yang sesuai, maka alat yang dapat digunakan adalah"
 
     };
 
     String[] pilihan_jawaban = new String[]{
-            "Atribut","Entitas","File","Relasi",
-            "Object yang mewakili sesuatu yang nyata","Batasan kombinasi suatu entitas","Hubungan antara dua atau beberapa entitas","Karakteristik khusus yang dimiliki suatu entitas",
-            "Single Valued Attribute","Derived Attribute","Mandatory Attribute","Composite Attribute",
-            "Primary key, Super key, Candidate key","Foreign key, Primary key, Super key","Super key, Candidate key, Foreign key","Primary key, Candidate key, Foreign key",
-            "NIS","Nama","Kelas","Alamat",
-            "Object yang mewakili sesuatu yang nyata","Batasan kombinasi suatu entitas","Hubungan antara dua atau beberapa entitas","Karakteristik khusus yang dimiliki suatu entitas",
-            "Unary Degree","Binary Degree","Ternary Degree","Multi Degree",
-            "Unary degree dengan kardinalitas one to many","Binary degree dengan kardinalitas many to many","Ternary degree dengan kardinalitas one to many","Ternary degree dengan kardinalitas many to many",
-            "One to One","One to Many","Many to One","Many to Many",
-            "One to One","One to Many","Many to One","Many to Many"
+            "Alat yang penggunaanya membutuhkan bantuan alat tenaga","Alat yang bisa dipakai mekanik","Alat yang penggunaanya menggunakan tangan dari tenaga manusia","Alat yang bida dipegang oleh tangan",
+            "Kunci Pas","Kunci Allen","Kunci Ring","Kunci Nipel",
+            "Kunci Ring","Kunci socket","Kunci Inggris","Kunci Nipel",
+            "Mengukur celah benda","Mengukur tinggi baut","Mengidentifikasi jenis ulir","Mengidentifikasi lebar baut",
+            "Thread Gauge","Feeler Gauge","Allen Key","Pin Punch",
+            "Melepas pin penahan komponen","Pembuka awal pin penahan komponen","Penanda pada komponen","Pengunci pin penahan komponen",
+            "Slip Joint Pliers","Internal Circlip Pliers","External Circlip Pliers","Vice Grip Pliers",
+            "Philips Screwdriver","Slotte Screwdriver","Combination Screwdriver","Impact Screwdriver",
+            "Saat pekerjaan di ruangan sempit","Pekerjaan memotong kabel/kawat","Mencengkeram plat","Membentuk batang besi",
+            "Interlocking Joint Plier","Combination Plier","Shifing Spanner","Flare Nut Spanner"
     };
 
     String[] jawaban_benar = new String[]{
-            "File",
-            "Karakteristik khusus yang dimiliki suatu entitas",
-            "Derived Attribute",
-            "Primary key, Super key, Candidate key",
-            "NIS",
-            "Hubungan antara dua atau beberapa entitas",
-            "Binary Degree",
-            "Atribut",
-            "Many to Many",
-            "One to Many"
+            "Alat yang penggunaanya menggunakan tangan dari tenaga manusia",
+            "Kunci Pas",
+            "Kunci Nipel",
+            "Mengidentifikasi jenis ulir",
+            "Feeler Gauge",
+            "Melepas pin penahan komponen",
+            "Internal Circlip Pliers",
+            "Impact Screwdriver",
+            "Saat pekerjaan di ruangan sempit",
+            "Shifing Spanner"
     };
 
     private static final Integer[] img ={
             R.drawable.rb_a_checked,
             R.drawable.rb_a_checked,
-            R.drawable.data_cleaning,
+            R.drawable.rb_a_checked,
+            R.drawable.addthread,
+            R.drawable.rb_a_checked,
+            R.drawable.addpinpunch,
             R.drawable.rb_a_checked,
             R.drawable.rb_a_checked,
-            R.drawable.rb_a_checked,
-            R.drawable.rb_a_checked,
-            R.drawable.rb_a_checked,
-            R.drawable.rb_a_checked,
+            R.drawable.tangcucut,
             R.drawable.rb_a_checked
     };
 

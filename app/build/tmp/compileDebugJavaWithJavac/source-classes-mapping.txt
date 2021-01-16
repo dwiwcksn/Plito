@@ -113,10 +113,9 @@ com/wicak/plito/BottomActivity.java
 com/wicak/plito/ui/materi/extension/Gauge.java
  com.wicak.plito.ui.materi.extension.Gauge
  com.wicak.plito.ui.materi.extension.Gauge$1
-com/wicak/plito/ui/quiz/HasilKuis.java
- com.wicak.plito.ui.quiz.HasilKuis
- com.wicak.plito.ui.quiz.HasilKuis$1
- com.wicak.plito.ui.quiz.HasilKuis$2
+com/wicak/plito/ui/materi/kunci/Inggris.java
+ com.wicak.plito.ui.materi.kunci.Inggris
+ com.wicak.plito.ui.materi.kunci.Inggris$1
 com/wicak/plito/ui/chat/ChatViewModel.java
  com.wicak.plito.ui.chat.ChatViewModel
 com/wicak/plito/ui/chat/Room.java
@@ -135,18 +134,19 @@ com/wicak/plito/ui/materi/extension/TabsExtension.java
  com.wicak.plito.ui.materi.extension.TabsExtension$ViewPagerAdapter
 com/wicak/plito/ui/materi/kunci/video/VideoAllen.java
  com.wicak.plito.ui.materi.kunci.video.VideoAllen
-com/wicak/plito/ui/quiz/MulaiKuis.java
- com.wicak.plito.ui.quiz.MulaiKuis
- com.wicak.plito.ui.quiz.MulaiKuis$1
- com.wicak.plito.ui.quiz.MulaiKuis$2
+com/wicak/plito/SignUpActivity.java
+ com.wicak.plito.SignUpActivity
+ com.wicak.plito.SignUpActivity$1
+ com.wicak.plito.SignUpActivity$2
+ com.wicak.plito.SignUpActivity$3
+ com.wicak.plito.SignUpActivity$4
+ com.wicak.plito.SignUpActivity$4$1
 com/wicak/plito/ui/materi/MateriAdapter.java
  com.wicak.plito.ui.materi.MateriAdapter
 com/wicak/plito/BuildConfig.java
  com.wicak.plito.BuildConfig
-com/wicak/plito/ui/quiz/QuizFragment.java
- com.wicak.plito.ui.quiz.QuizFragment
- com.wicak.plito.ui.quiz.QuizFragment$1
- com.wicak.plito.ui.quiz.QuizFragment$2
+com/wicak/plito/ui/materi/palu/MtrDua.java
+ com.wicak.plito.ui.materi.palu.MtrDua
 com/wicak/plito/ui/chat/ChatFragment.java
  com.wicak.plito.ui.chat.ChatFragment
  com.wicak.plito.ui.chat.ChatFragment$1
@@ -207,15 +207,15 @@ com/wicak/plito/ui/materi/obeng/Ketok.java
  com.wicak.plito.ui.materi.obeng.Ketok$1
 com/wicak/plito/ui/home/HomeFragment.java
  com.wicak.plito.ui.home.HomeFragment
-com/wicak/plito/ui/materi/kunci/Inggris.java
- com.wicak.plito.ui.materi.kunci.Inggris
- com.wicak.plito.ui.materi.kunci.Inggris$1
-com/wicak/plito/ui/materi/palu/MtrDua.java
- com.wicak.plito.ui.materi.palu.MtrDua
-com/wicak/plito/SignUpActivity.java
- com.wicak.plito.SignUpActivity
- com.wicak.plito.SignUpActivity$1
- com.wicak.plito.SignUpActivity$2
- com.wicak.plito.SignUpActivity$3
- com.wicak.plito.SignUpActivity$4
- com.wicak.plito.SignUpActivity$4$1
+com/wicak/plito/ui/quiz/MulaiKuis.java
+ com.wicak.plito.ui.quiz.MulaiKuis
+ com.wicak.plito.ui.quiz.MulaiKuis$1
+ com.wicak.plito.ui.quiz.MulaiKuis$2
+com/wicak/plito/ui/quiz/QuizFragment.java
+ com.wicak.plito.ui.quiz.QuizFragment
+ com.wicak.plito.ui.quiz.QuizFragment$1
+ com.wicak.plito.ui.quiz.QuizFragment$2
+com/wicak/plito/ui/quiz/HasilKuis.java
+ com.wicak.plito.ui.quiz.HasilKuis
+ com.wicak.plito.ui.quiz.HasilKuis$1
+ com.wicak.plito.ui.quiz.HasilKuis$2
