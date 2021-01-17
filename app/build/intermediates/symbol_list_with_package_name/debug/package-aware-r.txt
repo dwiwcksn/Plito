@@ -1845,6 +1845,8 @@ id bounce
 id btn_send
 id buttonPanel
 id button_vid
+id button_vid1
+id button_vid2
 id button_vid_nipel
 id button_vid_ring
 id cancel_action
@@ -2314,6 +2316,7 @@ id uniform
 id unlabeled
 id up
 id useLogo
+id video_player_view
 id video_title
 id view_offset_helper
 id view_tree_lifecycle_owner
@@ -2519,12 +2522,12 @@ layout text_view_with_line_height_from_layout
 layout text_view_with_line_height_from_style
 layout text_view_with_theme_line_height
 layout text_view_without_line_height
-layout video_allen
 layout video_inggris
 layout video_kunci_kombi
 layout video_kunci_pas
 layout video_kunci_ring
 layout video_nipel
+layout video_player
 layout video_rachet
 layout video_roda
 layout video_socket

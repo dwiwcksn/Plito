@@ -28,6 +28,8 @@
         <activity
             android:name="com.wicak.plito.ui.chat.RoomActivity"
             android:theme="@style/AppTheme.NoActionBar" />
+
+        <!-- Video Kunci -->
         <activity
             android:name="com.wicak.plito.ui.materi.kunci.video.VideoKunciPas"
             android:screenOrientation="landscape"
@@ -64,6 +66,83 @@
             android:name="com.wicak.plito.ui.materi.kunci.video.VideoNipel"
             android:screenOrientation="landscape"
             android:theme="@style/AppTheme.NoActionBar" />
+
+        <!-- Akhir Video Kunci -->
+        <!-- Video Obeng -->
+        <activity
+            android:name="com.wicak.plito.ui.materi.obeng.video.VideoKetok"
+            android:screenOrientation="landscape"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.wicak.plito.ui.materi.obeng.video.VideoMinus"
+            android:screenOrientation="landscape"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.wicak.plito.ui.materi.obeng.video.VideoPlus"
+            android:screenOrientation="landscape"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <!-- Akhir Video Obeng -->
+
+
+        <!-- Video Extension -->
+        <activity
+            android:name="com.wicak.plito.ui.materi.extension.video.VideoSkrap"
+            android:screenOrientation="landscape"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.wicak.plito.ui.materi.extension.video.VideoPena"
+            android:screenOrientation="landscape"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.wicak.plito.ui.materi.extension.video.VideoAwal"
+            android:screenOrientation="landscape"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.wicak.plito.ui.materi.extension.video.VideoThread"
+            android:screenOrientation="landscape"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.wicak.plito.ui.materi.extension.video.VideoFeeler"
+            android:screenOrientation="landscape"
+            android:theme="@style/AppTheme.NoActionBar" />
+
+        <!-- Akhir Video Extension -->
+
+
+        <!-- Video Tang -->
+        <activity
+            android:name="com.wicak.plito.ui.materi.tang.video.VideoTangKombinasi"
+            android:screenOrientation="landscape"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.wicak.plito.ui.materi.tang.video.VideoSlip"
+            android:screenOrientation="landscape"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.wicak.plito.ui.materi.tang.video.VideoViceGrip"
+            android:screenOrientation="landscape"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.wicak.plito.ui.materi.tang.video.VideoPotong"
+            android:screenOrientation="landscape"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.wicak.plito.ui.materi.tang.video.VideoAir"
+            android:screenOrientation="landscape"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.wicak.plito.ui.materi.tang.video.VideoSirklipDalam"
+            android:screenOrientation="landscape"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.wicak.plito.ui.materi.tang.video.VideoSirklipLuar"
+            android:screenOrientation="landscape"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.wicak.plito.ui.materi.tang.video.VideoCucut"
+            android:screenOrientation="landscape"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <!-- Akhir Video Tang -->
         <activity
             android:name="com.wicak.plito.ui.chat.ChatMessage"
             android:parentActivityName="com.wicak.plito.ui.chat.RoomActivity" />
@@ -74,7 +153,6 @@
             android:name="com.wicak.plito.SignUpActivity"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity android:name="com.wicak.plito.ui.materi.tang.MateriEmpat" />
-        <activity android:name="com.wicak.plito.ui.materi.extention.MateriLima" />
         <activity android:name="com.wicak.plito.ui.materi.obeng.MateriTiga" />
         <activity android:name="com.wicak.plito.ui.materi.palu.MateriDua" />
         <activity android:name="com.wicak.plito.ui.materi.kunci.MateriSatu" />

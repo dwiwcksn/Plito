@@ -44,8 +44,8 @@
                     android:layout_width="match_parent"
                     android:id="@+id/sampleHeader23"
                     android:layout_marginTop="8dp"
-                    app:expansion_headerIndicator="@id/headerIndicator"
-                    app:expansion_layout="@id/expansionLayout"
+                    app:expansion_headerIndicator="@id/headerIndicator23"
+                    app:expansion_layout="@id/expansionLayout23"
                     app:expansion_toggleOnClick="true">
 
                     <RelativeLayout
@@ -141,8 +141,8 @@
                     android:layout_width="match_parent"
                     android:id="@+id/sampleHeader24"
                     android:layout_marginTop="8dp"
-                    app:expansion_headerIndicator="@id/headerIndicator"
-                    app:expansion_layout="@id/expansionLayout"
+                    app:expansion_headerIndicator="@id/headerIndicator24"
+                    app:expansion_layout="@id/expansionLayout24"
                     app:expansion_toggleOnClick="true">
 
                     <RelativeLayout
@@ -237,8 +237,8 @@
                     android:layout_width="match_parent"
                     android:id="@+id/sampleHeader25"
                     android:layout_marginTop="8dp"
-                    app:expansion_headerIndicator="@id/headerIndicator"
-                    app:expansion_layout="@id/expansionLayout"
+                    app:expansion_headerIndicator="@id/headerIndicator25"
+                    app:expansion_layout="@id/expansionLayout25"
                     app:expansion_toggleOnClick="true">
 
                     <RelativeLayout
@@ -333,8 +333,8 @@
                     android:layout_width="match_parent"
                     android:id="@+id/sampleHeader26"
                     android:layout_marginTop="8dp"
-                    app:expansion_headerIndicator="@id/headerIndicator"
-                    app:expansion_layout="@id/expansionLayout"
+                    app:expansion_headerIndicator="@id/headerIndicator26"
+                    app:expansion_layout="@id/expansionLayout26"
                     app:expansion_toggleOnClick="true">
 
                     <RelativeLayout

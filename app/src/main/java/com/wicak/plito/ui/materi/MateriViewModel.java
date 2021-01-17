@@ -16,7 +16,6 @@ import com.wicak.plito.ui.materi.extension.TabsExtension;
 import com.wicak.plito.ui.materi.obeng.TabsObeng;
 import com.wicak.plito.ui.materi.palu.TabsPalu;
 import com.wicak.plito.ui.materi.tang.MateriEmpat;
-import com.wicak.plito.ui.materi.extention.MateriLima;
 import com.wicak.plito.ui.materi.kunci.TabsKunci;
 import com.wicak.plito.ui.materi.obeng.MateriTiga;
 import com.wicak.plito.ui.materi.tang.TabsTang;

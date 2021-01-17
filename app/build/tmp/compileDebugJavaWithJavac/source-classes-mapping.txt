@@ -22,6 +22,10 @@ com/wicak/plito/ui/info/User.java
  com.wicak.plito.ui.info.User
 com/wicak/plito/ui/materi/kunci/video/VideoKunciKombi.java
  com.wicak.plito.ui.materi.kunci.video.VideoKunciKombi
+ com.wicak.plito.ui.materi.kunci.video.VideoKunciKombi$1
+com/wicak/plito/ui/materi/tang/video/VideoSirklipDalam.java
+ com.wicak.plito.ui.materi.tang.video.VideoSirklipDalam
+ com.wicak.plito.ui.materi.tang.video.VideoSirklipDalam$1
 com/wicak/plito/ui/chat/ChatMessage.java
  com.wicak.plito.ui.chat.ChatMessage
  com.wicak.plito.ui.chat.ChatMessage$1
@@ -46,6 +50,10 @@ com/wicak/plito/ui/materi/obeng/TabsObeng.java
  com.wicak.plito.ui.materi.obeng.TabsObeng$ViewPagerAdapter
 com/wicak/plito/ui/materi/kunci/video/VideoNipel.java
  com.wicak.plito.ui.materi.kunci.video.VideoNipel
+ com.wicak.plito.ui.materi.kunci.video.VideoNipel$1
+com/wicak/plito/ui/materi/extension/video/VideoSkrap.java
+ com.wicak.plito.ui.materi.extension.video.VideoSkrap
+ com.wicak.plito.ui.materi.extension.video.VideoSkrap$1
 com/wicak/plito/ui/materi/kunci/TabsKunci.java
  com.wicak.plito.ui.materi.kunci.TabsKunci
  com.wicak.plito.ui.materi.kunci.TabsKunci$ViewPagerAdapter
@@ -56,28 +64,41 @@ com/wicak/plito/ui/materi/MateriViewModel.java
  com.wicak.plito.ui.materi.MateriViewModel$1
 com/wicak/plito/ui/materi/palu/MateriDuaAdapter.java
  com.wicak.plito.ui.materi.palu.MateriDuaAdapter
-com/wicak/plito/ui/materi/extention/MateriLima.java
- com.wicak.plito.ui.materi.extention.MateriLima
+com/wicak/plito/ui/materi/extension/video/VideoFeeler.java
+ com.wicak.plito.ui.materi.extension.video.VideoFeeler
+ com.wicak.plito.ui.materi.extension.video.VideoFeeler$1
 com/wicak/plito/ui/materi/palu/TabsPalu.java
  com.wicak.plito.ui.materi.palu.TabsPalu
  com.wicak.plito.ui.materi.palu.TabsPalu$ViewPagerAdapter
 com/wicak/plito/ui/materi/tang/Vicegrip.java
  com.wicak.plito.ui.materi.tang.Vicegrip
  com.wicak.plito.ui.materi.tang.Vicegrip$1
+com/wicak/plito/ui/materi/tang/video/VideoSirklipLuar.java
+ com.wicak.plito.ui.materi.tang.video.VideoSirklipLuar
+ com.wicak.plito.ui.materi.tang.video.VideoSirklipLuar$1
 com/wicak/plito/ui/chat/Message.java
  com.wicak.plito.ui.chat.Message
 com/wicak/plito/ui/materi/extension/PinPunch.java
  com.wicak.plito.ui.materi.extension.PinPunch
  com.wicak.plito.ui.materi.extension.PinPunch$1
+ com.wicak.plito.ui.materi.extension.PinPunch$2
 com/wicak/plito/ui/materi/kunci/video/VideoKunciRing.java
  com.wicak.plito.ui.materi.kunci.video.VideoKunciRing
+ com.wicak.plito.ui.materi.kunci.video.VideoKunciRing$1
 com/wicak/plito/ui/materi/palu/MateriDua.java
  com.wicak.plito.ui.materi.palu.MateriDua
+com/wicak/plito/ui/materi/tang/video/VideoViceGrip.java
+ com.wicak.plito.ui.materi.tang.video.VideoViceGrip
+ com.wicak.plito.ui.materi.tang.video.VideoViceGrip$1
 com/wicak/plito/ui/materi/tang/MateriEmpat.java
  com.wicak.plito.ui.materi.tang.MateriEmpat
+com/wicak/plito/ui/materi/tang/video/VideoPotong.java
+ com.wicak.plito.ui.materi.tang.video.VideoPotong
+ com.wicak.plito.ui.materi.tang.video.VideoPotong$1
 com/wicak/plito/ui/materi/tang/Sirklip.java
  com.wicak.plito.ui.materi.tang.Sirklip
  com.wicak.plito.ui.materi.tang.Sirklip$1
+ com.wicak.plito.ui.materi.tang.Sirklip$2
 com/wicak/plito/ui/chat/RoomActivity.java
  com.wicak.plito.ui.chat.RoomActivity
  com.wicak.plito.ui.chat.RoomActivity$1
@@ -95,9 +116,14 @@ com/wicak/plito/ui/materi/obeng/MateriTiga.java
  com.wicak.plito.ui.materi.obeng.MateriTiga
 com/wicak/plito/ui/materi/kunci/MtrSatu.java
  com.wicak.plito.ui.materi.kunci.MtrSatu
+com/wicak/plito/ui/materi/extension/Sock.java
+ com.wicak.plito.ui.materi.extension.Sock
 com/wicak/plito/ui/materi/kunci/Nipel.java
  com.wicak.plito.ui.materi.kunci.Nipel
  com.wicak.plito.ui.materi.kunci.Nipel$1
+com/wicak/plito/ui/materi/tang/video/VideoTangKombinasi.java
+ com.wicak.plito.ui.materi.tang.video.VideoTangKombinasi
+ com.wicak.plito.ui.materi.tang.video.VideoTangKombinasi$1
 com/wicak/plito/ui/materi/palu/MateriDuaViewModel.java
  com.wicak.plito.ui.materi.palu.MateriDuaViewModel
  com.wicak.plito.ui.materi.palu.MateriDuaViewModel$1
@@ -105,6 +131,7 @@ com/wicak/plito/ui/home/HomeViewModel.java
  com.wicak.plito.ui.home.HomeViewModel
 com/wicak/plito/ui/materi/kunci/video/VideoKunciPas.java
  com.wicak.plito.ui.materi.kunci.video.VideoKunciPas
+ com.wicak.plito.ui.materi.kunci.video.VideoKunciPas$1
 com/wicak/plito/ui/materi/tang/TabsTang.java
  com.wicak.plito.ui.materi.tang.TabsTang
  com.wicak.plito.ui.materi.tang.TabsTang$ViewPagerAdapter
@@ -113,13 +140,18 @@ com/wicak/plito/BottomActivity.java
 com/wicak/plito/ui/materi/extension/Gauge.java
  com.wicak.plito.ui.materi.extension.Gauge
  com.wicak.plito.ui.materi.extension.Gauge$1
-com/wicak/plito/ui/materi/kunci/Inggris.java
- com.wicak.plito.ui.materi.kunci.Inggris
- com.wicak.plito.ui.materi.kunci.Inggris$1
+ com.wicak.plito.ui.materi.extension.Gauge$2
+com/wicak/plito/ui/quiz/HasilKuis.java
+ com.wicak.plito.ui.quiz.HasilKuis
+ com.wicak.plito.ui.quiz.HasilKuis$1
+ com.wicak.plito.ui.quiz.HasilKuis$2
 com/wicak/plito/ui/chat/ChatViewModel.java
  com.wicak.plito.ui.chat.ChatViewModel
 com/wicak/plito/ui/chat/Room.java
  com.wicak.plito.ui.chat.Room
+com/wicak/plito/ui/materi/obeng/video/VideoPlus.java
+ com.wicak.plito.ui.materi.obeng.video.VideoPlus
+ com.wicak.plito.ui.materi.obeng.video.VideoPlus$1
 com/wicak/plito/ui/chat/RoomAdapter.java
  com.wicak.plito.ui.chat.RoomAdapter
 com/wicak/plito/ui/materi/kunci/Roda.java
@@ -127,26 +159,38 @@ com/wicak/plito/ui/materi/kunci/Roda.java
  com.wicak.plito.ui.materi.kunci.Roda$1
 com/wicak/plito/ui/materi/palu/Besi.java
  com.wicak.plito.ui.materi.palu.Besi
+com/wicak/plito/ui/materi/obeng/video/VideoKetok.java
+ com.wicak.plito.ui.materi.obeng.video.VideoKetok
+ com.wicak.plito.ui.materi.obeng.video.VideoKetok$1
+com/wicak/plito/ui/materi/tang/video/VideoSlip.java
+ com.wicak.plito.ui.materi.tang.video.VideoSlip
+ com.wicak.plito.ui.materi.tang.video.VideoSlip$1
 com/wicak/plito/ui/materi/palu/Kulit.java
  com.wicak.plito.ui.materi.palu.Kulit
+com/wicak/plito/ui/materi/extension/video/VideoPena.java
+ com.wicak.plito.ui.materi.extension.video.VideoPena
+ com.wicak.plito.ui.materi.extension.video.VideoPena$1
+com/wicak/plito/ui/materi/tang/video/VideoCucut.java
+ com.wicak.plito.ui.materi.tang.video.VideoCucut
+ com.wicak.plito.ui.materi.tang.video.VideoCucut$1
 com/wicak/plito/ui/materi/extension/TabsExtension.java
  com.wicak.plito.ui.materi.extension.TabsExtension
  com.wicak.plito.ui.materi.extension.TabsExtension$ViewPagerAdapter
 com/wicak/plito/ui/materi/kunci/video/VideoAllen.java
  com.wicak.plito.ui.materi.kunci.video.VideoAllen
-com/wicak/plito/SignUpActivity.java
- com.wicak.plito.SignUpActivity
- com.wicak.plito.SignUpActivity$1
- com.wicak.plito.SignUpActivity$2
- com.wicak.plito.SignUpActivity$3
- com.wicak.plito.SignUpActivity$4
- com.wicak.plito.SignUpActivity$4$1
+ com.wicak.plito.ui.materi.kunci.video.VideoAllen$1
+com/wicak/plito/ui/quiz/MulaiKuis.java
+ com.wicak.plito.ui.quiz.MulaiKuis
+ com.wicak.plito.ui.quiz.MulaiKuis$1
+ com.wicak.plito.ui.quiz.MulaiKuis$2
 com/wicak/plito/ui/materi/MateriAdapter.java
  com.wicak.plito.ui.materi.MateriAdapter
 com/wicak/plito/BuildConfig.java
  com.wicak.plito.BuildConfig
-com/wicak/plito/ui/materi/palu/MtrDua.java
- com.wicak.plito.ui.materi.palu.MtrDua
+com/wicak/plito/ui/quiz/QuizFragment.java
+ com.wicak.plito.ui.quiz.QuizFragment
+ com.wicak.plito.ui.quiz.QuizFragment$1
+ com.wicak.plito.ui.quiz.QuizFragment$2
 com/wicak/plito/ui/chat/ChatFragment.java
  com.wicak.plito.ui.chat.ChatFragment
  com.wicak.plito.ui.chat.ChatFragment$1
@@ -170,6 +214,9 @@ com/wicak/plito/ui/materi/kunci/Rachet.java
 com/wicak/plito/SplashScreen.java
  com.wicak.plito.SplashScreen
  com.wicak.plito.SplashScreen$1
+com/wicak/plito/ui/materi/obeng/video/VideoMinus.java
+ com.wicak.plito.ui.materi.obeng.video.VideoMinus
+ com.wicak.plito.ui.materi.obeng.video.VideoMinus$1
 com/wicak/plito/ui/info/InfoViewModel.java
  com.wicak.plito.ui.info.InfoViewModel
 com/wicak/plito/ui/materi/obeng/Minus.java
@@ -177,8 +224,10 @@ com/wicak/plito/ui/materi/obeng/Minus.java
  com.wicak.plito.ui.materi.obeng.Minus$1
 com/wicak/plito/ui/materi/kunci/video/VideoInggris.java
  com.wicak.plito.ui.materi.kunci.video.VideoInggris
+ com.wicak.plito.ui.materi.kunci.video.VideoInggris$1
 com/wicak/plito/ui/materi/kunci/video/VideoRachet.java
  com.wicak.plito.ui.materi.kunci.video.VideoRachet
+ com.wicak.plito.ui.materi.kunci.video.VideoRachet$1
 com/wicak/plito/ui/materi/tang/Kombinasi.java
  com.wicak.plito.ui.materi.tang.Kombinasi
  com.wicak.plito.ui.materi.tang.Kombinasi$1
@@ -187,6 +236,9 @@ com/wicak/plito/ui/materi/palu/Plastik.java
 com/wicak/plito/ui/materi/tang/Slip.java
  com.wicak.plito.ui.materi.tang.Slip
  com.wicak.plito.ui.materi.tang.Slip$1
+com/wicak/plito/ui/materi/tang/video/VideoAir.java
+ com.wicak.plito.ui.materi.tang.video.VideoAir
+ com.wicak.plito.ui.materi.tang.video.VideoAir$1
 com/wicak/plito/ui/materi/obeng/Plus.java
  com.wicak.plito.ui.materi.obeng.Plus
  com.wicak.plito.ui.materi.obeng.Plus$1
@@ -195,10 +247,15 @@ com/wicak/plito/ui/materi/tang/Air.java
  com.wicak.plito.ui.materi.tang.Air$1
 com/wicak/plito/ui/materi/kunci/video/VideoSocket.java
  com.wicak.plito.ui.materi.kunci.video.VideoSocket
+ com.wicak.plito.ui.materi.kunci.video.VideoSocket$1
 com/wicak/plito/ui/materi/kunci/MateriSatuAdapter.java
  com.wicak.plito.ui.materi.kunci.MateriSatuAdapter
 com/wicak/plito/ui/materi/kunci/video/VideoRoda.java
  com.wicak.plito.ui.materi.kunci.video.VideoRoda
+ com.wicak.plito.ui.materi.kunci.video.VideoRoda$1
+com/wicak/plito/ui/materi/extension/video/VideoThread.java
+ com.wicak.plito.ui.materi.extension.video.VideoThread
+ com.wicak.plito.ui.materi.extension.video.VideoThread$1
 com/wicak/plito/ui/materi/kunci/Socket.java
  com.wicak.plito.ui.materi.kunci.Socket
  com.wicak.plito.ui.materi.kunci.Socket$1
@@ -207,15 +264,18 @@ com/wicak/plito/ui/materi/obeng/Ketok.java
  com.wicak.plito.ui.materi.obeng.Ketok$1
 com/wicak/plito/ui/home/HomeFragment.java
  com.wicak.plito.ui.home.HomeFragment
-com/wicak/plito/ui/quiz/MulaiKuis.java
- com.wicak.plito.ui.quiz.MulaiKuis
- com.wicak.plito.ui.quiz.MulaiKuis$1
- com.wicak.plito.ui.quiz.MulaiKuis$2
-com/wicak/plito/ui/quiz/QuizFragment.java
- com.wicak.plito.ui.quiz.QuizFragment
- com.wicak.plito.ui.quiz.QuizFragment$1
- com.wicak.plito.ui.quiz.QuizFragment$2
-com/wicak/plito/ui/quiz/HasilKuis.java
- com.wicak.plito.ui.quiz.HasilKuis
- com.wicak.plito.ui.quiz.HasilKuis$1
- com.wicak.plito.ui.quiz.HasilKuis$2
+com/wicak/plito/ui/materi/kunci/Inggris.java
+ com.wicak.plito.ui.materi.kunci.Inggris
+ com.wicak.plito.ui.materi.kunci.Inggris$1
+com/wicak/plito/ui/materi/palu/MtrDua.java
+ com.wicak.plito.ui.materi.palu.MtrDua
+com/wicak/plito/SignUpActivity.java
+ com.wicak.plito.SignUpActivity
+ com.wicak.plito.SignUpActivity$1
+ com.wicak.plito.SignUpActivity$2
+ com.wicak.plito.SignUpActivity$3
+ com.wicak.plito.SignUpActivity$4
+ com.wicak.plito.SignUpActivity$4$1
+com/wicak/plito/ui/materi/extension/video/VideoAwal.java
+ com.wicak.plito.ui.materi.extension.video.VideoAwal
+ com.wicak.plito.ui.materi.extension.video.VideoAwal$1

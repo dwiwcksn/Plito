@@ -11,6 +11,7 @@ import androidx.fragment.app.Fragment;
 
 import com.wicak.plito.R;
 import com.wicak.plito.ui.materi.kunci.video.VideoAllen;
+import com.wicak.plito.ui.materi.obeng.video.VideoMinus;
 
 /**
  * A simple {@link Fragment} subclass.
@@ -44,7 +45,7 @@ public class Minus extends Fragment {
         button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent selesai = new Intent(getActivity(), VideoAllen.class);
+                Intent selesai = new Intent(getActivity(), VideoMinus.class);
                 startActivity(selesai);
             }
         });

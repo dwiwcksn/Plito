@@ -39,6 +39,7 @@ public class TabsExtension extends AppCompatActivity {
         adapter.addFrag(new PinPunch(), "PinPunch");
         adapter.addFrag(new Gauge(), "Gauge");
         adapter.addFrag(new Skrap(), "Skrap");
+        adapter.addFrag(new Sock(), "Sock");
 
 
 

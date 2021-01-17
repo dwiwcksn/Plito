@@ -11,6 +11,7 @@ import androidx.fragment.app.Fragment;
 
 import com.wicak.plito.R;
 import com.wicak.plito.ui.materi.kunci.video.VideoAllen;
+import com.wicak.plito.ui.materi.tang.video.VideoSirklipDalam;
 
 /**
  * A simple {@link Fragment} subclass.
@@ -40,11 +41,21 @@ public class Sirklip extends Fragment {
         View root = inflater.inflate(R.layout.fragment_sirklip, container, false);
 
         ImageButton button = root.findViewById(R.id.button_vid);
+        ImageButton button2 = root.findViewById(R.id.button_vid2);
+
 
         button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent selesai = new Intent(getActivity(), VideoAllen.class);
+                Intent selesai = new Intent(getActivity(), VideoSirklipDalam.class);
+                startActivity(selesai);
+            }
+        });
+
+        button2.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent selesai = new Intent(getActivity(), VideoSirklipDalam.class);
                 startActivity(selesai);
             }
         });

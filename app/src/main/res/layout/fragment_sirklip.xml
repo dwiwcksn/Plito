@@ -42,8 +42,8 @@
                     android:layout_width="match_parent"
                     android:id="@+id/sampleHeader20"
                     android:layout_marginTop="8dp"
-                    app:expansion_headerIndicator="@id/headerIndicator"
-                    app:expansion_layout="@id/expansionLayout"
+                    app:expansion_headerIndicator="@id/headerIndicator20"
+                    app:expansion_layout="@id/expansionLayout20"
                     app:expansion_toggleOnClick="true">
 
                     <RelativeLayout
@@ -114,8 +114,8 @@
                     android:layout_width="match_parent"
                     android:id="@+id/sampleHeader21"
                     android:layout_marginTop="8dp"
-                    app:expansion_headerIndicator="@id/headerIndicator4"
-                    app:expansion_layout="@id/expansionLayout4"
+                    app:expansion_headerIndicator="@id/headerIndicator21"
+                    app:expansion_layout="@id/expansionLayout21"
                     app:expansion_toggleOnClick="true">
 
                     <RelativeLayout
@@ -186,8 +186,8 @@
                     android:layout_width="match_parent"
                     android:id="@+id/sampleHeader22"
                     android:layout_marginTop="8dp"
-                    app:expansion_headerIndicator="@id/headerIndicator5"
-                    app:expansion_layout="@id/expansionLayout5"
+                    app:expansion_headerIndicator="@id/headerIndicator22"
+                    app:expansion_layout="@id/expansionLayout22"
                     app:expansion_toggleOnClick="true">
 
                     <RelativeLayout
@@ -235,7 +235,7 @@
                         android:orientation="vertical">
 
                         <androidx.appcompat.widget.AppCompatImageButton
-                            android:id="@+id/button_vid"
+                            android:id="@+id/button_vid2"
                             android:layout_width="80dp"
                             android:layout_height="80dp"
                             android:padding="16dp"
