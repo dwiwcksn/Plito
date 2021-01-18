@@ -142,7 +142,7 @@
                     app:expansion_toggleOnClick="true">
 
                     <RelativeLayout
-                        android:background="@drawable/bg_expand"
+                        android:background="@drawable/degrad"
                         android:layout_height="48dp"
                         android:layout_width="match_parent"
                         android:paddingLeft="16dp"
@@ -193,7 +193,7 @@
                             android:layout_marginTop="-12dp"
                             android:layout_marginBottom="8dp"
                             android:paddingTop="24dp"
-                            android:src="@drawable/tang"
+                            android:src="@drawable/info_bar"
                             tools:ignore="ContentDescription" />
                         <TextView
                             android:layout_width="match_parent"
@@ -201,7 +201,7 @@
                             android:lineSpacingMultiplier="1.25"
                             android:padding="8dp"
                             android:textSize="16sp"
-                            android:textColor="@color/colorPrimaryDark"
+                            android:textColor="@color/color_dark"
 
                             android:text="@string/info_menu"/>
 
@@ -229,7 +229,7 @@
                     app:expansion_toggleOnClick="true">
 
                     <RelativeLayout
-                        android:background="@drawable/bg_expand"
+                        android:background="@drawable/degrad"
                         android:layout_height="48dp"
                         android:layout_width="match_parent"
                         android:paddingLeft="16dp"
@@ -239,7 +239,7 @@
                             android:layout_centerVertical="true"
                             android:layout_height="wrap_content"
                             android:layout_width="wrap_content"
-                            android:text="2. Cara Mengerjakan Kasus"
+                            android:text="2. Cara Mengerjakan Kuis"
                             android:textStyle="bold"
                             android:textColor="@color/color_darkprime"
                             android:textSize="16sp"
@@ -285,28 +285,28 @@
                             android:paddingEnd="8dp"
                             android:paddingBottom="8dp"
                             android:textSize="16sp"
-                            android:textColor="@color/colorPrimaryDark"
+                            android:textColor="@color/color_dark"
                             android:background="@drawable/bg_white"
                             android:text="@string/info_kuis"/>
                         <androidx.appcompat.widget.AppCompatImageView
                             android:layout_width="match_parent"
                             android:layout_height="200dp"
                             android:layout_margin="8dp"
-                            android:src="@drawable/obengmin"/>
+                            android:src="@drawable/infokuis"/>
                         <TextView
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
                             android:lineSpacingMultiplier="1.25"
                             android:padding="8dp"
                             android:textSize="16sp"
-                            android:textColor="@color/colorPrimaryDark"
+                            android:textColor="@color/color_dark"
                             android:text="@string/info_kuis1"/>
                         <androidx.appcompat.widget.AppCompatImageView
                             android:layout_width="match_parent"
                             android:layout_height="200dp"
                             android:layout_margin="8dp"
                             android:layout_marginBottom="8dp"
-                            android:src="@drawable/obengplus"/>
+                            android:src="@drawable/infohasil"/>
                     </LinearLayout>
 
                 </com.github.florent37.expansionpanel.ExpansionLayout>
@@ -322,7 +322,7 @@
                     app:expansion_toggleOnClick="true">
 
                     <RelativeLayout
-                        android:background="@drawable/bg_expand"
+                        android:background="@drawable/degrad"
                         android:layout_height="48dp"
                         android:layout_width="match_parent"
                         android:paddingLeft="16dp"
@@ -375,7 +375,7 @@
                             android:lineSpacingMultiplier="1.25"
                             android:textSize="16sp"
                             android:gravity="center"
-                            android:textColor="@color/colorPrimaryDark"
+                            android:textColor="@color/color_dark"
                             android:text="@string/info_pengembang"/>
 
                     </LinearLayout>

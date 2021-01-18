@@ -20,6 +20,10 @@
         "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\kuncinipel.png"
     },
     {
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_addbreaker.jpg.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\addbreaker.jpg"
+    },
+    {
         "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_handtools.png.flat",
         "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\handtools.png"
     },
@@ -66,6 +70,10 @@
     {
         "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sign_up.xml.flat",
         "source": "E:\\Plito\\app\\src\\main\\res\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_infokuis.jpg.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\infokuis.jpg"
     },
     {
         "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sign_in.xml.flat",
@@ -132,12 +140,20 @@
         "source": "E:\\Plito\\app\\src\\main\\res\\drawable-hdpi\\ic_action_name.png"
     },
     {
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_plito_icon2.png.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\mipmap-hdpi\\plito_icon2.png"
+    },
+    {
         "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_materi.xml.flat",
         "source": "E:\\Plito\\app\\src\\main\\res\\layout\\fragment_materi.xml"
     },
     {
-        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_plito_icon2.png.flat",
-        "source": "E:\\Plito\\app\\src\\main\\res\\mipmap-hdpi\\plito_icon2.png"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_info_bar.jpg.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\info_bar.jpg"
+    },
+    {
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_obengketok.jpg.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\obengketok.jpg"
     },
     {
         "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_plastik.xml.flat",
@@ -204,10 +220,6 @@
         "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\home.png"
     },
     {
-        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_addextensionbar.jpeg.flat",
-        "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\addextensionbar.jpeg"
-    },
-    {
         "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_kunciinggris.png.flat",
         "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\kunciinggris.png"
     },
@@ -236,12 +248,12 @@
         "source": "E:\\Plito\\app\\src\\main\\res\\drawable\\degrad.xml"
     },
     {
-        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_playbutton.png.flat",
-        "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\playbutton.png"
-    },
-    {
         "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_plito_icon_foreground.png.flat",
         "source": "E:\\Plito\\app\\src\\main\\res\\mipmap-mdpi\\plito_icon_foreground.png"
+    },
+    {
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_playbutton.png.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\playbutton.png"
     },
     {
         "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_kunci.png.flat",
@@ -320,10 +332,6 @@
         "source": "E:\\Plito\\app\\src\\main\\res\\drawable\\cardview_bg.xml"
     },
     {
-        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_addbreakerbar.png.flat",
-        "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\addbreakerbar.png"
-    },
-    {
         "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_logo1.png.flat",
         "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\logo1.png"
     },
@@ -380,16 +388,16 @@
         "source": "E:\\Plito\\app\\src\\main\\res\\mipmap-anydpi-v26\\plito_icon2_round.xml"
     },
     {
-        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_obengketok.jpeg.flat",
-        "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\obengketok.jpeg"
-    },
-    {
         "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable_nav_up.xml.flat",
         "source": "E:\\Plito\\app\\src\\main\\res\\drawable\\nav_up.xml"
     },
     {
         "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_chat_item_right.xml.flat",
         "source": "E:\\Plito\\app\\src\\main\\res\\layout\\chat_item_right.xml"
+    },
+    {
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_addslide.jpg.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\addslide.jpg"
     },
     {
         "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_addstartpunch.png.flat",
@@ -412,16 +420,20 @@
         "source": "E:\\Plito\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     },
     {
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_addext.jpg.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\addext.jpg"
+    },
+    {
         "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mood_up.xml.flat",
         "source": "E:\\Plito\\app\\src\\main\\res\\drawable\\mood_up.xml"
     },
     {
-        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_materi_satu.xml.flat",
-        "source": "E:\\Plito\\app\\src\\main\\res\\layout\\activity_materi_satu.xml"
-    },
-    {
         "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_bottom.xml.flat",
         "source": "E:\\Plito\\app\\src\\main\\res\\layout\\activity_bottom.xml"
+    },
+    {
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_materi_satu.xml.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\layout\\activity_materi_satu.xml"
     },
     {
         "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_plito_icon.png.flat",
@@ -472,24 +484,28 @@
         "source": "E:\\Plito\\app\\src\\main\\res\\layout\\fragment_air.xml"
     },
     {
-        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_plus.xml.flat",
-        "source": "E:\\Plito\\app\\src\\main\\res\\layout\\fragment_plus.xml"
-    },
-    {
         "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_plito_icon_foreground.png.flat",
         "source": "E:\\Plito\\app\\src\\main\\res\\mipmap-xhdpi\\plito_icon_foreground.png"
+    },
+    {
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_plus.xml.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\layout\\fragment_plus.xml"
     },
     {
         "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_palukulit.png.flat",
         "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\palukulit.png"
     },
     {
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_infohasil.jpg.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\infohasil.jpg"
+    },
+    {
         "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rb_b_checked.xml.flat",
         "source": "E:\\Plito\\app\\src\\main\\res\\drawable\\rb_b_checked.xml"
     },
     {
-        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_addthread.jpeg.flat",
-        "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\addthread.jpeg"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_addthread.jpg.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\addthread.jpg"
     },
     {
         "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_sock.png.flat",
@@ -588,10 +604,6 @@
         "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\sock6ganda.png"
     },
     {
-        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_tes.jpg.flat",
-        "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\tes.jpg"
-    },
-    {
         "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_mulai_kuis.xml.flat",
         "source": "E:\\Plito\\app\\src\\main\\res\\layout\\activity_mulai_kuis.xml"
     },
@@ -604,12 +616,12 @@
         "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\kuncirachet.png"
     },
     {
-        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_tangair.png.flat",
-        "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\tangair.png"
-    },
-    {
         "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_plito_icon.png.flat",
         "source": "E:\\Plito\\app\\src\\main\\res\\mipmap-xxhdpi\\plito_icon.png"
+    },
+    {
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_tangair.png.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\tangair.png"
     },
     {
         "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable_next.xml.flat",
@@ -660,16 +672,12 @@
         "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\sockbintang.png"
     },
     {
-        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_addspeedbrace.png.flat",
-        "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\addspeedbrace.png"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_addspeed.jpg.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\addspeed.jpg"
     },
     {
         "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rb_d_selector.xml.flat",
         "source": "E:\\Plito\\app\\src\\main\\res\\drawable\\rb_d_selector.xml"
-    },
-    {
-        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable_doctor.png.flat",
-        "source": "E:\\Plito\\app\\src\\main\\res\\drawable\\doctor.png"
     },
     {
         "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rb_b_unchecked.xml.flat",
@@ -690,10 +698,6 @@
     {
         "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_addskrap.png.flat",
         "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\addskrap.png"
-    },
-    {
-        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_addslidingt.jpg.flat",
-        "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\addslidingt.jpg"
     },
     {
         "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_bgfix.png.flat",

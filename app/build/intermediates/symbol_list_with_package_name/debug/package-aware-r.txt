@@ -1574,13 +1574,13 @@ drawable abc_textfield_search_default_mtrl_alpha
 drawable abc_textfield_search_material
 drawable abc_vector_test
 drawable add
-drawable addbreakerbar
-drawable addextensionbar
+drawable addbreaker
+drawable addext
 drawable addfeeler
 drawable addpinpunch
 drawable addskrap
-drawable addslidingt
-drawable addspeedbrace
+drawable addslide
+drawable addspeed
 drawable addstartpunch
 drawable addthread
 drawable adduniversaljoint
@@ -1647,7 +1647,6 @@ drawable design_ic_visibility
 drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
-drawable doctor
 drawable expansion_header
 drawable googleg_disabled_color_18
 drawable googleg_standard_color_18
@@ -1673,6 +1672,9 @@ drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
 drawable ic_notifications_black_24dp
 drawable info
+drawable info_bar
+drawable infohasil
+drawable infokuis
 drawable kuis
 drawable kunci
 drawable kunciallen
@@ -1750,7 +1752,6 @@ drawable tangsirklipdalam
 drawable tangsirklipluar
 drawable tangslip
 drawable tangvice
-drawable tes
 drawable test_custom_background
 drawable tooltip_frame_dark
 drawable tooltip_frame_light

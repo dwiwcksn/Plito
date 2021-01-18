@@ -24,7 +24,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="200dp"
                     android:layout_marginTop="-32dp"
-                    android:src="@drawable/addspeedbrace"/>
+                    android:src="@drawable/addspeed"/>
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
@@ -121,7 +121,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="200dp"
                     android:layout_marginTop="-18dp"
-                    android:src="@drawable/addslidingt"/>
+                    android:src="@drawable/addslide"/>
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
@@ -217,7 +217,7 @@
                 <androidx.appcompat.widget.AppCompatImageView
                     android:layout_width="match_parent"
                     android:layout_height="200dp"
-                    android:src="@drawable/addbreakerbar"/>
+                    android:src="@drawable/addbreaker"/>
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
@@ -313,7 +313,7 @@
                 <androidx.appcompat.widget.AppCompatImageView
                     android:layout_width="match_parent"
                     android:layout_height="200dp"
-                    android:src="@drawable/addextensionbar"/>
+                    android:src="@drawable/addext"/>
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"

@@ -191,11 +191,12 @@
     <string name="sliding"><b>BATANG GESER T <i>(Sliding ’T’ Bar)</i></b></string>
     <string name="Extension"><b>BATANG PERPANJANGAN SOCK <i>(Socket Extension Bar)</i></b></string>
     <string name="uni"><b>SAMBUNGAN SOCK UNIVERSAL <i>(Universal Socket Joint Wrench)</i></b></string>
-    <string name="info_des">info des</string>
-    <string name="info_menu">ini info menus asdkljaslkdjaslkdjalskjdklasjdlkasjdklahsdjha kjlhfnoasdhflksahmfhdsalghfdlk;aghvlsdhlkghsdaljgad</string>
-    <string name="info_kuis">info kuis</string>
-    <string name="info_kuis1">info kuis 1</string>
-    <string name="info_pengembang">Hai David disini</string>
+    <string name="info_des">Spesifikasi Minimum</string>
+    <string name="info_menu">1. Menu Awal/<i>home</i>\nMenu ini berisi penjelasan <i>Hand Tools</i> dan tujuan penggunaan aplikasi PLITO\n \n2. Menu Materi\nMenu ini berisi materi lengkap <i>Hand Tools</i> beserta video penggunaanya.\nMateri yang disajikan diantaranya:\na. Kunci\nb. Palu\nc. Obeng\nd.Tang\ne. Tambahan <i>(Additional)</i>\n \n3. Menu Kuis\nMenu ini berisi pertanyaan untuk menguji tingkat pemahaman siswa pada kompetensi <i>Hand Tools</i>. Ada 10 soal kuis yang disediakan.\n \n4. Menu Info\nMenu ini berisi informasi spesifikasi minimum aplikasi, penjelasan menu, cara pengerjaan kuis, dan informasi pengembang.</string>
+    <string name="info_kuis">Pada menu kuis disediakan 10 soal pilihan ganda dengan 4 pilihan jawaban</string>
+    <string name="info_kuis1">Setelah setelah mengerjakan kuis hasil niai akan ditampilkan</string>
+    <string name="info_pengembang">Dwi Wicaksono\nS1 Pendidikan Teknik Otomotif\nFakultas Teknik\nUniversitan Negeri Malang</string>
+
 
 
 </resources>
