@@ -206,13 +206,6 @@
 
                             android:text="@string/info_menu"/>
 
-                        <de.hdodenhof.circleimageview.CircleImageView
-                            android:layout_width="match_parent"
-                            android:layout_height="120dp"
-                            android:layout_marginTop="24dp"
-                            android:src="@drawable/sock"
-                            app:civ_border_color="#28A8EA"
-                            app:civ_border_width="3dp" />
 
                     </LinearLayout>
 
@@ -329,6 +322,13 @@
                         android:paddingLeft="16dp"
                         android:paddingRight="16dp">
 
+                        <de.hdodenhof.circleimageview.CircleImageView
+                            android:layout_width="match_parent"
+                            android:layout_height="120dp"
+                            android:layout_marginTop="24dp"
+                            android:src="@drawable/infopengembang"
+                            app:civ_border_color="#28A8EA"
+                            app:civ_border_width="3dp" />
                         <TextView
                             android:layout_centerVertical="true"
                             android:layout_height="wrap_content"

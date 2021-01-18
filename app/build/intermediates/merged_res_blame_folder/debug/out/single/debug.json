@@ -16,12 +16,12 @@
         "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\tangsirklipdalam.JPG"
     },
     {
-        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_kuncinipel.png.flat",
-        "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\kuncinipel.png"
-    },
-    {
         "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_addbreaker.jpg.flat",
         "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\addbreaker.jpg"
+    },
+    {
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_kuncinipel.png.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\kuncinipel.png"
     },
     {
         "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_handtools.png.flat",
@@ -84,12 +84,12 @@
         "source": "E:\\Plito\\app\\src\\main\\res\\drawable\\bg_kuis.xml"
     },
     {
-        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_info.xml.flat",
-        "source": "E:\\Plito\\app\\src\\main\\res\\layout\\fragment_info.xml"
-    },
-    {
         "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_dashboard_black_24dp.xml.flat",
         "source": "E:\\Plito\\app\\src\\main\\res\\drawable\\ic_dashboard_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_info.xml.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\layout\\fragment_info.xml"
     },
     {
         "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_palukonde.png.flat",
@@ -208,12 +208,12 @@
         "source": "E:\\Plito\\app\\src\\main\\res\\layout\\fragment_quiz.xml"
     },
     {
-        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_paluplastik.png.flat",
-        "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\paluplastik.png"
-    },
-    {
         "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_plito_icon2_foreground.png.flat",
         "source": "E:\\Plito\\app\\src\\main\\res\\mipmap-mdpi\\plito_icon2_foreground.png"
+    },
+    {
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_paluplastik.png.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\paluplastik.png"
     },
     {
         "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_home.png.flat",
@@ -304,40 +304,40 @@
         "source": "E:\\Plito\\app\\src\\main\\res\\layout\\fragment_pinpunch.xml"
     },
     {
-        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_room.xml.flat",
-        "source": "E:\\Plito\\app\\src\\main\\res\\layout\\activity_room.xml"
-    },
-    {
         "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_plito_icon2.png.flat",
         "source": "E:\\Plito\\app\\src\\main\\res\\mipmap-xxxhdpi\\plito_icon2.png"
+    },
+    {
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_room.xml.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\layout\\activity_room.xml"
     },
     {
         "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_bg1.png.flat",
         "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\bg1.png"
     },
     {
-        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_obengmin.png.flat",
-        "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\obengmin.png"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_chat_item_left.xml.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\layout\\chat_item_left.xml"
     },
     {
         "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_left.xml.flat",
         "source": "E:\\Plito\\app\\src\\main\\res\\drawable\\bg_left.xml"
     },
     {
-        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_chat_item_left.xml.flat",
-        "source": "E:\\Plito\\app\\src\\main\\res\\layout\\chat_item_left.xml"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_obengmin.png.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\obengmin.png"
     },
     {
         "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cardview_bg.xml.flat",
         "source": "E:\\Plito\\app\\src\\main\\res\\drawable\\cardview_bg.xml"
     },
     {
-        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_logo1.png.flat",
-        "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\logo1.png"
-    },
-    {
         "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_nipel.xml.flat",
         "source": "E:\\Plito\\app\\src\\main\\res\\layout\\fragment_nipel.xml"
+    },
+    {
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_logo1.png.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\logo1.png"
     },
     {
         "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_bgfix2.png.flat",
