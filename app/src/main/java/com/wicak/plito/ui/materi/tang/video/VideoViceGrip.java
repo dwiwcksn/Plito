@@ -43,7 +43,7 @@ public class VideoViceGrip extends AppCompatActivity {
                 YouTubePlayerUtils.loadOrCueVideo(
                         youTubePlayer,
                         getLifecycle(),
-                        videoId = "hO3235waACs",
+                        videoId = "eiZuMwWwB_8",
                         0f
                 );
             }

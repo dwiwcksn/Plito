@@ -44,7 +44,7 @@ public class Pas extends Fragment {
 
         ImageButton button = root.findViewById(R.id.button_vid);
         ImageButton button_ring = root.findViewById(R.id.button_vid_ring);
-        ImageButton button_nipel = root.findViewById(R.id.button_vid_nipel);
+        ImageButton button_nipel = root.findViewById(R.id.button_vid);
 
         button_nipel.setOnClickListener(new View.OnClickListener() {
             @Override

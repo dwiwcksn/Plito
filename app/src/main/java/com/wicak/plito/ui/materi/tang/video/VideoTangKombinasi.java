@@ -43,7 +43,7 @@ public class VideoTangKombinasi extends AppCompatActivity {
                 YouTubePlayerUtils.loadOrCueVideo(
                         youTubePlayer,
                         getLifecycle(),
-                        videoId = "hO3235waACs",
+                        videoId = "vr9wPiWsxsU",
                         0f
                 );
             }

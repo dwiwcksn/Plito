@@ -43,7 +43,7 @@ public class VideoNipel extends AppCompatActivity {
                 YouTubePlayerUtils.loadOrCueVideo(
                         youTubePlayer,
                         getLifecycle(),
-                        videoId = "hO3235waACs",
+                        videoId = "LNuyQnQuGH0",
                         0f
                 );
             }

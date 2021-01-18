@@ -43,7 +43,7 @@ public class VideoThread extends AppCompatActivity {
                 YouTubePlayerUtils.loadOrCueVideo(
                         youTubePlayer,
                         getLifecycle(),
-                        videoId = "hO3235waACs",
+                        videoId = "c8jrIGxt6hU",
                         0f
                 );
             }

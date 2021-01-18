@@ -43,7 +43,7 @@ public class VideoKunciRing extends AppCompatActivity {
                 YouTubePlayerUtils.loadOrCueVideo(
                         youTubePlayer,
                         getLifecycle(),
-                        videoId = "hO3235waACs",
+                        videoId = "JxgzOcdCmNE",
                         0f
                 );
             }

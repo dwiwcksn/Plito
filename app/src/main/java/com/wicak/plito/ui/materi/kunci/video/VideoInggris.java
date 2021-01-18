@@ -43,7 +43,7 @@ public class VideoInggris extends AppCompatActivity {
                 YouTubePlayerUtils.loadOrCueVideo(
                         youTubePlayer,
                         getLifecycle(),
-                        videoId = "hO3235waACs",
+                        videoId = "n2wnX9GOjc4",
                         0f
                 );
             }

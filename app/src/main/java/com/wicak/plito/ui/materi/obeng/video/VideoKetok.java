@@ -43,7 +43,7 @@ public class VideoKetok extends AppCompatActivity {
                 YouTubePlayerUtils.loadOrCueVideo(
                         youTubePlayer,
                         getLifecycle(),
-                        videoId = "hO3235waACs",
+                        videoId = "o-Iz23LlI7o",
                         0f
                 );
             }

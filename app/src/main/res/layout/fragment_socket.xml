@@ -44,8 +44,8 @@
                     android:layout_width="match_parent"
                     android:id="@+id/sampleHeader27"
                     android:layout_marginTop="8dp"
-                    app:expansion_headerIndicator="@id/headerIndicator"
-                    app:expansion_layout="@id/expansionLayout"
+                    app:expansion_headerIndicator="@id/headerIndicator27"
+                    app:expansion_layout="@id/expansionLayout27"
                     app:expansion_toggleOnClick="true">
 
                     <RelativeLayout
@@ -117,8 +117,8 @@
                     android:layout_width="match_parent"
                     android:id="@+id/sampleHeader28"
                     android:layout_marginTop="8dp"
-                    app:expansion_headerIndicator="@id/headerIndicator4"
-                    app:expansion_layout="@id/expansionLayout4"
+                    app:expansion_headerIndicator="@id/headerIndicator28"
+                    app:expansion_layout="@id/expansionLayout28"
                     app:expansion_toggleOnClick="true">
 
                     <RelativeLayout
@@ -243,16 +243,15 @@
                             android:layout_height="80dp"
                             android:padding="16dp"
                             android:layout_gravity="center"
-                            android:src="@drawable/ic_notifications_black_24dp"
+                            android:src="@drawable/playbutton"
                             android:scaleType="fitCenter"
-                            android:background="@drawable/bg_white"
                             />
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:padding="8dp"
                             android:layout_gravity="center_horizontal"
-                            android:textColor="@color/color_darkprime"
+                            android:textColor="@color/color_dark"
                             android:text="Play Video"/>
 
                     </LinearLayout>
@@ -297,8 +296,8 @@
                     android:layout_width="match_parent"
                     android:id="@+id/sampleHeader29"
                     android:layout_marginTop="8dp"
-                    app:expansion_headerIndicator="@id/headerIndicator"
-                    app:expansion_layout="@id/expansionLayout"
+                    app:expansion_headerIndicator="@id/headerIndicator29"
+                    app:expansion_layout="@id/expansionLayout29"
                     app:expansion_toggleOnClick="true">
 
                     <RelativeLayout
@@ -393,38 +392,38 @@
                     android:layout_width="match_parent"
                     android:id="@+id/sampleHeader30"
                     android:layout_marginTop="8dp"
-                    app:expansion_headerIndicator="@id/headerIndicator"
-                    app:expansion_layout="@id/expansionLayout"
+                    app:expansion_headerIndicator="@id/headerIndicator30"
+                    app:expansion_layout="@id/expansionLayout30"
                     app:expansion_toggleOnClick="true">
 
                     <RelativeLayout
-                        android:background="@drawable/degrad"
-                        android:layout_height="48dp"
                         android:layout_width="match_parent"
+                        android:layout_height="48dp"
+                        android:background="@drawable/degrad"
                         android:paddingLeft="16dp"
                         android:paddingRight="16dp">
 
                         <TextView
-                            android:layout_centerVertical="true"
-                            android:layout_height="wrap_content"
                             android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_centerVertical="true"
+                            android:layout_marginBottom="4dp"
+                            android:elevation="4dp"
                             android:text="Pengertian dan Fungsi"
-                            android:textStyle="bold"
                             android:textColor="@color/color_darkprime"
                             android:textSize="16sp"
-                            android:elevation="4dp"
-                            android:layout_marginBottom="4dp"
+                            android:textStyle="bold"
                             tools:ignore="RelativeOverlap" />
 
 
                         <androidx.appcompat.widget.AppCompatImageView
-                            android:adjustViewBounds="true"
                             android:id="@+id/headerIndicator30"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
                             android:layout_alignParentEnd="true"
                             android:layout_centerVertical="true"
-                            android:layout_height="wrap_content"
                             android:layout_marginStart="16dp"
-                            android:layout_width="wrap_content"
+                            android:adjustViewBounds="true"
                             app:srcCompat="@drawable/expansion_header" />
 
                     </RelativeLayout>
@@ -489,8 +488,8 @@
                     android:layout_width="match_parent"
                     android:id="@+id/sampleHeader31"
                     android:layout_marginTop="8dp"
-                    app:expansion_headerIndicator="@id/headerIndicator"
-                    app:expansion_layout="@id/expansionLayout"
+                    app:expansion_headerIndicator="@id/headerIndicator31"
+                    app:expansion_layout="@id/expansionLayout31"
                     app:expansion_toggleOnClick="true">
 
                     <RelativeLayout

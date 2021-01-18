@@ -43,7 +43,7 @@ public class VideoFeeler extends AppCompatActivity {
                 YouTubePlayerUtils.loadOrCueVideo(
                         youTubePlayer,
                         getLifecycle(),
-                        videoId = "hO3235waACs",
+                        videoId = "b7EQuUp6kN4",
                         0f
                 );
             }

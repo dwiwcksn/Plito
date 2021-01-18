@@ -43,7 +43,7 @@ public class VideoSirklipLuar extends AppCompatActivity {
                 YouTubePlayerUtils.loadOrCueVideo(
                         youTubePlayer,
                         getLifecycle(),
-                        videoId = "hO3235waACs",
+                        videoId = "SXjEVgBooyw",
                         0f
                 );
             }

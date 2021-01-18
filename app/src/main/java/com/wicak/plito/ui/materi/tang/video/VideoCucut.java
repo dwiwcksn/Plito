@@ -43,7 +43,7 @@ public class VideoCucut extends AppCompatActivity {
                 YouTubePlayerUtils.loadOrCueVideo(
                         youTubePlayer,
                         getLifecycle(),
-                        videoId = "hO3235waACs",
+                        videoId = "dO6Yd0aePZI",
                         0f
                 );
             }

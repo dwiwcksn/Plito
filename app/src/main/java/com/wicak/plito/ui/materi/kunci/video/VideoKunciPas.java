@@ -43,7 +43,7 @@ public class VideoKunciPas extends AppCompatActivity {
                 YouTubePlayerUtils.loadOrCueVideo(
                         youTubePlayer,
                         getLifecycle(),
-                        videoId = "hO3235waACs",
+                        videoId = "8KISDNAw7kE",
                         140f
                 );
             }

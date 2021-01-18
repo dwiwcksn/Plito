@@ -43,7 +43,7 @@ public class VideoSocket extends AppCompatActivity {
                 YouTubePlayerUtils.loadOrCueVideo(
                         youTubePlayer,
                         getLifecycle(),
-                        videoId = "hO3235waACs",
+                        videoId = "lldbMUWrnIU",
                         0f
                 );
             }

@@ -180,79 +180,6 @@
                     </LinearLayout>
                 </com.github.florent37.expansionpanel.ExpansionLayout>
 
-                <com.github.florent37.expansionpanel.ExpansionHeader
-                    android:layout_height="wrap_content"
-                    android:layout_width="match_parent"
-                    android:id="@+id/sampleHeader19"
-                    android:layout_marginTop="8dp"
-                    app:expansion_headerIndicator="@id/headerIndicator19"
-                    app:expansion_layout="@id/expansionLayout19"
-                    app:expansion_toggleOnClick="true">
-
-                    <RelativeLayout
-                        android:background="@drawable/degrad"
-                        android:layout_height="48dp"
-                        android:layout_width="match_parent"
-                        android:paddingLeft="16dp"
-                        android:paddingRight="16dp">
-
-                        <TextView
-                            android:layout_centerVertical="true"
-                            android:layout_height="wrap_content"
-                            android:layout_width="wrap_content"
-                            android:text="Video"
-                            android:textStyle="bold"
-                            android:textColor="@color/color_darkprime"
-                            android:textSize="16sp"
-                            android:elevation="4dp"
-                            android:layout_marginBottom="4dp"
-                            tools:ignore="RelativeOverlap" />
-
-
-                        <androidx.appcompat.widget.AppCompatImageView
-                            android:adjustViewBounds="true"
-                            android:id="@+id/headerIndicator19"
-                            android:layout_alignParentEnd="true"
-                            android:layout_centerVertical="true"
-                            android:layout_height="wrap_content"
-                            android:layout_marginStart="16dp"
-                            android:layout_width="wrap_content"
-                            app:srcCompat="@drawable/expansion_header" />
-
-                    </RelativeLayout>
-                </com.github.florent37.expansionpanel.ExpansionHeader>
-                <com.github.florent37.expansionpanel.ExpansionLayout
-                    android:id="@+id/expansionLayout19"
-                    app:expansion_expanded="false"
-                    android:layout_height="wrap_content"
-                    android:layout_width="match_parent">
-
-                    <LinearLayout
-                        android:id="@+id/container19"
-                        android:layout_height="wrap_content"
-                        android:layout_width="match_parent"
-                        android:orientation="vertical">
-
-                        <androidx.appcompat.widget.AppCompatImageButton
-                            android:id="@+id/button_vid1"
-                            android:layout_width="80dp"
-                            android:layout_height="80dp"
-                            android:padding="16dp"
-                            android:layout_gravity="center"
-                            android:src="@drawable/ic_notifications_black_24dp"
-                            android:scaleType="fitCenter"
-                            android:background="@drawable/bg_white"
-                            />
-                        <TextView
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:padding="8dp"
-                            android:layout_gravity="center_horizontal"
-                            android:textColor="@color/color_darkprime"
-                            android:text="Play Video"/>
-
-                    </LinearLayout>
-                </com.github.florent37.expansionpanel.ExpansionLayout>
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
@@ -488,16 +415,15 @@
                             android:layout_height="80dp"
                             android:padding="16dp"
                             android:layout_gravity="center"
-                            android:src="@drawable/ic_notifications_black_24dp"
+                            android:src="@drawable/playbutton"
                             android:scaleType="fitCenter"
-                            android:background="@drawable/bg_white"
                             />
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:padding="8dp"
                             android:layout_gravity="center_horizontal"
-                            android:textColor="@color/color_darkprime"
+                            android:textColor="@color/color_dark"
                             android:text="Play Video"/>
 
                     </LinearLayout>
