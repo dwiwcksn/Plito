@@ -380,6 +380,10 @@
         "source": "E:\\Plito\\app\\src\\main\\res\\layout\\activity_chat_message.xml"
     },
     {
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_getfoto.jpg.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\getfoto.jpg"
+    },
+    {
         "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_kunciallen.png.flat",
         "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\kunciallen.png"
     },
@@ -622,6 +626,10 @@
     {
         "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_tangair.png.flat",
         "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\tangair.png"
+    },
+    {
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_infopengembang.jpg.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\infopengembang.jpg"
     },
     {
         "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable_next.xml.flat",
