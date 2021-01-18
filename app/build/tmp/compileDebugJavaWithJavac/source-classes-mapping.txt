@@ -9,13 +9,6 @@ com/wicak/plito/ui/chat/MessageAdapter.java
  com.wicak.plito.ui.chat.MessageAdapter$ViewHolder
 com/wicak/plito/ui/info/InfoFragment.java
  com.wicak.plito.ui.info.InfoFragment
- com.wicak.plito.ui.info.InfoFragment$1
- com.wicak.plito.ui.info.InfoFragment$2
- com.wicak.plito.ui.info.InfoFragment$3
- com.wicak.plito.ui.info.InfoFragment$4
- com.wicak.plito.ui.info.InfoFragment$5
- com.wicak.plito.ui.info.InfoFragment$6
- com.wicak.plito.ui.info.InfoFragment$7
 com/wicak/plito/ui/quiz/QuizViewModel.java
  com.wicak.plito.ui.quiz.QuizViewModel
 com/wicak/plito/ui/info/User.java
@@ -34,7 +27,6 @@ com/wicak/plito/ui/chat/ChatMessage.java
  com.wicak.plito.ui.chat.ChatMessage$4
 com/wicak/plito/ui/materi/tang/Potong.java
  com.wicak.plito.ui.materi.tang.Potong
- com.wicak.plito.ui.materi.tang.Potong$1
 com/wicak/plito/LoggedIn.java
  com.wicak.plito.LoggedIn
 com/wicak/plito/ui/materi/tang/Cucut.java
@@ -81,7 +73,6 @@ com/wicak/plito/ui/chat/Message.java
 com/wicak/plito/ui/materi/extension/PinPunch.java
  com.wicak.plito.ui.materi.extension.PinPunch
  com.wicak.plito.ui.materi.extension.PinPunch$1
- com.wicak.plito.ui.materi.extension.PinPunch$2
 com/wicak/plito/ui/materi/kunci/video/VideoKunciRing.java
  com.wicak.plito.ui.materi.kunci.video.VideoKunciRing
  com.wicak.plito.ui.materi.kunci.video.VideoKunciRing$1
@@ -106,7 +97,6 @@ com/wicak/plito/ui/chat/RoomActivity.java
  com.wicak.plito.ui.chat.RoomActivity$3
 com/wicak/plito/ui/materi/extension/Skrap.java
  com.wicak.plito.ui.materi.extension.Skrap
- com.wicak.plito.ui.materi.extension.Skrap$1
 com/wicak/plito/ui/materi/MateriFragment.java
  com.wicak.plito.ui.materi.MateriFragment
 com/wicak/plito/ui/materi/kunci/MateriSatuViewModel.java
@@ -190,7 +180,6 @@ com/wicak/plito/BuildConfig.java
 com/wicak/plito/ui/quiz/QuizFragment.java
  com.wicak.plito.ui.quiz.QuizFragment
  com.wicak.plito.ui.quiz.QuizFragment$1
- com.wicak.plito.ui.quiz.QuizFragment$2
 com/wicak/plito/ui/chat/ChatFragment.java
  com.wicak.plito.ui.chat.ChatFragment
  com.wicak.plito.ui.chat.ChatFragment$1
@@ -221,7 +210,6 @@ com/wicak/plito/ui/info/InfoViewModel.java
  com.wicak.plito.ui.info.InfoViewModel
 com/wicak/plito/ui/materi/obeng/Minus.java
  com.wicak.plito.ui.materi.obeng.Minus
- com.wicak.plito.ui.materi.obeng.Minus$1
 com/wicak/plito/ui/materi/kunci/video/VideoInggris.java
  com.wicak.plito.ui.materi.kunci.video.VideoInggris
  com.wicak.plito.ui.materi.kunci.video.VideoInggris$1
@@ -241,7 +229,6 @@ com/wicak/plito/ui/materi/tang/video/VideoAir.java
  com.wicak.plito.ui.materi.tang.video.VideoAir$1
 com/wicak/plito/ui/materi/obeng/Plus.java
  com.wicak.plito.ui.materi.obeng.Plus
- com.wicak.plito.ui.materi.obeng.Plus$1
 com/wicak/plito/ui/materi/tang/Air.java
  com.wicak.plito.ui.materi.tang.Air
  com.wicak.plito.ui.materi.tang.Air$1

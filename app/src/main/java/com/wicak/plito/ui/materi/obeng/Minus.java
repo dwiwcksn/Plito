@@ -40,15 +40,15 @@ public class Minus extends Fragment {
 
         View root = inflater.inflate(R.layout.fragment_minus, container, false);
 
-        ImageButton button = root.findViewById(R.id.button_vid);
-
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                Intent selesai = new Intent(getActivity(), VideoMinus.class);
-                startActivity(selesai);
-            }
-        });
+//        ImageButton button = root.findViewById(R.id.button_vid);
+//
+//        button.setOnClickListener(new View.OnClickListener() {
+//            @Override
+//            public void onClick(View view) {
+//                Intent selesai = new Intent(getActivity(), VideoMinus.class);
+//                startActivity(selesai);
+//            }
+//        });
         return root;
     }
 

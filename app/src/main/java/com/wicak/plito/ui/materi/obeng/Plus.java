@@ -40,15 +40,15 @@ public class Plus extends Fragment {
 
         View root = inflater.inflate(R.layout.fragment_plus, container, false);
 
-        ImageButton button = root.findViewById(R.id.button_vid);
-
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                Intent selesai = new Intent(getActivity(), VideoPlus.class);
-                startActivity(selesai);
-            }
-        });
+//        ImageButton button = root.findViewById(R.id.button_vid);
+//
+//        button.setOnClickListener(new View.OnClickListener() {
+//            @Override
+//            public void onClick(View view) {
+//                Intent selesai = new Intent(getActivity(), VideoPlus.class);
+//                startActivity(selesai);
+//            }
+//        });
         return root;
     }
 

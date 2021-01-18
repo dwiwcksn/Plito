@@ -41,15 +41,15 @@ public class Skrap extends Fragment {
 
         View root = inflater.inflate(R.layout.fragment_skrap, container, false);
 
-        ImageButton button = root.findViewById(R.id.button_vid);
-
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                Intent selesai = new Intent(getActivity(), VideoSkrap.class);
-                startActivity(selesai);
-            }
-        });
+//        ImageButton button = root.findViewById(R.id.button_vid);
+//
+//        button.setOnClickListener(new View.OnClickListener() {
+//            @Override
+//            public void onClick(View view) {
+//                Intent selesai = new Intent(getActivity(), VideoSkrap.class);
+//                startActivity(selesai);
+//            }
+//        });
         return root;
     }
 

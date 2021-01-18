@@ -19,9 +19,9 @@
         android:allowBackup="true"
         android:appComponentFactory="androidx.core.app.CoreComponentFactory"
         android:debuggable="true"
-        android:icon="@mipmap/ic_launcher"
+        android:icon="@mipmap/plito_icon2"
         android:label="@string/app_name"
-        android:roundIcon="@mipmap/ic_launcher_round"
+        android:roundIcon="@mipmap/plito_icon2_round"
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
@@ -168,7 +168,7 @@
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
             android:name="com.wicak.plito.ui.materi.extension.TabsExtension"
-            android:label="Extension"
+            android:label="Additional"
             android:parentActivityName="com.wicak.plito.ui.materi.extension.TabsExtension"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity

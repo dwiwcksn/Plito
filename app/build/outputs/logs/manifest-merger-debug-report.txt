@@ -478,7 +478,7 @@ ADDED from E:\Plito\app\src\main\AndroidManifest.xml:155:9-159:59
 	android:parentActivityName
 		ADDED from E:\Plito\app\src\main\AndroidManifest.xml:157:13-76
 	android:label
-		ADDED from E:\Plito\app\src\main\AndroidManifest.xml:158:13-38
+		ADDED from E:\Plito\app\src\main\AndroidManifest.xml:158:13-39
 	android:theme
 		ADDED from E:\Plito\app\src\main\AndroidManifest.xml:159:13-56
 	android:name

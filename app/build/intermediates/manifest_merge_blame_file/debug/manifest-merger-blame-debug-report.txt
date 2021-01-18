@@ -36,11 +36,11 @@
 20        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 20-->[androidx.core:core:1.4.0-alpha01] C:\Users\Windows 10\.gradle\caches\transforms-2\files-2.1\d6aca2d6e233b0cf6d6f9d6deea4aeba\core-1.4.0-alpha01\AndroidManifest.xml:24:18-86
 21        android:debuggable="true"
-22        android:icon="@mipmap/ic_launcher"
+22        android:icon="@mipmap/plito_icon2"
 22-->E:\Plito\app\src\main\AndroidManifest.xml:11:9-43
 23        android:label="@string/app_name"
 23-->E:\Plito\app\src\main\AndroidManifest.xml:12:9-41
-24        android:roundIcon="@mipmap/ic_launcher_round"
+24        android:roundIcon="@mipmap/plito_icon2_round"
 24-->E:\Plito\app\src\main\AndroidManifest.xml:13:9-54
 25        android:supportsRtl="true"
 25-->E:\Plito\app\src\main\AndroidManifest.xml:14:9-35
@@ -322,8 +322,8 @@
 169-->E:\Plito\app\src\main\AndroidManifest.xml:155:9-159:59
 170            android:name="com.wicak.plito.ui.materi.extension.TabsExtension"
 170-->E:\Plito\app\src\main\AndroidManifest.xml:156:13-62
-171            android:label="Extension"
-171-->E:\Plito\app\src\main\AndroidManifest.xml:158:13-38
+171            android:label="Additional"
+171-->E:\Plito\app\src\main\AndroidManifest.xml:158:13-39
 172            android:parentActivityName="com.wicak.plito.ui.materi.extension.TabsExtension"
 172-->E:\Plito\app\src\main\AndroidManifest.xml:157:13-76
 173            android:theme="@style/AppTheme.NoActionBar" />

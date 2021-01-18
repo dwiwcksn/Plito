@@ -40,15 +40,15 @@ public class Potong extends Fragment {
 
         View root = inflater.inflate(R.layout.fragment_potong, container, false);
 
-        ImageButton button = root.findViewById(R.id.button_vid);
-
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                Intent selesai = new Intent(getActivity(), VideoPotong.class);
-                startActivity(selesai);
-            }
-        });
+//        ImageButton button = root.findViewById(R.id.button_vid);
+//
+//        button.setOnClickListener(new View.OnClickListener() {
+//            @Override
+//            public void onClick(View view) {
+//                Intent selesai = new Intent(getActivity(), VideoPotong.class);
+//                startActivity(selesai);
+//            }
+//        });
         return root;
     }
 

@@ -40,17 +40,17 @@ public class PinPunch extends Fragment {
 
 
         View root = inflater.inflate(R.layout.fragment_pinpunch, container, false);
-        ImageButton button1 = root.findViewById(R.id.button_vid1);
+//        ImageButton button1 = root.findViewById(R.id.button_vid1);
 
         ImageButton button = root.findViewById(R.id.button_vid);
-
-        button1.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                Intent selesai = new Intent(getActivity(), VideoAwal.class);
-                startActivity(selesai);
-            }
-        });
+//
+//        button1.setOnClickListener(new View.OnClickListener() {
+//            @Override
+//            public void onClick(View view) {
+//                Intent selesai = new Intent(getActivity(), VideoAwal.class);
+//                startActivity(selesai);
+//            }
+//        });
         button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {

@@ -1114,6 +1114,8 @@ color mtrl_textinput_hovered_box_stroke_color
 color notification_action_color_filter
 color notification_icon_bg_color
 color notification_material_background_media_default_color
+color plito_icon2_background
+color plito_icon_background
 color primary_dark_material_dark
 color primary_dark_material_light
 color primary_material_dark
@@ -1602,6 +1604,7 @@ drawable bg4
 drawable bg_appbar
 drawable bg_bottom
 drawable bg_expand
+drawable bg_kuis
 drawable bg_left
 drawable bg_right
 drawable bg_white
@@ -1820,8 +1823,6 @@ id action_text
 id actions
 id activity_chooser_view_content
 id add
-id add_room_btn
-id add_room_txt
 id adjust_height
 id adjust_width
 id alertTitle
@@ -1851,7 +1852,6 @@ id button_vid2
 id button_vid_ring
 id cancel_action
 id cancel_button
-id cardView
 id card_awal1
 id card_awal2
 id center
@@ -1889,6 +1889,7 @@ id container26
 id container27
 id container28
 id container29
+id container3
 id container30
 id container31
 id container4
@@ -1970,6 +1971,7 @@ id expansionLayout26
 id expansionLayout27
 id expansionLayout28
 id expansionLayout29
+id expansionLayout3
 id expansionLayout30
 id expansionLayout31
 id expansionLayout4
@@ -2020,6 +2022,7 @@ id headerIndicator26
 id headerIndicator27
 id headerIndicator28
 id headerIndicator29
+id headerIndicator3
 id headerIndicator30
 id headerIndicator31
 id headerIndicator4
@@ -2058,6 +2061,7 @@ id light
 id line1
 id line3
 id linear
+id linearLayout
 id listMode
 id list_item
 id live_video_indicator
@@ -2142,9 +2146,6 @@ id pin
 id play_pause_button
 id position
 id postLayout
-id profileEmail
-id profileImage
-id profileName
 id profile_image
 id progress
 id progressBar
@@ -2161,7 +2162,6 @@ id reverseSawtooth
 id right
 id right_icon
 id right_side
-id room_kode_txt
 id rounded
 id rv_idmateri
 id rv_lay2
@@ -2186,6 +2186,7 @@ id sampleHeader26
 id sampleHeader27
 id sampleHeader28
 id sampleHeader29
+id sampleHeader3
 id sampleHeader30
 id sampleHeader31
 id sampleHeader4
@@ -2224,7 +2225,6 @@ id showTitle
 id show_message
 id show_username
 id signInBtn
-id signOutBtn
 id signUpBtn
 id sin
 id skipCollapsed
@@ -2277,10 +2277,8 @@ id textView2
 id textView3
 id textView4
 id textView5
-id textView6
 id text_input_end_icon
 id text_input_start_icon
-id text_notifications
 id text_send
 id textinput_counter
 id textinput_error
@@ -2518,6 +2516,12 @@ layout video_player
 menu bottom_nav_menu
 mipmap ic_launcher
 mipmap ic_launcher_round
+mipmap plito_icon
+mipmap plito_icon2
+mipmap plito_icon2_foreground
+mipmap plito_icon2_round
+mipmap plito_icon_foreground
+mipmap plito_icon_round
 navigation mobile_navigation
 plurals mtrl_badge_content_description
 raw ayp_youtube_player
@@ -2606,6 +2610,11 @@ string google_storage_bucket
 string hello_blank_fragment
 string hide_bottom_view_on_scroll_behavior
 string icon_content_description
+string info_des
+string info_kuis
+string info_kuis1
+string info_menu
+string info_pengembang
 string judul_hero
 string kompetensi
 string kompetensi_hand_tools

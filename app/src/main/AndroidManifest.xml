@@ -8,9 +8,9 @@
 
     <application
         android:allowBackup="true"
-        android:icon="@mipmap/ic_launcher"
+        android:icon="@mipmap/plito_icon2"
         android:label="@string/app_name"
-        android:roundIcon="@mipmap/ic_launcher_round"
+        android:roundIcon="@mipmap/plito_icon2_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity android:name=".ui.chat.RoomActivity"
@@ -155,7 +155,7 @@
         <activity
             android:name=".ui.materi.extension.TabsExtension"
             android:parentActivityName=".ui.materi.extension.TabsExtension"
-            android:label="Extension"
+            android:label="Additional"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
             android:name=".ui.materi.tang.TabsTang"

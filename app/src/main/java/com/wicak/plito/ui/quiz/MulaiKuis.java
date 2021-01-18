@@ -163,12 +163,12 @@ public class MulaiKuis extends AppCompatActivity {
             nxt.animate().translationY(nxt.getHeight());
             if (ambil_jawaban_user.equalsIgnoreCase(jawaban_benar[nomor]))
             {
+                benar++;
                 AlertDialog.Builder dial = new AlertDialog.Builder(this);
                 dial.setMessage("Jawaban Kamu Benar")
                         .setPositiveButton("Next", new DialogInterface.OnClickListener() {
                             @Override
                             public void onClick(DialogInterface dialog, int which) {
-                                benar++;
                             }
                         });
                 dial.create();
@@ -176,12 +176,13 @@ public class MulaiKuis extends AppCompatActivity {
 
             }
             else{
+                salah++;
                 AlertDialog.Builder dial = new AlertDialog.Builder(this);
                 dial.setMessage("Jawaban Kamu Salah")
                         .setPositiveButton("Next", new DialogInterface.OnClickListener() {
                             @Override
                             public void onClick(DialogInterface dialog, int which) {
-                                salah++;
+
                             }
                         });
                 dial.create();

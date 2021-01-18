@@ -36,7 +36,7 @@ public class TabsExtension extends AppCompatActivity {
 
     private void setupViewPager(ViewPager viewPager) {
         ViewPagerAdapter adapter = new ViewPagerAdapter(getSupportFragmentManager());
-        adapter.addFrag(new PinPunch(), "PinPunch");
+        adapter.addFrag(new PinPunch(), "Punch");
         adapter.addFrag(new Gauge(), "Gauge");
         adapter.addFrag(new Skrap(), "Skrap");
         adapter.addFrag(new Sock(), "Sock");
