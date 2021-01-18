@@ -132,6 +132,7 @@
 
                 </TableLayout>
                 <!--Expendable 1-->
+                <!--Expendable 1-->
                 <com.github.florent37.expansionpanel.ExpansionHeader
                     android:layout_height="wrap_content"
                     android:layout_width="match_parent"
