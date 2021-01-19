@@ -1687,7 +1687,6 @@ drawable kuncipas
 drawable kuncirachet
 drawable kunciring
 drawable kunciroda
-drawable logo
 drawable logo1
 drawable materi
 drawable mood_bad
