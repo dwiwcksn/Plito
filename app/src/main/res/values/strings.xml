@@ -13,7 +13,7 @@
     <string name="tujuan_hero">Tujuan Penggunaan Aplikasi</string>
     <string name="des_tujuan_hero">1. Mempermudah Proses Pembelajaran\n2. Meningkatkan Efisiensi Proses Pembelajaran\n3. Menjadi Media Belajar Mandiri dan Kelompok\n</string>
     <string name="kompetensi">Kompetensi Hand Tools</string>
-    <string name="kompetensi_hand_tools">Hand Tools adalah alat yang dalam penggunaannya hanya menggunakan tenaga manusia untuk pengoperasiannya, yang di gunakan oleh mekanik dalam mempermudah pekerjaannya</string>
+    <string name="kompetensi_hand_tools">Hand Tools adalah alat yang dalam penggunaannya hanya menggunakan tenaga manusia untuk pengoperasiannya</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
 
@@ -44,54 +44,54 @@
 
 
     <!--    Halaman Kunci Pas-->
-    <string name="deskripsi_kunci">Kunci memiliki arti peralatan bengkel yang memiliki fungsi yang sama seperti untuk mengencangkan dan membuka sebuah baut terhadap murnya</string>
-    <string name="pengertian_kuncipas">Kunci untuk melepas baut atau mur yang sudah dikendorkan dengan kunci socket atau ring dengan cepat</string>
-    <string name="penggunaan_kuncipas">1. Pilih ukuran kunci sesuai baut/mur\n2. Pasang kunci pada kepala baut sampai pas\n3. Tarik kunci ke arah ke kanan untuk melepaskan dan arah sebaliknya untuk memasang\nKunci pas tidak boleh untuk mengencangkan atau mengendorkan baut yang belum kendor, karena bidang sentuh yang sedikit dapat merusak kepala baut/mur</string>
+    <string name="deskripsi_kunci">Kunci adalah peralatan bengkel yang berfungsi untuk mengencangkan dan membuka sebuah baut terhadap mur</string>
+    <string name="pengertian_kuncipas">Kunci untuk melepas baut atau mur dengan cepat yang sudah dikendorkan kunci socket atau ring</string>
+    <string name="penggunaan_kuncipas">1. Pilih ukuran kunci yang sesuai/mur\n2. Pasang kunci pada kepala baut sampai pas\n3. Tarik kunci ke arah ke kanan untuk mengencangkan dan arah sebaliknya untuk mengendorkan\nKunci pas tidak boleh untuk mengencangkan atau mengendorkan baut yang belum kendor, karena bidang sentuh yang sedikit dapat merusak kepala baut/mur</string>
 
 
     <string name="pengertian_kunciring">Kunci untuk mengendorkan dan mengencangkan mur/baut</string>
-    <string name="penggunaan_kunciring">1. Pilih ukuran kunci sesuai baut/mur\n2. Pasang kunci pada kepala baut sampai pas\n3. Tarik kunci ke arah ke kanan untuk mengencangkan dan arah sebaliknya untuk mengendorkan</string>
+    <string name="penggunaan_kunciring">1. Pilih ukuran kunci yang sesuai/mur\n2. Pasang kunci pada kepala baut sampai pas\n3. Tarik kunci ke arah ke kanan untuk mengencangkan dan arah sebaliknya untuk mengendorkan</string>
 
     <string name="pengertian_kuncikombi">Kunci yang memiliki 2 sisi dengan jenis berbeda. Pada 1 sisi terdapat kunci pas dan sisi lain kunci ring</string>
     <string name="penggunaan_kuncikombi">Bagian ring untuk mengendorkan juga mengencangkan baut/mur, bagian pas untuk memasang dan melepaskan mur/baut</string>
 
-    <string name="pengertian_kuncinipel">Kunci untuk mengencangkan/melepas baut pada sambungan–sambungan pipa yang serupa dengan sambungan-sambungan yang digunakan pada injector line atau pipa rem</string>
-    <string name="penggunaan_kuncinipel">1. Pilih ukuran kunci sesuai baut\n2. Pasang kunci pada kepala baut sampai pas\n3. Tarik kunci ke arah ke kanan untuk melepaskan dan arah sebaliknya untuk memasang\nJangan menggunakan kunci nipel untuk membuka baut biasa karena dapat merusak kunci maupun kepala baut.</string>
+    <string name="pengertian_kuncinipel">Kunci untuk mengencangkan/melepas baut pada sambungan pipa yang digunakan pada injector line atau pipa rem</string>
+    <string name="penggunaan_kuncinipel">1. Pilih ukuran kunci yang sesuai\n2. Pasang kunci pada kepala baut sampai pas\n3. Tarik kunci ke arah ke kanan untuk memasang dan arah sebaliknya untuk melepaskan\nJangan menggunakan kunci nipel untuk membuka baut biasa karena dapat merusak kunci maupun kepala baut.</string>
 
-    <string name="pengertian_kuncirachet">Ratchet adalah kelengkapan kunci socket untuk melepas/memasang baut yang dalam keadaan longgar, tanpa harus melepaskan kunci sock dari kepala baut atau mur</string>
-    <string name="penggunaan_kuncirachet">1. Pilih sock yang sesuai dan pasang dengan menekan tombol belakang pada kepala rachet\n2. Atur jarum rachet (Arah kanan untuk mengencangkan dan kiri untuk mengendorkan)\n3. Tarik kunci ke arah ke kanan untuk melepaskan dan arah sebaliknya untuk memasang\n4. Bila stand tidak cukup, hanya perlu memutar rachet kearah sebaliknya tanpa perlu melepaskan rachet</string>
+    <string name="pengertian_kuncirachet">Ratchet adalah kelengkapan kunci socket untuk melepas/memasang baut dalam keadaan longgar, tanpa harus melepaskan kunci sock dari kepala baut atau mur</string>
+    <string name="penggunaan_kuncirachet">1. Pilih sock yang sesuai dan pasang dengan menekan tombol belakang pada kepala rachet\n2. Atur jarum rachet (Arah kanan untuk mengencangkan dan kiri untuk mengendorkan)\n3. Tarik kunci ke arah ke kanan untuk memasang dan arah sebaliknya untuk mengendorkan</string>
 
-    <string name="pengertian_kunciallen">Kunci allen dibuat dari baja heksagonal high tensile berbentuk huruf ”L” dan berbentuk huruf ”T”. Untuk melepaskan dan mengganti mur/sekrup dengan tengah kepala berbentuk segi enam <i>(Allen headed cap)</i></string>
-    <string name="penggunaan_kunciallen">1. Pilih ukuran kunci sesuai ukuran dan jenis tengah kepala baut\n2. Pasang kunci pada bagian tengah kepala baut sampai pas\n3. Tarik kunci ke arah ke kanan untuk melepaskan dan arah sebaliknya untuk memasang\n</string>
+    <string name="pengertian_kunciallen">Kunci allen dibuat dari baja heksagonal high tensile berbentuk huruf ”L” danhuruf ”T”. Untuk melepaskan dan mengganti mur/sekrup dengan tengah kepala berbentuk segi enam <i>(Allen headed cap)</i></string>
+    <string name="penggunaan_kunciallen">1. Pilih ukuran kunci sesuai jenis kepala baut\n2. Pasang kunci pada bagian tengah kepala baut sampai pas\n3. Tarik kunci ke arah ke kanan untuk memasang dan arah sebaliknya untuk mengendorkan\n</string>
 
     <string name="pengertian_kuncibusi">Kunci busi untuk membantu memasang dan melepas busi</string>
-    <string name="penggunaan_kuncibusi">1. Siapkan socket busi sesuai ukuran yang dibutuhkan\n2. Pasangkan socket pada alat bantu lain seperti batang t/rachet dan socket siap digunakan\nPada saat pemasangan jangan terlalu kuat saat merapatkan busi agar porselen dan ulir busi tidak rusak</string>
+    <string name="penggunaan_kuncibusi">1. Siapkan socket busi yang sesuai \n2. Pasangkan socket pada alat bantu seperti batang t/rachet dan socket siap digunakan\nPada saat pemasangan jangan terlalu kuat saat merapatkan busi agar porselen dan ulir busi tidak rusak</string>
     <string name="pengertian_kuncisocket">Socket ini untuk membantu memasang dan melepas baut/mur</string>
-    <string name="penggunaan_kuncisocket">1. Siapkan socket sesuai ukuran yang dibutuhkan\n 2. Pasangkan socket pada alat bantu lain seperti batang t/rachet dan socket siap digunakan</string>
+    <string name="penggunaan_kuncisocket">1. Siapkan socket yang sesuai\n 2. Pasangkan socket pada alat bantu lain seperti batang t/rachet dan socket siap digunakan</string>
     <string name="pengertian_socket6">Socket segi 6 memiliki 6 bagian bidang bagian. Socket ini digunakan untuk pengencangan baut dengan extra</string>
     <string name="pengertian_socket6ganda">Socket segi 6 ganda memiliki 12 bagian bidang. Socket ini digunakan untuk pengencangan yang memudahkan posisi stand saat proses melepas baut</string>
     <string name="pengertian_socketbintang">Socket Bintang hampir mirip socket 6 ganda, namun penggunaanya pada jenis kepala baut yang berbeda</string>
 
     <string name="pengertian_kunciroda">Kunci roda untuk melepaskan dan memasang kembali pelak(lug)/mur(nut) pada roda</string>
-    <string name="penggunaan_kunciroda">1. Pasang kunci yang sesuai dengan mur roda\n2. Pegang kunci dengan kedua tangan\n3. Putar ke arah kanan untuk mengencangkan dan kiri untuk mengendorkan</string>
+    <string name="penggunaan_kunciroda">1. Pasang kunci yang sesuai\n2. Putar ke arah kanan untuk mengencangkan dan kiri untuk mengendorkan</string>
 
-    <string name="pengertian_kunciinggris">Kunci inggris digunakan bila spanner atau socket yang tepat untuk pekerjaan tersebut tidak tersedia (ukuran khusus)</string>
-    <string name="penggunaan_kunciinggris">1. Setel rahang sampai sesuai ukuran mur dan pasang sampai pas\n2. Putar rahang penyetel bagian dalam dari putaran gerakan memutar kunci\n3. Putar kunci dengan ditarik dan bukan didorong</string>
+    <string name="pengertian_kunciinggris">Kunci inggris digunakan bila kunci atau socket yang tepat untuk pekerjaan tersebut tidak tersedia (ukuran khusus)</string>
+    <string name="penggunaan_kunciinggris">1. Setel rahang sampai sesuai ukuran dan pasang sampai pas\n2. Putar kunci dengan ditarik dan bukan didorong</string>
 
     <!--    palu-->
-    <string name="pengertian_palubesi">Palu konde mempunyai bola di salah satu ujung dan permukaan yang rata pada ujung lainnya</string>
+    <string name="pengertian_palubesi">Palu konde mempunyai bola di satu ujung dan permukaan yang rata pada ujung lainnya</string>
     <string name="fungsi_palukonde"> Digunakan untuk membulatkan paku keling (rivet), membentuk logam, memukul dan pahat serta fungsi lainnya yang sejenis</string>
 
     <string name="pengertian_palukaret">Palu Karet dibuat dari karet yang keras, daya pukul lebih baik dari palu plastik dan memiliki tingkat keamanan lebih tinggi</string>
     <string name="fungsi_palukaret">Digunakan untuk pemakaian seperti pemasangan ban dan pengemallan plat</string>
 
     <string name="pengertian_palukuningan">Palu Kuningan dibuat dari kuningan. Seiring pemakaian akan mengeras dan perlu dipijarkan agar lunak kembali </string>
-    <string name="fungsi_palukuningan">Digunakan untuk pemukulan berkekuatan sedang dan mencegah agar tidak rusak komponen-komponen yang dipukul contohnya untuk perakitan/perbaikan mesin</string>
+    <string name="fungsi_palukuningan">Digunakan untuk pemukulan berkekuatan sedang dan mencegah agar tidak rusak komponen yang dipukul contohnya untuk perakitan/perbaikan mesin</string>
 
     <string name="pengertian_palukulit">Palu Kulit dibuat dengan permukaan dari kulit</string>
     <string name="fungsi_palukulit">Digunakan untuk memukul permukaan benda yang sangat halus atau bahan lunak tanpa mengakibatkan kerusakan</string>
 
-    <string name="pengertian_paluplastik">Palu Plastik dibuat dari plastik. Bagia tengah palu terbuat dari besi agar menahan daya pukul dan kerasnya objek</string>
+    <string name="pengertian_paluplastik">Palu Plastik dibuat dari plastik. Bagian tengah palu terbuat dari besi agar menahan daya pukul dan kerasnya objek</string>
     <string name="fungsi_paluplastik">Digunakan serupa dengan brass hammer namun ditujukan hanya untuk pemukulan ringan contohnya pengerjaan cetakan</string>
     <!--    tang-->
     <string name="pengertian_tangpotong">Tang potong berfungsi untuk melepaskan dan memasang cotter pin, memotong selang berdiameter kecil, pipa tembaga, baja berdiameter kecil, mengelupas isolasi dari kabel, dsb</string>
@@ -100,38 +100,37 @@
     <string name="pengertian_tangkombinasi">Tang Kombinasi mempunyai gerigi untuk memegang beda rata, gerigi untuk memegang pipa, pemotong samping (side cutter),dan dua sambungan atau pemotong kabel (wire cutter)</string>
     <string name="penggunaan_tangkombinasi">1. Siapkan tang dan pengang dengan kuat\n2. Gunakan bagian ujung tang untuk memegang plat/kawat, bagian tengah untuk mencengkeran kabel, dan bagian belakang untuk memotong kabel</string>
 
-    <string name="pengertian_tangcucut">Tang ini digunakan dalam pekerjaan di ruangan-ruangan sempit, untuk membengkokkan dan membentuk kabel atau lembaran besi lunak</string>
+    <string name="pengertian_tangcucut">Tang ini digunakan dalam pekerjaan di ruangan sempit, untuk membengkokkan dan membentuk kabel atau lembaran besi lunak</string>
     <string name="penggunaan_tangcucut">1. Siapkan tang dan pengang dengan kuat\n2. Gunakan membentuk kabel/kawat/besi plat</string>
 
-    <string name="pengertian_tangsirklipdalam">Tang ini digunakan untuk melepaskan atau memasang internal circlip yang digunakan untuk menahan beberapa pengunci di dalam piston</string>
+    <string name="pengertian_tangsirklipdalam">Tang ini untuk melepask atau memasang internal circlip yang digunakan untuk menahan beberapa pengunci di dalam piston. Alat ini mempunyai gerakan ganda saat menutup jaw tertutup.</string>
     <string name="penggunaan_tangsirklipdalam">1. Siapkan tang dan pengang dengan kuat\n2. Masukkan ujung jaw tang ke bagian bundaran ring\n3. Gunakan seperti menggunakan gunting, maka tang akan menekan ring kearah dalam</string>
 
-    <string name="pengertian_tangsirklipluar">Tang ini untuk melepaskan dan memasang external circlip seperti yang akan digunakan untuk menahan bearing pada shaft. Alat ini mempunyai gerakan ganda, sehingga pada saat tangan Anda menutup, jawterbuka.</string>
+    <string name="pengertian_tangsirklipluar">Tang ini untuk melepas dan memasang external circlip seperti yang digunakan untuk menahan bearing pada shaft. Alat ini mempunyai gerakan ganda saat menutup jaw terbuka</string>
     <string name="penggunaan_tangsirklipluar">1. Siapkan tang dan pengang dengan kuat\n2. Masukkan ujung jaw tang ke bagian bundaran ring\n3. Gunakan seperti menggunakan gunting, maka tang akan menekan ring kearah luar</string>
 
     <string name="pengertian_tangair">Tang ini untuk menjepit benda bundar atau bengkok dengan sangat kuat</string>
     <string name="penggunaan_tangair">1. Geser as pada kepala tang dan atur sesuai kebutuhan\n2. Jepit benda kerja dengan menekan tang</string>
 
-    <string name="pengertian_tangvice">Tang ini digunakan sebagai sekrup bangku (vice) portabel berukuran kecil untuk menahan komponen yang dilas, diruncingkan, dibor atau dipotong</string>
-    <string name="penggunaan_tangvice">1. Atur ukuran mulut tang dengan memutar setelan belakang tangkai tang\n2. Tekan tangkai sampai terdengar bunyi "klik"\n3. Untuk melepas tang tekan tuas pembuka pad bagian tengah tang</string>
+    <string name="pengertian_tangvice">Tang ini digunakan untuk menahan komponen yang dilas, diruncingkan, dibor atau dipotong</string>
+    <string name="penggunaan_tangvice">1. Atur ukuran mulut tang dengan memutar setelan pada belakang tangkai tang\n2. Tekan tangkai sampai terdengar bunyi "klik"\n3. Untuk melepas tang tekan tuas pembuka pada bagian tengah tang</string>
 
-    <string name="pengertian_tangslip">Tang ini digunakan untuk mencengkeram komponen-komponen kecil atau bisa diperbesar untuk mencengkeram komponen-komponen yang lebih besar</string>
+    <string name="pengertian_tangslip">Tang ini digunakan untuk mencengkeram komponen kecil atau bisa diperbesar untuk mencengkeram komponen lebih besar</string>
     <string name="penggunaan_tangslip">1. Pindahkan as pada tang sesuai ukuran benda kerja\n2. Gunakan tang untuk menjepit benda kerja</string>
 
     <!--    obeng-->
     <string name="pengertian_obengpls">Obeng plus berfungsi untuk memasang dan mengendorkan sekrup berkepala plus (+)</string>
     <string name="penggunaan_obengpls">1. Posisikan obeng sampai pas pada kepala sekrup\n2. Putar obeng sambil memberi tekanan pada obeng\nBila sekrup susah dibuka, jangan memukul obeng karena dapat merusak mata obeng ataupun obeng itu sendiri</string>
 
-    <string name="pengertian_obengmin">Obeng plus berfungsi untuk memasang dan mengendorkan sekrup berkepala minus (-)</string>
+    <string name="pengertian_obengmin">Obeng minus berfungsi untuk memasang dan mengendorkan sekrup berkepala minus (-)</string>
     <string name="penggunaan_obengmin">1. Posisikan obeng sampai pas pada kepala sekrup\n2. Putar obeng sambil memberi tekanan pada obeng\nBila sekrup susah dibuka, jangan memukul obeng karena dapat merusak mata obeng ataupun obeng itu sendiri</string>
 
     <string name="pengertian_obengketok">Obeng ketok digunakan untuk mengencangkan atau melepas sekrup dengan kekencangan yang lebih</string>
     <string name="penggunaan_obengketok">1. Pasang mata obeng ke badan obeng\n2. Tekan ujung obeng lalu pilih ke arah yang diinginkan (L kiri, R kanan)\n3. Posisikan obeng sampai pas pada kepala sekrup\n4. Pukul obeng dengan kuat</string>
 
     <!--    additional-->
-    <string name="pengertian_uni">Sambungan sock universal digunakan untuk melepas atau memasang baut/mur pada posisi yang menyudul dan tidak terjangkau batang perpanjangan saja\n
-    Universal joint dapat digunakan dalam aplikasi apapun dimana ratchet atau extension harus berada pada suatu sudut dengan socket.</string>
-    <string name="pengertian_speed">Engkol Percepatan digunakan untuk melepas secara cepat baut atau mur yang sudah kendor. Dibutuhkan ruang yang cukup untuk dapat mengaplikasikan alat ini.</string>
+    <string name="pengertian_uni">Sambungan sock universal digunakan untuk melepas atau memasang baut/mur pada posisi yang menyudul dan tidak terjangkau batang perpanjangan saja</string>
+    <string name="pengertian_speed">Engkol Percepatan digunakan untuk melepas secara cepat baut atau mur yang sudah kendor. Dibutuhkan ruang yang cukup untuk dapat mengaplikasikan alat ini</string>
     <string name="pengertian_slide">Sliding ‘T’ Bar digunakan untuk mengendorkan sebuah mur atau baut yang sangat kencang dengan menggunakan dua pegangan yang digunakan untuk memberikan tekanan pada arah yang berlawanan</string>
     <string name="pengertian_breaker">Batang universal bisa disambung dengan berbagai jenis penyambung untuk mengendorkan baut-baut yang sangat kuat misalnya baut kepala silinder</string>
     <string name="pengertian_ext">Batang perpanjangan sock digunakan bersama dengan ratchet atau alat yang sama untuk menjangkau mur atau baut yang tidak terjangkau oleh kunci</string>
@@ -139,7 +138,7 @@
     <string name="pengertian_startpunch">Start Punch adalah punch yang dilancipkan/diruncingkan menjadi lebih kuat dibanding pin punch. Kegunaannya sebagai pembuka awal sebuah dowel/retaining pin sebelum menggunakan pin punch.</string>
     <string name="penggunaan_startpunch">1. Posisikan punch pada pin\n2. Pukul dengan kuat sampai pin bergerak\n3. Lanjutkan mengeluarkan dengan menggunakan pin punch</string>
 
-    <string name="pengertian_pinpunch">Pin Punch memiliki diameter yang sama dari ujung hingga kerangka/bodinya. Digunakan untuk melepaskan pin yang menahan komponen pada sebuah shaft dari tempatnya, yang sebelumnya telah diawali dengan starting punch.</string>
+    <string name="pengertian_pinpunch">Pin Punch memiliki diameter yang sama dari ujung hingga kerangka/bodinya. Digunakan untuk melepaskan pin penahan komponen yang sebelumnya telah diawali dengan starting punch.</string>
     <string name="penggunaan_pinpunch">1. Posisikan punch pada pin\n2. Pukul sampai pin keluar dan dapat diambil</string>
 
     <string name="pengertian_threadgauge">Thread Gauge digunakan untuk mengidentifikasi threat pitch atau jenis ulir pada baut yang tidak diketahui.</string>

@@ -16,12 +16,12 @@
         "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\tangsirklipdalam.JPG"
     },
     {
-        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_kuncinipel.png.flat",
-        "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\kuncinipel.png"
-    },
-    {
         "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_addbreaker.jpg.flat",
         "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\addbreaker.jpg"
+    },
+    {
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_kuncinipel.png.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\kuncinipel.png"
     },
     {
         "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_handtools.png.flat",
@@ -540,6 +540,10 @@
         "source": "E:\\Plito\\app\\src\\main\\res\\mipmap-hdpi\\plito_icon_foreground.png"
     },
     {
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_uh.png.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\uh.png"
+    },
+    {
         "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
         "source": "E:\\Plito\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
     },
@@ -620,12 +624,12 @@
         "source": "E:\\Plito\\app\\src\\main\\res\\mipmap-xxhdpi\\plito_icon.png"
     },
     {
-        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_tangair.png.flat",
-        "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\tangair.png"
-    },
-    {
         "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_infopengembang.jpg.flat",
         "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\infopengembang.jpg"
+    },
+    {
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_tangair.png.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\tangair.png"
     },
     {
         "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable_next.xml.flat",

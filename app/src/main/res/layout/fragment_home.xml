@@ -148,6 +148,7 @@
 
                             </LinearLayout>
 
+
                             <ImageView
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
@@ -157,8 +158,75 @@
                                 android:src="@drawable/next"
                                 android:padding="8dp"
                                 tools:ignore="ContentDescription" />
+                            <TextView
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_marginStart="18dp"
+                                android:layout_marginEnd="18dp"
+                                android:layout_marginTop="8dp"
+                                android:layout_marginBottom="8dp"
+                                android:lineSpacingMultiplier="1.25"
+                                android:textSize="32sp"
+                                android:textColor="@color/color_darkprime"/>
+
                         </RelativeLayout>
+                        <RelativeLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:padding="8dp">
+                            <LinearLayout
+                                android:layout_width="wrap_content"
+                                android:layout_height="match_parent"
+                                android:layout_marginStart="0dp"
+                                android:layout_marginEnd="16dp"
+                                android:layout_alignParentStart="true"
+                                android:layout_centerVertical="true"
+                                android:orientation="vertical"
+                                android:padding="8dp">
+
+                                <TextView
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:gravity="center"
+                                    android:text="Cara Menggunakan Aplikasi"
+                                    android:textSize="14sp" />
+
+                            </LinearLayout>
+
+
+                            <ImageView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_alignParentEnd="true"
+                                android:layout_centerVertical="true"
+                                android:scaleType="fitCenter"
+                                android:src="@drawable/next"
+                                android:padding="8dp"
+                                tools:ignore="ContentDescription" />
+
+                            <TextView
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_marginStart="18dp"
+                                android:layout_marginEnd="18dp"
+                                android:layout_marginTop="8dp"
+                                android:layout_marginBottom="8dp"
+                                android:lineSpacingMultiplier="1.25"
+                                android:textSize="32sp"
+                                android:textColor="@color/color_darkprime"/>
+
+                        </RelativeLayout>
+
+
                     </androidx.cardview.widget.CardView>
+                    <androidx.cardview.widget.CardView
+                        android:id="@+id/cv_img"
+                        android:layout_width="match_parent"
+                        android:layout_height="60dp"
+                        android:clickable="true"
+                        android:background="@drawable/bg_white"
+                        android:foreground="?android:selectableItemBackground"
+                        android:focusable="true"/>
                 </LinearLayout>
 
             </LinearLayout>

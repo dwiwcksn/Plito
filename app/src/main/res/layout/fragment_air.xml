@@ -108,7 +108,7 @@
                             android:elevation="2dp"
                             android:textColor="@color/color_dark"
                             android:background="@drawable/bg_white"
-                            android:text="@string/pengertian_tangcucut"/>
+                            android:text="@string/pengertian_tangair"/>
 
                     </LinearLayout>
                 </com.github.florent37.expansionpanel.ExpansionLayout>
@@ -178,7 +178,7 @@
                             android:paddingTop="20dp"
                             android:paddingEnd="8dp"
                             android:paddingBottom="8dp"
-                            android:text="@string/penggunaan_tangcucut"
+                            android:text="@string/penggunaan_tangair"
                             android:textColor="@color/color_dark"
                             android:textSize="16sp" />
 

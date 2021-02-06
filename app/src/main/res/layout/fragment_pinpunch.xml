@@ -175,7 +175,7 @@
                             android:elevation="2dp"
                             android:textColor="@color/color_dark"
                             android:background="@drawable/bg_white"
-                            android:text="@string/penggunaan_pinpunch"/>
+                            android:text="@string/penggunaan_startpunch"/>
 
                     </LinearLayout>
                 </com.github.florent37.expansionpanel.ExpansionLayout>
