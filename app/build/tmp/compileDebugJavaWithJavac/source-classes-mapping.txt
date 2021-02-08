@@ -251,6 +251,7 @@ com/wicak/plito/ui/materi/obeng/Ketok.java
  com.wicak.plito.ui.materi.obeng.Ketok$1
 com/wicak/plito/ui/home/HomeFragment.java
  com.wicak.plito.ui.home.HomeFragment
+ com.wicak.plito.ui.home.HomeFragment$1
 com/wicak/plito/ui/materi/kunci/Inggris.java
  com.wicak.plito.ui.materi.kunci.Inggris
  com.wicak.plito.ui.materi.kunci.Inggris$1
