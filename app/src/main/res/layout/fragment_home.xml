@@ -5,7 +5,8 @@
     android:layout_height="match_parent"
     android:background="@drawable/bgfix"
     xmlns:tools="http://schemas.android.com/tools"
-    tools:context=".ui.home.HomeFragment">
+    tools:context=".ui.home.HomeFragment"
+    android:id="@+id/hal_home">
 
     <ScrollView
         android:id="@+id/scroll_awal"
@@ -125,62 +126,21 @@
                         android:background="@drawable/bg_white"
                         android:foreground="?android:selectableItemBackground"
                         android:focusable="true">
+
                         <RelativeLayout
                             android:layout_width="match_parent"
                             android:layout_height="match_parent"
-                            android:padding="8dp">
+                            android:padding="8dp"
+                            android:id="@+id/petunjukbtn"
+                            android:clickable="true">
+
                             <LinearLayout
                                 android:layout_width="wrap_content"
                                 android:layout_height="match_parent"
-                                android:layout_marginStart="16dp"
-                                android:layout_marginEnd="16dp"
                                 android:layout_alignParentStart="true"
                                 android:layout_centerVertical="true"
-                                android:orientation="vertical"
-                                android:padding="8dp">
-
-                                <TextView
-                                    android:layout_width="match_parent"
-                                    android:layout_height="wrap_content"
-                                    android:gravity="center"
-                                    android:text="Cara Menggunakan Aplikasi"
-                                    android:textSize="14sp" />
-
-                            </LinearLayout>
-
-
-                            <ImageView
-                                android:layout_width="wrap_content"
-                                android:layout_height="wrap_content"
-                                android:layout_alignParentEnd="true"
-                                android:layout_centerVertical="true"
-                                android:scaleType="fitCenter"
-                                android:src="@drawable/next"
-                                android:padding="8dp"
-                                tools:ignore="ContentDescription" />
-                            <TextView
-                                android:layout_width="match_parent"
-                                android:layout_height="wrap_content"
-                                android:layout_marginStart="18dp"
-                                android:layout_marginEnd="18dp"
-                                android:layout_marginTop="8dp"
-                                android:layout_marginBottom="8dp"
-                                android:lineSpacingMultiplier="1.25"
-                                android:textSize="32sp"
-                                android:textColor="@color/color_darkprime"/>
-
-                        </RelativeLayout>
-                        <RelativeLayout
-                            android:layout_width="match_parent"
-                            android:layout_height="match_parent"
-                            android:padding="8dp">
-                            <LinearLayout
-                                android:layout_width="wrap_content"
-                                android:layout_height="match_parent"
                                 android:layout_marginStart="0dp"
                                 android:layout_marginEnd="16dp"
-                                android:layout_alignParentStart="true"
-                                android:layout_centerVertical="true"
                                 android:orientation="vertical"
                                 android:padding="8dp">
 
@@ -199,21 +159,21 @@
                                 android:layout_height="wrap_content"
                                 android:layout_alignParentEnd="true"
                                 android:layout_centerVertical="true"
+                                android:padding="8dp"
                                 android:scaleType="fitCenter"
                                 android:src="@drawable/next"
-                                android:padding="8dp"
                                 tools:ignore="ContentDescription" />
 
                             <TextView
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
                                 android:layout_marginStart="18dp"
-                                android:layout_marginEnd="18dp"
                                 android:layout_marginTop="8dp"
+                                android:layout_marginEnd="18dp"
                                 android:layout_marginBottom="8dp"
                                 android:lineSpacingMultiplier="1.25"
-                                android:textSize="32sp"
-                                android:textColor="@color/color_darkprime"/>
+                                android:textColor="@color/color_darkprime"
+                                android:textSize="32sp" />
 
                         </RelativeLayout>
 
