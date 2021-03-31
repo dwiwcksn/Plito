@@ -6,531 +6,530 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="22"
-8-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml
+8-->E:\Plito\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="30" />
-9-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml
+9-->E:\Plito\app\src\main\AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.INTERNET" />
-11-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:5:5-67
-11-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:5:22-64
+11-->E:\Plito\app\src\main\AndroidManifest.xml:5:5-67
+11-->E:\Plito\app\src\main\AndroidManifest.xml:5:22-64
 12    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-12-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:6:5-81
-12-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:6:22-78
+12-->E:\Plito\app\src\main\AndroidManifest.xml:6:5-81
+12-->E:\Plito\app\src\main\AndroidManifest.xml:6:22-78
 13    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-13-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:7:5-80
-13-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:7:22-77
+13-->E:\Plito\app\src\main\AndroidManifest.xml:7:5-80
+13-->E:\Plito\app\src\main\AndroidManifest.xml:7:22-77
 14    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-14-->[com.pierfrancescosoffritti.androidyoutubeplayer:core:10.0.5] C:\Users\Septian Adi\.gradle\caches\transforms-2\files-2.1\1fef9e95c8c64f4571d603f368c8d0be\jetified-core-10.0.5\AndroidManifest.xml:12:5-79
-14-->[com.pierfrancescosoffritti.androidyoutubeplayer:core:10.0.5] C:\Users\Septian Adi\.gradle\caches\transforms-2\files-2.1\1fef9e95c8c64f4571d603f368c8d0be\jetified-core-10.0.5\AndroidManifest.xml:12:22-76
+14-->[com.pierfrancescosoffritti.androidyoutubeplayer:core:10.0.5] C:\Users\Windows 10\.gradle\caches\transforms-2\files-2.1\1fef9e95c8c64f4571d603f368c8d0be\jetified-core-10.0.5\AndroidManifest.xml:12:5-79
+14-->[com.pierfrancescosoffritti.androidyoutubeplayer:core:10.0.5] C:\Users\Windows 10\.gradle\caches\transforms-2\files-2.1\1fef9e95c8c64f4571d603f368c8d0be\jetified-core-10.0.5\AndroidManifest.xml:12:22-76
 15    <uses-permission android:name="android.permission.WAKE_LOCK" />
-15-->[com.google.android.gms:play-services-measurement:17.5.0] C:\Users\Septian Adi\.gradle\caches\transforms-2\files-2.1\b7b92f2f9514564c9583ba6c5d9e72ab\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:25:5-68
-15-->[com.google.android.gms:play-services-measurement:17.5.0] C:\Users\Septian Adi\.gradle\caches\transforms-2\files-2.1\b7b92f2f9514564c9583ba6c5d9e72ab\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:25:22-65
+15-->[com.google.android.gms:play-services-measurement:17.5.0] C:\Users\Windows 10\.gradle\caches\transforms-2\files-2.1\b7b92f2f9514564c9583ba6c5d9e72ab\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:25:5-68
+15-->[com.google.android.gms:play-services-measurement:17.5.0] C:\Users\Windows 10\.gradle\caches\transforms-2\files-2.1\b7b92f2f9514564c9583ba6c5d9e72ab\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:25:22-65
 16    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
-16-->[com.google.android.gms:play-services-measurement:17.5.0] C:\Users\Septian Adi\.gradle\caches\transforms-2\files-2.1\b7b92f2f9514564c9583ba6c5d9e72ab\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:26:5-110
-16-->[com.google.android.gms:play-services-measurement:17.5.0] C:\Users\Septian Adi\.gradle\caches\transforms-2\files-2.1\b7b92f2f9514564c9583ba6c5d9e72ab\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:26:22-107
+16-->[com.google.android.gms:play-services-measurement:17.5.0] C:\Users\Windows 10\.gradle\caches\transforms-2\files-2.1\b7b92f2f9514564c9583ba6c5d9e72ab\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:26:5-110
+16-->[com.google.android.gms:play-services-measurement:17.5.0] C:\Users\Windows 10\.gradle\caches\transforms-2\files-2.1\b7b92f2f9514564c9583ba6c5d9e72ab\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:26:22-107
 17
 18    <application
-18-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:9:5-185:19
+18-->E:\Plito\app\src\main\AndroidManifest.xml:9:5-185:19
 19        android:allowBackup="true"
-19-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:10:9-35
+19-->E:\Plito\app\src\main\AndroidManifest.xml:10:9-35
 20        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-20-->[androidx.core:core:1.4.0-alpha01] C:\Users\Septian Adi\.gradle\caches\transforms-2\files-2.1\d6aca2d6e233b0cf6d6f9d6deea4aeba\core-1.4.0-alpha01\AndroidManifest.xml:24:18-86
+20-->[androidx.core:core:1.4.0-alpha01] C:\Users\Windows 10\.gradle\caches\transforms-2\files-2.1\d6aca2d6e233b0cf6d6f9d6deea4aeba\core-1.4.0-alpha01\AndroidManifest.xml:24:18-86
 21        android:debuggable="true"
 22        android:icon="@mipmap/plito_icon2"
-22-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:11:9-43
+22-->E:\Plito\app\src\main\AndroidManifest.xml:11:9-43
 23        android:label="@string/app_name"
-23-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:12:9-41
+23-->E:\Plito\app\src\main\AndroidManifest.xml:12:9-41
 24        android:roundIcon="@mipmap/plito_icon2_round"
-24-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:13:9-54
+24-->E:\Plito\app\src\main\AndroidManifest.xml:13:9-54
 25        android:supportsRtl="true"
-25-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:14:9-35
-26        android:testOnly="true"
-27        android:theme="@style/AppTheme" >
-27-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:15:9-40
-28        <activity
-28-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:16:9-17:68
-29            android:name="com.wicak.plito.ui.chat.RoomActivity"
-29-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:16:19-55
-30            android:theme="@style/AppTheme.NoActionBar" />
-30-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:17:13-56
-31
-32        <!-- Video Kunci -->
-33        <activity
-33-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:21:9-24:59
-34            android:name="com.wicak.plito.ui.materi.kunci.video.VideoKunciPas"
-34-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:22:13-64
-35            android:screenOrientation="landscape"
-35-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:23:13-50
-36            android:theme="@style/AppTheme.NoActionBar" />
-36-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:24:13-56
-37        <activity
-37-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:25:9-28:59
-38            android:name="com.wicak.plito.ui.materi.kunci.video.VideoKunciKombi"
-38-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:26:13-66
-39            android:screenOrientation="landscape"
-39-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:27:13-50
-40            android:theme="@style/AppTheme.NoActionBar" />
-40-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:28:13-56
-41        <activity
-41-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:29:9-32:59
-42            android:name="com.wicak.plito.ui.materi.kunci.video.VideoKunciRing"
-42-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:30:13-65
-43            android:screenOrientation="landscape"
-43-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:31:13-50
-44            android:theme="@style/AppTheme.NoActionBar" />
-44-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:32:13-56
-45        <activity
-45-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:33:9-36:59
-46            android:name="com.wicak.plito.ui.materi.kunci.video.VideoSocket"
-46-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:34:13-62
-47            android:screenOrientation="landscape"
-47-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:35:13-50
-48            android:theme="@style/AppTheme.NoActionBar" />
-48-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:36:13-56
-49        <activity
-49-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:37:9-40:59
-50            android:name="com.wicak.plito.ui.materi.kunci.video.VideoRachet"
-50-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:38:13-62
-51            android:screenOrientation="landscape"
-51-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:39:13-50
-52            android:theme="@style/AppTheme.NoActionBar" />
-52-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:40:13-56
-53        <activity
-53-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:41:9-44:59
-54            android:name="com.wicak.plito.ui.materi.kunci.video.VideoRoda"
-54-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:42:13-60
-55            android:screenOrientation="landscape"
-55-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:43:13-50
-56            android:theme="@style/AppTheme.NoActionBar" />
-56-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:44:13-56
-57        <activity
-57-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:45:9-48:59
-58            android:name="com.wicak.plito.ui.materi.kunci.video.VideoAllen"
-58-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:46:13-61
-59            android:screenOrientation="landscape"
-59-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:47:13-50
-60            android:theme="@style/AppTheme.NoActionBar" />
-60-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:48:13-56
-61        <activity
-61-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:49:9-52:59
-62            android:name="com.wicak.plito.ui.materi.kunci.video.VideoInggris"
-62-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:50:13-63
-63            android:screenOrientation="landscape"
-63-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:51:13-50
-64            android:theme="@style/AppTheme.NoActionBar" />
-64-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:52:13-56
-65        <activity
-65-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:53:9-56:59
-66            android:name="com.wicak.plito.ui.materi.kunci.video.VideoNipel"
-66-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:54:13-61
-67            android:screenOrientation="landscape"
-67-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:55:13-50
-68            android:theme="@style/AppTheme.NoActionBar" />
-68-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:56:13-56
-69
-70        <!-- Akhir Video Kunci -->
-71        <!-- Video Obeng -->
-72        <activity
-72-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:60:9-63:59
-73            android:name="com.wicak.plito.ui.materi.obeng.video.VideoKetok"
-73-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:61:13-61
-74            android:screenOrientation="landscape"
-74-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:62:13-50
-75            android:theme="@style/AppTheme.NoActionBar" />
-75-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:63:13-56
-76        <activity
-76-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:64:9-67:59
-77            android:name="com.wicak.plito.ui.materi.obeng.video.VideoMinus"
-77-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:65:13-61
-78            android:screenOrientation="landscape"
-78-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:66:13-50
-79            android:theme="@style/AppTheme.NoActionBar" />
-79-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:67:13-56
-80        <activity
-80-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:68:9-71:59
-81            android:name="com.wicak.plito.ui.materi.obeng.video.VideoPlus"
-81-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:69:13-60
-82            android:screenOrientation="landscape"
-82-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:70:13-50
-83            android:theme="@style/AppTheme.NoActionBar" />
-83-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:71:13-56
-84        <!-- Akhir Video Obeng -->
+25-->E:\Plito\app\src\main\AndroidManifest.xml:14:9-35
+26        android:theme="@style/AppTheme" >
+26-->E:\Plito\app\src\main\AndroidManifest.xml:15:9-40
+27        <activity
+27-->E:\Plito\app\src\main\AndroidManifest.xml:16:9-17:68
+28            android:name="com.wicak.plito.ui.chat.RoomActivity"
+28-->E:\Plito\app\src\main\AndroidManifest.xml:16:19-55
+29            android:theme="@style/AppTheme.NoActionBar" />
+29-->E:\Plito\app\src\main\AndroidManifest.xml:17:13-56
+30
+31        <!-- Video Kunci -->
+32        <activity
+32-->E:\Plito\app\src\main\AndroidManifest.xml:21:9-24:59
+33            android:name="com.wicak.plito.ui.materi.kunci.video.VideoKunciPas"
+33-->E:\Plito\app\src\main\AndroidManifest.xml:22:13-64
+34            android:screenOrientation="landscape"
+34-->E:\Plito\app\src\main\AndroidManifest.xml:23:13-50
+35            android:theme="@style/AppTheme.NoActionBar" />
+35-->E:\Plito\app\src\main\AndroidManifest.xml:24:13-56
+36        <activity
+36-->E:\Plito\app\src\main\AndroidManifest.xml:25:9-28:59
+37            android:name="com.wicak.plito.ui.materi.kunci.video.VideoKunciKombi"
+37-->E:\Plito\app\src\main\AndroidManifest.xml:26:13-66
+38            android:screenOrientation="landscape"
+38-->E:\Plito\app\src\main\AndroidManifest.xml:27:13-50
+39            android:theme="@style/AppTheme.NoActionBar" />
+39-->E:\Plito\app\src\main\AndroidManifest.xml:28:13-56
+40        <activity
+40-->E:\Plito\app\src\main\AndroidManifest.xml:29:9-32:59
+41            android:name="com.wicak.plito.ui.materi.kunci.video.VideoKunciRing"
+41-->E:\Plito\app\src\main\AndroidManifest.xml:30:13-65
+42            android:screenOrientation="landscape"
+42-->E:\Plito\app\src\main\AndroidManifest.xml:31:13-50
+43            android:theme="@style/AppTheme.NoActionBar" />
+43-->E:\Plito\app\src\main\AndroidManifest.xml:32:13-56
+44        <activity
+44-->E:\Plito\app\src\main\AndroidManifest.xml:33:9-36:59
+45            android:name="com.wicak.plito.ui.materi.kunci.video.VideoSocket"
+45-->E:\Plito\app\src\main\AndroidManifest.xml:34:13-62
+46            android:screenOrientation="landscape"
+46-->E:\Plito\app\src\main\AndroidManifest.xml:35:13-50
+47            android:theme="@style/AppTheme.NoActionBar" />
+47-->E:\Plito\app\src\main\AndroidManifest.xml:36:13-56
+48        <activity
+48-->E:\Plito\app\src\main\AndroidManifest.xml:37:9-40:59
+49            android:name="com.wicak.plito.ui.materi.kunci.video.VideoRachet"
+49-->E:\Plito\app\src\main\AndroidManifest.xml:38:13-62
+50            android:screenOrientation="landscape"
+50-->E:\Plito\app\src\main\AndroidManifest.xml:39:13-50
+51            android:theme="@style/AppTheme.NoActionBar" />
+51-->E:\Plito\app\src\main\AndroidManifest.xml:40:13-56
+52        <activity
+52-->E:\Plito\app\src\main\AndroidManifest.xml:41:9-44:59
+53            android:name="com.wicak.plito.ui.materi.kunci.video.VideoRoda"
+53-->E:\Plito\app\src\main\AndroidManifest.xml:42:13-60
+54            android:screenOrientation="landscape"
+54-->E:\Plito\app\src\main\AndroidManifest.xml:43:13-50
+55            android:theme="@style/AppTheme.NoActionBar" />
+55-->E:\Plito\app\src\main\AndroidManifest.xml:44:13-56
+56        <activity
+56-->E:\Plito\app\src\main\AndroidManifest.xml:45:9-48:59
+57            android:name="com.wicak.plito.ui.materi.kunci.video.VideoAllen"
+57-->E:\Plito\app\src\main\AndroidManifest.xml:46:13-61
+58            android:screenOrientation="landscape"
+58-->E:\Plito\app\src\main\AndroidManifest.xml:47:13-50
+59            android:theme="@style/AppTheme.NoActionBar" />
+59-->E:\Plito\app\src\main\AndroidManifest.xml:48:13-56
+60        <activity
+60-->E:\Plito\app\src\main\AndroidManifest.xml:49:9-52:59
+61            android:name="com.wicak.plito.ui.materi.kunci.video.VideoInggris"
+61-->E:\Plito\app\src\main\AndroidManifest.xml:50:13-63
+62            android:screenOrientation="landscape"
+62-->E:\Plito\app\src\main\AndroidManifest.xml:51:13-50
+63            android:theme="@style/AppTheme.NoActionBar" />
+63-->E:\Plito\app\src\main\AndroidManifest.xml:52:13-56
+64        <activity
+64-->E:\Plito\app\src\main\AndroidManifest.xml:53:9-56:59
+65            android:name="com.wicak.plito.ui.materi.kunci.video.VideoNipel"
+65-->E:\Plito\app\src\main\AndroidManifest.xml:54:13-61
+66            android:screenOrientation="landscape"
+66-->E:\Plito\app\src\main\AndroidManifest.xml:55:13-50
+67            android:theme="@style/AppTheme.NoActionBar" />
+67-->E:\Plito\app\src\main\AndroidManifest.xml:56:13-56
+68
+69        <!-- Akhir Video Kunci -->
+70        <!-- Video Obeng -->
+71        <activity
+71-->E:\Plito\app\src\main\AndroidManifest.xml:60:9-63:59
+72            android:name="com.wicak.plito.ui.materi.obeng.video.VideoKetok"
+72-->E:\Plito\app\src\main\AndroidManifest.xml:61:13-61
+73            android:screenOrientation="landscape"
+73-->E:\Plito\app\src\main\AndroidManifest.xml:62:13-50
+74            android:theme="@style/AppTheme.NoActionBar" />
+74-->E:\Plito\app\src\main\AndroidManifest.xml:63:13-56
+75        <activity
+75-->E:\Plito\app\src\main\AndroidManifest.xml:64:9-67:59
+76            android:name="com.wicak.plito.ui.materi.obeng.video.VideoMinus"
+76-->E:\Plito\app\src\main\AndroidManifest.xml:65:13-61
+77            android:screenOrientation="landscape"
+77-->E:\Plito\app\src\main\AndroidManifest.xml:66:13-50
+78            android:theme="@style/AppTheme.NoActionBar" />
+78-->E:\Plito\app\src\main\AndroidManifest.xml:67:13-56
+79        <activity
+79-->E:\Plito\app\src\main\AndroidManifest.xml:68:9-71:59
+80            android:name="com.wicak.plito.ui.materi.obeng.video.VideoPlus"
+80-->E:\Plito\app\src\main\AndroidManifest.xml:69:13-60
+81            android:screenOrientation="landscape"
+81-->E:\Plito\app\src\main\AndroidManifest.xml:70:13-50
+82            android:theme="@style/AppTheme.NoActionBar" />
+82-->E:\Plito\app\src\main\AndroidManifest.xml:71:13-56
+83        <!-- Akhir Video Obeng -->
+84
 85
-86
-87        <!-- Video Extension -->
-88        <activity
-88-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:75:9-78:59
-89            android:name="com.wicak.plito.ui.materi.extension.video.VideoSkrap"
-89-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:76:13-65
-90            android:screenOrientation="landscape"
-90-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:77:13-50
-91            android:theme="@style/AppTheme.NoActionBar" />
-91-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:78:13-56
-92        <activity
-92-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:79:9-82:59
-93            android:name="com.wicak.plito.ui.materi.extension.video.VideoPena"
-93-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:80:13-64
-94            android:screenOrientation="landscape"
-94-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:81:13-50
-95            android:theme="@style/AppTheme.NoActionBar" />
-95-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:82:13-56
-96        <activity
-96-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:83:9-86:59
-97            android:name="com.wicak.plito.ui.materi.extension.video.VideoAwal"
-97-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:84:13-64
-98            android:screenOrientation="landscape"
-98-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:85:13-50
-99            android:theme="@style/AppTheme.NoActionBar" />
-99-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:86:13-56
-100        <activity
-100-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:87:9-90:59
-101            android:name="com.wicak.plito.ui.materi.extension.video.VideoThread"
-101-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:88:13-66
-102            android:screenOrientation="landscape"
-102-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:89:13-50
-103            android:theme="@style/AppTheme.NoActionBar" />
-103-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:90:13-56
-104        <activity
-104-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:91:9-94:59
-105            android:name="com.wicak.plito.ui.materi.extension.video.VideoFeeler"
-105-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:92:13-66
-106            android:screenOrientation="landscape"
-106-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:93:13-50
-107            android:theme="@style/AppTheme.NoActionBar" />
-107-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:94:13-56
-108
-109        <!-- Akhir Video Extension -->
+86        <!-- Video Extension -->
+87        <activity
+87-->E:\Plito\app\src\main\AndroidManifest.xml:75:9-78:59
+88            android:name="com.wicak.plito.ui.materi.extension.video.VideoSkrap"
+88-->E:\Plito\app\src\main\AndroidManifest.xml:76:13-65
+89            android:screenOrientation="landscape"
+89-->E:\Plito\app\src\main\AndroidManifest.xml:77:13-50
+90            android:theme="@style/AppTheme.NoActionBar" />
+90-->E:\Plito\app\src\main\AndroidManifest.xml:78:13-56
+91        <activity
+91-->E:\Plito\app\src\main\AndroidManifest.xml:79:9-82:59
+92            android:name="com.wicak.plito.ui.materi.extension.video.VideoPena"
+92-->E:\Plito\app\src\main\AndroidManifest.xml:80:13-64
+93            android:screenOrientation="landscape"
+93-->E:\Plito\app\src\main\AndroidManifest.xml:81:13-50
+94            android:theme="@style/AppTheme.NoActionBar" />
+94-->E:\Plito\app\src\main\AndroidManifest.xml:82:13-56
+95        <activity
+95-->E:\Plito\app\src\main\AndroidManifest.xml:83:9-86:59
+96            android:name="com.wicak.plito.ui.materi.extension.video.VideoAwal"
+96-->E:\Plito\app\src\main\AndroidManifest.xml:84:13-64
+97            android:screenOrientation="landscape"
+97-->E:\Plito\app\src\main\AndroidManifest.xml:85:13-50
+98            android:theme="@style/AppTheme.NoActionBar" />
+98-->E:\Plito\app\src\main\AndroidManifest.xml:86:13-56
+99        <activity
+99-->E:\Plito\app\src\main\AndroidManifest.xml:87:9-90:59
+100            android:name="com.wicak.plito.ui.materi.extension.video.VideoThread"
+100-->E:\Plito\app\src\main\AndroidManifest.xml:88:13-66
+101            android:screenOrientation="landscape"
+101-->E:\Plito\app\src\main\AndroidManifest.xml:89:13-50
+102            android:theme="@style/AppTheme.NoActionBar" />
+102-->E:\Plito\app\src\main\AndroidManifest.xml:90:13-56
+103        <activity
+103-->E:\Plito\app\src\main\AndroidManifest.xml:91:9-94:59
+104            android:name="com.wicak.plito.ui.materi.extension.video.VideoFeeler"
+104-->E:\Plito\app\src\main\AndroidManifest.xml:92:13-66
+105            android:screenOrientation="landscape"
+105-->E:\Plito\app\src\main\AndroidManifest.xml:93:13-50
+106            android:theme="@style/AppTheme.NoActionBar" />
+106-->E:\Plito\app\src\main\AndroidManifest.xml:94:13-56
+107
+108        <!-- Akhir Video Extension -->
+109
 110
-111
-112        <!-- Video Tang -->
-113        <activity
-113-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:99:9-102:59
-114            android:name="com.wicak.plito.ui.materi.tang.video.VideoTangKombinasi"
-114-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:100:13-68
-115            android:screenOrientation="landscape"
-115-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:101:13-50
-116            android:theme="@style/AppTheme.NoActionBar" />
-116-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:102:13-56
-117        <activity
-117-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:103:9-106:59
-118            android:name="com.wicak.plito.ui.materi.tang.video.VideoSlip"
-118-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:104:13-59
-119            android:screenOrientation="landscape"
-119-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:105:13-50
-120            android:theme="@style/AppTheme.NoActionBar" />
-120-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:106:13-56
-121        <activity
-121-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:107:9-110:59
-122            android:name="com.wicak.plito.ui.materi.tang.video.VideoViceGrip"
-122-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:108:13-63
-123            android:screenOrientation="landscape"
-123-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:109:13-50
-124            android:theme="@style/AppTheme.NoActionBar" />
-124-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:110:13-56
-125        <activity
-125-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:111:9-114:59
-126            android:name="com.wicak.plito.ui.materi.tang.video.VideoPotong"
-126-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:112:13-61
-127            android:screenOrientation="landscape"
-127-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:113:13-50
-128            android:theme="@style/AppTheme.NoActionBar" />
-128-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:114:13-56
-129        <activity
-129-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:115:9-118:59
-130            android:name="com.wicak.plito.ui.materi.tang.video.VideoAir"
-130-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:116:13-58
-131            android:screenOrientation="landscape"
-131-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:117:13-50
-132            android:theme="@style/AppTheme.NoActionBar" />
-132-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:118:13-56
-133        <activity
-133-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:119:9-122:59
-134            android:name="com.wicak.plito.ui.materi.tang.video.VideoSirklipDalam"
-134-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:120:13-67
-135            android:screenOrientation="landscape"
-135-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:121:13-50
-136            android:theme="@style/AppTheme.NoActionBar" />
-136-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:122:13-56
-137        <activity
-137-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:123:9-126:59
-138            android:name="com.wicak.plito.ui.materi.tang.video.VideoSirklipLuar"
-138-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:124:13-66
-139            android:screenOrientation="landscape"
-139-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:125:13-50
-140            android:theme="@style/AppTheme.NoActionBar" />
-140-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:126:13-56
-141        <activity
-141-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:127:9-130:59
-142            android:name="com.wicak.plito.ui.materi.tang.video.VideoCucut"
-142-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:128:13-60
-143            android:screenOrientation="landscape"
-143-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:129:13-50
-144            android:theme="@style/AppTheme.NoActionBar" />
-144-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:130:13-56
-145        <!-- Akhir Video Tang -->
-146        <activity
-146-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:132:9-134:15
-147            android:name="com.wicak.plito.ui.chat.ChatMessage"
-147-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:132:19-54
-148            android:parentActivityName="com.wicak.plito.ui.chat.RoomActivity" />
-148-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:133:13-63
-149        <activity
-149-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:135:9-137:59
-150            android:name="com.wicak.plito.SignInActivity"
-150-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:136:13-43
-151            android:theme="@style/AppTheme.NoActionBar" />
-151-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:137:13-56
-152        <activity
-152-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:138:9-140:59
-153            android:name="com.wicak.plito.SignUpActivity"
-153-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:139:13-43
-154            android:theme="@style/AppTheme.NoActionBar" />
-154-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:140:13-56
-155        <activity android:name="com.wicak.plito.ui.materi.tang.MateriEmpat" />
-155-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:141:9-64
-155-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:141:19-61
-156        <activity android:name="com.wicak.plito.ui.materi.obeng.MateriTiga" />
-156-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:142:9-64
-156-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:142:19-61
-157        <activity android:name="com.wicak.plito.ui.materi.palu.MateriDua" />
-157-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:143:9-62
-157-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:143:19-59
-158        <activity android:name="com.wicak.plito.ui.materi.kunci.MateriSatu" />
-158-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:144:9-64
-158-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:144:19-61
-159        <activity
-159-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:145:9-149:59
-160            android:name="com.wicak.plito.ui.materi.kunci.TabsKunci"
-160-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:146:13-54
-161            android:label="Kunci"
-161-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:147:13-34
-162            android:parentActivityName="com.wicak.plito.ui.materi.kunci.TabsKunci"
-162-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:148:13-68
-163            android:theme="@style/AppTheme.NoActionBar" />
-163-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:149:13-56
-164        <activity
-164-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:150:9-154:59
-165            android:name="com.wicak.plito.ui.materi.palu.TabsPalu"
-165-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:151:13-52
-166            android:label="Palu"
-166-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:153:13-33
-167            android:parentActivityName="com.wicak.plito.ui.materi.palu.TabsPalu"
-167-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:152:13-66
-168            android:theme="@style/AppTheme.NoActionBar" />
-168-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:154:13-56
-169        <activity
-169-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:155:9-159:59
-170            android:name="com.wicak.plito.ui.materi.extension.TabsExtension"
-170-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:156:13-62
-171            android:label="Additional"
-171-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:158:13-39
-172            android:parentActivityName="com.wicak.plito.ui.materi.extension.TabsExtension"
-172-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:157:13-76
-173            android:theme="@style/AppTheme.NoActionBar" />
-173-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:159:13-56
-174        <activity
-174-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:160:9-164:59
-175            android:name="com.wicak.plito.ui.materi.tang.TabsTang"
-175-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:161:13-52
-176            android:label="Tang"
-176-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:163:13-33
-177            android:parentActivityName="com.wicak.plito.ui.materi.tang.TabsTang"
-177-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:162:13-66
-178            android:theme="@style/AppTheme.NoActionBar" />
-178-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:164:13-56
-179        <activity
-179-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:165:9-169:59
-180            android:name="com.wicak.plito.ui.materi.obeng.TabsObeng"
-180-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:166:13-54
-181            android:label="Obeng"
-181-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:168:13-34
-182            android:parentActivityName="com.wicak.plito.ui.materi.obeng.TabsObeng"
-182-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:167:13-68
-183            android:theme="@style/AppTheme.NoActionBar" />
-183-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:169:13-56
-184        <activity android:name="com.wicak.plito.ui.quiz.HasilKuis" />
-184-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:170:9-55
-184-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:170:19-52
-185        <activity android:name="com.wicak.plito.ui.quiz.MulaiKuis" />
-185-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:171:9-55
-185-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:171:19-52
-186        <activity
-186-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:172:9-174:61
-187            android:name="com.wicak.plito.BottomActivity"
-187-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:173:13-43
-188            android:label="@string/title_activity_bottom" />
-188-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:174:13-58
-189        <activity
-189-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:175:9-183:20
-190            android:name="com.wicak.plito.SplashScreen"
-190-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:176:13-41
-191            android:theme="@style/AppTheme.NoActionBar" >
-191-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:177:13-56
-192            <intent-filter>
-192-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:178:13-182:29
-193                <action android:name="android.intent.action.MAIN" />
-193-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:179:17-69
-193-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:179:25-66
-194
-195                <category android:name="android.intent.category.LAUNCHER" />
-195-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:181:17-77
-195-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:181:27-74
-196            </intent-filter>
-197        </activity>
-198        <activity android:name="com.wicak.plito.MainActivity" />
-198-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:184:9-50
-198-->D:\BACKUP\AndroidStudioProjects\Plito\app\src\main\AndroidManifest.xml:184:19-47
-199        <activity
-199-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\Septian Adi\.gradle\caches\transforms-2\files-2.1\e4b89fdf0cd4aa94d7d4680d12e28d1d\jetified-firebase-auth-19.2.0\AndroidManifest.xml:24:9-31:50
-200            android:name="com.google.firebase.auth.internal.FederatedSignInActivity"
-200-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\Septian Adi\.gradle\caches\transforms-2\files-2.1\e4b89fdf0cd4aa94d7d4680d12e28d1d\jetified-firebase-auth-19.2.0\AndroidManifest.xml:25:13-85
-201            android:excludeFromRecents="true"
-201-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\Septian Adi\.gradle\caches\transforms-2\files-2.1\e4b89fdf0cd4aa94d7d4680d12e28d1d\jetified-firebase-auth-19.2.0\AndroidManifest.xml:26:13-46
-202            android:exported="true"
-202-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\Septian Adi\.gradle\caches\transforms-2\files-2.1\e4b89fdf0cd4aa94d7d4680d12e28d1d\jetified-firebase-auth-19.2.0\AndroidManifest.xml:27:13-36
-203            android:launchMode="singleTask"
-203-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\Septian Adi\.gradle\caches\transforms-2\files-2.1\e4b89fdf0cd4aa94d7d4680d12e28d1d\jetified-firebase-auth-19.2.0\AndroidManifest.xml:28:13-44
-204            android:permission="com.google.firebase.auth.api.gms.permission.LAUNCH_FEDERATED_SIGN_IN"
-204-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\Septian Adi\.gradle\caches\transforms-2\files-2.1\e4b89fdf0cd4aa94d7d4680d12e28d1d\jetified-firebase-auth-19.2.0\AndroidManifest.xml:29:13-102
-205            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-205-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\Septian Adi\.gradle\caches\transforms-2\files-2.1\e4b89fdf0cd4aa94d7d4680d12e28d1d\jetified-firebase-auth-19.2.0\AndroidManifest.xml:30:13-72
-206
-207        <service
-207-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\Septian Adi\.gradle\caches\transforms-2\files-2.1\e4b89fdf0cd4aa94d7d4680d12e28d1d\jetified-firebase-auth-19.2.0\AndroidManifest.xml:33:9-39:19
-208            android:name="com.google.firebase.components.ComponentDiscoveryService"
-208-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\Septian Adi\.gradle\caches\transforms-2\files-2.1\e4b89fdf0cd4aa94d7d4680d12e28d1d\jetified-firebase-auth-19.2.0\AndroidManifest.xml:34:13-84
-209            android:directBootAware="true"
-209-->[com.google.firebase:firebase-common:19.5.0] C:\Users\Septian Adi\.gradle\caches\transforms-2\files-2.1\d783eb5e4d25e462c5ff8a9ddfc544e8\jetified-firebase-common-19.5.0\AndroidManifest.xml:35:13-43
-210            android:exported="false" >
-210-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\Septian Adi\.gradle\caches\transforms-2\files-2.1\e4b89fdf0cd4aa94d7d4680d12e28d1d\jetified-firebase-auth-19.2.0\AndroidManifest.xml:35:13-37
-211            <meta-data
-211-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\Septian Adi\.gradle\caches\transforms-2\files-2.1\e4b89fdf0cd4aa94d7d4680d12e28d1d\jetified-firebase-auth-19.2.0\AndroidManifest.xml:36:13-38:85
-212                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
-212-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\Septian Adi\.gradle\caches\transforms-2\files-2.1\e4b89fdf0cd4aa94d7d4680d12e28d1d\jetified-firebase-auth-19.2.0\AndroidManifest.xml:37:17-109
-213                android:value="com.google.firebase.components.ComponentRegistrar" />
-213-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\Septian Adi\.gradle\caches\transforms-2\files-2.1\e4b89fdf0cd4aa94d7d4680d12e28d1d\jetified-firebase-auth-19.2.0\AndroidManifest.xml:38:17-82
-214            <meta-data
-214-->[com.google.firebase:firebase-database:19.5.0] C:\Users\Septian Adi\.gradle\caches\transforms-2\files-2.1\57865f2684547697bcf0a2e378da5988\jetified-firebase-database-19.5.0\AndroidManifest.xml:32:13-34:85
-215                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
-215-->[com.google.firebase:firebase-database:19.5.0] C:\Users\Septian Adi\.gradle\caches\transforms-2\files-2.1\57865f2684547697bcf0a2e378da5988\jetified-firebase-database-19.5.0\AndroidManifest.xml:33:17-109
-216                android:value="com.google.firebase.components.ComponentRegistrar" />
-216-->[com.google.firebase:firebase-database:19.5.0] C:\Users\Septian Adi\.gradle\caches\transforms-2\files-2.1\57865f2684547697bcf0a2e378da5988\jetified-firebase-database-19.5.0\AndroidManifest.xml:34:17-82
-217            <meta-data
-217-->[com.google.firebase:firebase-config:19.2.0] C:\Users\Septian Adi\.gradle\caches\transforms-2\files-2.1\e1aa1ca0c37452373985dcfb28aafa38\jetified-firebase-config-19.2.0\AndroidManifest.xml:32:13-34:85
-218                android:name="com.google.firebase.components:com.google.firebase.remoteconfig.RemoteConfigRegistrar"
-218-->[com.google.firebase:firebase-config:19.2.0] C:\Users\Septian Adi\.gradle\caches\transforms-2\files-2.1\e1aa1ca0c37452373985dcfb28aafa38\jetified-firebase-config-19.2.0\AndroidManifest.xml:33:17-117
-219                android:value="com.google.firebase.components.ComponentRegistrar" />
-219-->[com.google.firebase:firebase-config:19.2.0] C:\Users\Septian Adi\.gradle\caches\transforms-2\files-2.1\e1aa1ca0c37452373985dcfb28aafa38\jetified-firebase-config-19.2.0\AndroidManifest.xml:34:17-82
-220            <meta-data
-220-->[com.google.firebase:firebase-storage:19.2.1] C:\Users\Septian Adi\.gradle\caches\transforms-2\files-2.1\3c49246819d89d16c5086085c5a36d4c\jetified-firebase-storage-19.2.1\AndroidManifest.xml:33:13-35:85
-221                android:name="com.google.firebase.components:com.google.firebase.storage.StorageRegistrar"
-221-->[com.google.firebase:firebase-storage:19.2.1] C:\Users\Septian Adi\.gradle\caches\transforms-2\files-2.1\3c49246819d89d16c5086085c5a36d4c\jetified-firebase-storage-19.2.1\AndroidManifest.xml:34:17-107
-222                android:value="com.google.firebase.components.ComponentRegistrar" />
-222-->[com.google.firebase:firebase-storage:19.2.1] C:\Users\Septian Adi\.gradle\caches\transforms-2\files-2.1\3c49246819d89d16c5086085c5a36d4c\jetified-firebase-storage-19.2.1\AndroidManifest.xml:35:17-82
-223            <meta-data
-223-->[com.google.firebase:firebase-firestore:22.0.0] C:\Users\Septian Adi\.gradle\caches\transforms-2\files-2.1\7b396bb215b803305333f11cee85c0f1\jetified-firebase-firestore-22.0.0\AndroidManifest.xml:20:13-22:85
-224                android:name="com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar"
-224-->[com.google.firebase:firebase-firestore:22.0.0] C:\Users\Septian Adi\.gradle\caches\transforms-2\files-2.1\7b396bb215b803305333f11cee85c0f1\jetified-firebase-firestore-22.0.0\AndroidManifest.xml:21:17-111
-225                android:value="com.google.firebase.components.ComponentRegistrar" />
-225-->[com.google.firebase:firebase-firestore:22.0.0] C:\Users\Septian Adi\.gradle\caches\transforms-2\files-2.1\7b396bb215b803305333f11cee85c0f1\jetified-firebase-firestore-22.0.0\AndroidManifest.xml:22:17-82
-226            <meta-data
-226-->[com.google.android.gms:play-services-measurement-api:17.5.0] C:\Users\Septian Adi\.gradle\caches\transforms-2\files-2.1\29d033bc80f7fe3bdfce534879e09440\jetified-play-services-measurement-api-17.5.0\AndroidManifest.xml:30:13-32:85
-227                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
-227-->[com.google.android.gms:play-services-measurement-api:17.5.0] C:\Users\Septian Adi\.gradle\caches\transforms-2\files-2.1\29d033bc80f7fe3bdfce534879e09440\jetified-play-services-measurement-api-17.5.0\AndroidManifest.xml:31:17-139
-228                android:value="com.google.firebase.components.ComponentRegistrar" />
-228-->[com.google.android.gms:play-services-measurement-api:17.5.0] C:\Users\Septian Adi\.gradle\caches\transforms-2\files-2.1\29d033bc80f7fe3bdfce534879e09440\jetified-play-services-measurement-api-17.5.0\AndroidManifest.xml:32:17-82
-229            <meta-data
-229-->[com.google.firebase:firebase-installations:16.3.2] C:\Users\Septian Adi\.gradle\caches\transforms-2\files-2.1\c324646d0ddf8eb4ab30f3b6bd1343aa\jetified-firebase-installations-16.3.2\AndroidManifest.xml:17:13-19:85
-230                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
-230-->[com.google.firebase:firebase-installations:16.3.2] C:\Users\Septian Adi\.gradle\caches\transforms-2\files-2.1\c324646d0ddf8eb4ab30f3b6bd1343aa\jetified-firebase-installations-16.3.2\AndroidManifest.xml:18:17-127
-231                android:value="com.google.firebase.components.ComponentRegistrar" />
-231-->[com.google.firebase:firebase-installations:16.3.2] C:\Users\Septian Adi\.gradle\caches\transforms-2\files-2.1\c324646d0ddf8eb4ab30f3b6bd1343aa\jetified-firebase-installations-16.3.2\AndroidManifest.xml:19:17-82
-232            <meta-data
-232-->[com.google.firebase:firebase-abt:19.1.0] C:\Users\Septian Adi\.gradle\caches\transforms-2\files-2.1\9fbda3305230e1c68fbba3a982164463\jetified-firebase-abt-19.1.0\AndroidManifest.xml:13:13-15:85
-233                android:name="com.google.firebase.components:com.google.firebase.abt.component.AbtRegistrar"
-233-->[com.google.firebase:firebase-abt:19.1.0] C:\Users\Septian Adi\.gradle\caches\transforms-2\files-2.1\9fbda3305230e1c68fbba3a982164463\jetified-firebase-abt-19.1.0\AndroidManifest.xml:14:17-109
-234                android:value="com.google.firebase.components.ComponentRegistrar" />
-234-->[com.google.firebase:firebase-abt:19.1.0] C:\Users\Septian Adi\.gradle\caches\transforms-2\files-2.1\9fbda3305230e1c68fbba3a982164463\jetified-firebase-abt-19.1.0\AndroidManifest.xml:15:17-82
-235            <!--
-236                This registrar is not defined in the dynamic-module-support sdk itself to allow non-firebase
-237                clients to use it as well, by defining this registrar in their own core/common library.
-238            -->
-239            <meta-data
-239-->[com.google.firebase:firebase-common:19.5.0] C:\Users\Septian Adi\.gradle\caches\transforms-2\files-2.1\d783eb5e4d25e462c5ff8a9ddfc544e8\jetified-firebase-common-19.5.0\AndroidManifest.xml:43:13-45:85
-240                android:name="com.google.firebase.components:com.google.firebase.dynamicloading.DynamicLoadingRegistrar"
-240-->[com.google.firebase:firebase-common:19.5.0] C:\Users\Septian Adi\.gradle\caches\transforms-2\files-2.1\d783eb5e4d25e462c5ff8a9ddfc544e8\jetified-firebase-common-19.5.0\AndroidManifest.xml:44:17-121
-241                android:value="com.google.firebase.components.ComponentRegistrar" />
-241-->[com.google.firebase:firebase-common:19.5.0] C:\Users\Septian Adi\.gradle\caches\transforms-2\files-2.1\d783eb5e4d25e462c5ff8a9ddfc544e8\jetified-firebase-common-19.5.0\AndroidManifest.xml:45:17-82
-242        </service>
-243
-244        <activity
-244-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\Septian Adi\.gradle\caches\transforms-2\files-2.1\d92a27efcac738b4f280b9ad0c07bda7\jetified-play-services-base-17.1.0\AndroidManifest.xml:23:9-26:75
-245            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-245-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\Septian Adi\.gradle\caches\transforms-2\files-2.1\d92a27efcac738b4f280b9ad0c07bda7\jetified-play-services-base-17.1.0\AndroidManifest.xml:24:13-79
-246            android:exported="false"
-246-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\Septian Adi\.gradle\caches\transforms-2\files-2.1\d92a27efcac738b4f280b9ad0c07bda7\jetified-play-services-base-17.1.0\AndroidManifest.xml:25:13-37
-247            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-247-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\Septian Adi\.gradle\caches\transforms-2\files-2.1\d92a27efcac738b4f280b9ad0c07bda7\jetified-play-services-base-17.1.0\AndroidManifest.xml:26:13-72
-248
-249        <receiver
-249-->[com.google.android.gms:play-services-measurement:17.5.0] C:\Users\Septian Adi\.gradle\caches\transforms-2\files-2.1\b7b92f2f9514564c9583ba6c5d9e72ab\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:29:9-33:20
-250            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
-250-->[com.google.android.gms:play-services-measurement:17.5.0] C:\Users\Septian Adi\.gradle\caches\transforms-2\files-2.1\b7b92f2f9514564c9583ba6c5d9e72ab\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:30:13-85
-251            android:enabled="true"
-251-->[com.google.android.gms:play-services-measurement:17.5.0] C:\Users\Septian Adi\.gradle\caches\transforms-2\files-2.1\b7b92f2f9514564c9583ba6c5d9e72ab\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:31:13-35
-252            android:exported="false" >
-252-->[com.google.android.gms:play-services-measurement:17.5.0] C:\Users\Septian Adi\.gradle\caches\transforms-2\files-2.1\b7b92f2f9514564c9583ba6c5d9e72ab\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:32:13-37
-253        </receiver>
-254
-255        <service
-255-->[com.google.android.gms:play-services-measurement:17.5.0] C:\Users\Septian Adi\.gradle\caches\transforms-2\files-2.1\b7b92f2f9514564c9583ba6c5d9e72ab\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:35:9-38:40
-256            android:name="com.google.android.gms.measurement.AppMeasurementService"
-256-->[com.google.android.gms:play-services-measurement:17.5.0] C:\Users\Septian Adi\.gradle\caches\transforms-2\files-2.1\b7b92f2f9514564c9583ba6c5d9e72ab\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:36:13-84
-257            android:enabled="true"
-257-->[com.google.android.gms:play-services-measurement:17.5.0] C:\Users\Septian Adi\.gradle\caches\transforms-2\files-2.1\b7b92f2f9514564c9583ba6c5d9e72ab\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:37:13-35
-258            android:exported="false" />
-258-->[com.google.android.gms:play-services-measurement:17.5.0] C:\Users\Septian Adi\.gradle\caches\transforms-2\files-2.1\b7b92f2f9514564c9583ba6c5d9e72ab\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:38:13-37
-259        <service
-259-->[com.google.android.gms:play-services-measurement:17.5.0] C:\Users\Septian Adi\.gradle\caches\transforms-2\files-2.1\b7b92f2f9514564c9583ba6c5d9e72ab\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:39:9-43:72
-260            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
-260-->[com.google.android.gms:play-services-measurement:17.5.0] C:\Users\Septian Adi\.gradle\caches\transforms-2\files-2.1\b7b92f2f9514564c9583ba6c5d9e72ab\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:40:13-87
-261            android:enabled="true"
-261-->[com.google.android.gms:play-services-measurement:17.5.0] C:\Users\Septian Adi\.gradle\caches\transforms-2\files-2.1\b7b92f2f9514564c9583ba6c5d9e72ab\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:41:13-35
-262            android:exported="false"
-262-->[com.google.android.gms:play-services-measurement:17.5.0] C:\Users\Septian Adi\.gradle\caches\transforms-2\files-2.1\b7b92f2f9514564c9583ba6c5d9e72ab\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:42:13-37
-263            android:permission="android.permission.BIND_JOB_SERVICE" />
-263-->[com.google.android.gms:play-services-measurement:17.5.0] C:\Users\Septian Adi\.gradle\caches\transforms-2\files-2.1\b7b92f2f9514564c9583ba6c5d9e72ab\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:43:13-69
-264
-265        <provider
-265-->[com.google.firebase:firebase-common:19.5.0] C:\Users\Septian Adi\.gradle\caches\transforms-2\files-2.1\d783eb5e4d25e462c5ff8a9ddfc544e8\jetified-firebase-common-19.5.0\AndroidManifest.xml:26:9-31:39
-266            android:name="com.google.firebase.provider.FirebaseInitProvider"
-266-->[com.google.firebase:firebase-common:19.5.0] C:\Users\Septian Adi\.gradle\caches\transforms-2\files-2.1\d783eb5e4d25e462c5ff8a9ddfc544e8\jetified-firebase-common-19.5.0\AndroidManifest.xml:27:13-77
-267            android:authorities="com.wicak.plito.firebaseinitprovider"
-267-->[com.google.firebase:firebase-common:19.5.0] C:\Users\Septian Adi\.gradle\caches\transforms-2\files-2.1\d783eb5e4d25e462c5ff8a9ddfc544e8\jetified-firebase-common-19.5.0\AndroidManifest.xml:28:13-72
-268            android:directBootAware="true"
-268-->[com.google.firebase:firebase-common:19.5.0] C:\Users\Septian Adi\.gradle\caches\transforms-2\files-2.1\d783eb5e4d25e462c5ff8a9ddfc544e8\jetified-firebase-common-19.5.0\AndroidManifest.xml:29:13-43
-269            android:exported="false"
-269-->[com.google.firebase:firebase-common:19.5.0] C:\Users\Septian Adi\.gradle\caches\transforms-2\files-2.1\d783eb5e4d25e462c5ff8a9ddfc544e8\jetified-firebase-common-19.5.0\AndroidManifest.xml:30:13-37
-270            android:initOrder="100" />
-270-->[com.google.firebase:firebase-common:19.5.0] C:\Users\Septian Adi\.gradle\caches\transforms-2\files-2.1\d783eb5e4d25e462c5ff8a9ddfc544e8\jetified-firebase-common-19.5.0\AndroidManifest.xml:31:13-36
-271
-272        <meta-data
-272-->[com.google.android.gms:play-services-basement:17.2.1] C:\Users\Septian Adi\.gradle\caches\transforms-2\files-2.1\002ce9cd568f5ca2868e28af67b3f6fc\jetified-play-services-basement-17.2.1\AndroidManifest.xml:23:9-25:69
-273            android:name="com.google.android.gms.version"
-273-->[com.google.android.gms:play-services-basement:17.2.1] C:\Users\Septian Adi\.gradle\caches\transforms-2\files-2.1\002ce9cd568f5ca2868e28af67b3f6fc\jetified-play-services-basement-17.2.1\AndroidManifest.xml:24:13-58
-274            android:value="@integer/google_play_services_version" />
-274-->[com.google.android.gms:play-services-basement:17.2.1] C:\Users\Septian Adi\.gradle\caches\transforms-2\files-2.1\002ce9cd568f5ca2868e28af67b3f6fc\jetified-play-services-basement-17.2.1\AndroidManifest.xml:25:13-66
-275
-276        <provider
-276-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Septian Adi\.gradle\caches\transforms-2\files-2.1\750f1a1e9f5b24d221117033f9c85515\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:25:9-29:43
-277            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
-277-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Septian Adi\.gradle\caches\transforms-2\files-2.1\750f1a1e9f5b24d221117033f9c85515\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:26:13-79
-278            android:authorities="com.wicak.plito.lifecycle-process"
-278-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Septian Adi\.gradle\caches\transforms-2\files-2.1\750f1a1e9f5b24d221117033f9c85515\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:27:13-69
-279            android:exported="false"
-279-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Septian Adi\.gradle\caches\transforms-2\files-2.1\750f1a1e9f5b24d221117033f9c85515\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:28:13-37
-280            android:multiprocess="true" />
-280-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Septian Adi\.gradle\caches\transforms-2\files-2.1\750f1a1e9f5b24d221117033f9c85515\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:29:13-40
-281    </application>
-282
-283</manifest>
+111        <!-- Video Tang -->
+112        <activity
+112-->E:\Plito\app\src\main\AndroidManifest.xml:99:9-102:59
+113            android:name="com.wicak.plito.ui.materi.tang.video.VideoTangKombinasi"
+113-->E:\Plito\app\src\main\AndroidManifest.xml:100:13-68
+114            android:screenOrientation="landscape"
+114-->E:\Plito\app\src\main\AndroidManifest.xml:101:13-50
+115            android:theme="@style/AppTheme.NoActionBar" />
+115-->E:\Plito\app\src\main\AndroidManifest.xml:102:13-56
+116        <activity
+116-->E:\Plito\app\src\main\AndroidManifest.xml:103:9-106:59
+117            android:name="com.wicak.plito.ui.materi.tang.video.VideoSlip"
+117-->E:\Plito\app\src\main\AndroidManifest.xml:104:13-59
+118            android:screenOrientation="landscape"
+118-->E:\Plito\app\src\main\AndroidManifest.xml:105:13-50
+119            android:theme="@style/AppTheme.NoActionBar" />
+119-->E:\Plito\app\src\main\AndroidManifest.xml:106:13-56
+120        <activity
+120-->E:\Plito\app\src\main\AndroidManifest.xml:107:9-110:59
+121            android:name="com.wicak.plito.ui.materi.tang.video.VideoViceGrip"
+121-->E:\Plito\app\src\main\AndroidManifest.xml:108:13-63
+122            android:screenOrientation="landscape"
+122-->E:\Plito\app\src\main\AndroidManifest.xml:109:13-50
+123            android:theme="@style/AppTheme.NoActionBar" />
+123-->E:\Plito\app\src\main\AndroidManifest.xml:110:13-56
+124        <activity
+124-->E:\Plito\app\src\main\AndroidManifest.xml:111:9-114:59
+125            android:name="com.wicak.plito.ui.materi.tang.video.VideoPotong"
+125-->E:\Plito\app\src\main\AndroidManifest.xml:112:13-61
+126            android:screenOrientation="landscape"
+126-->E:\Plito\app\src\main\AndroidManifest.xml:113:13-50
+127            android:theme="@style/AppTheme.NoActionBar" />
+127-->E:\Plito\app\src\main\AndroidManifest.xml:114:13-56
+128        <activity
+128-->E:\Plito\app\src\main\AndroidManifest.xml:115:9-118:59
+129            android:name="com.wicak.plito.ui.materi.tang.video.VideoAir"
+129-->E:\Plito\app\src\main\AndroidManifest.xml:116:13-58
+130            android:screenOrientation="landscape"
+130-->E:\Plito\app\src\main\AndroidManifest.xml:117:13-50
+131            android:theme="@style/AppTheme.NoActionBar" />
+131-->E:\Plito\app\src\main\AndroidManifest.xml:118:13-56
+132        <activity
+132-->E:\Plito\app\src\main\AndroidManifest.xml:119:9-122:59
+133            android:name="com.wicak.plito.ui.materi.tang.video.VideoSirklipDalam"
+133-->E:\Plito\app\src\main\AndroidManifest.xml:120:13-67
+134            android:screenOrientation="landscape"
+134-->E:\Plito\app\src\main\AndroidManifest.xml:121:13-50
+135            android:theme="@style/AppTheme.NoActionBar" />
+135-->E:\Plito\app\src\main\AndroidManifest.xml:122:13-56
+136        <activity
+136-->E:\Plito\app\src\main\AndroidManifest.xml:123:9-126:59
+137            android:name="com.wicak.plito.ui.materi.tang.video.VideoSirklipLuar"
+137-->E:\Plito\app\src\main\AndroidManifest.xml:124:13-66
+138            android:screenOrientation="landscape"
+138-->E:\Plito\app\src\main\AndroidManifest.xml:125:13-50
+139            android:theme="@style/AppTheme.NoActionBar" />
+139-->E:\Plito\app\src\main\AndroidManifest.xml:126:13-56
+140        <activity
+140-->E:\Plito\app\src\main\AndroidManifest.xml:127:9-130:59
+141            android:name="com.wicak.plito.ui.materi.tang.video.VideoCucut"
+141-->E:\Plito\app\src\main\AndroidManifest.xml:128:13-60
+142            android:screenOrientation="landscape"
+142-->E:\Plito\app\src\main\AndroidManifest.xml:129:13-50
+143            android:theme="@style/AppTheme.NoActionBar" />
+143-->E:\Plito\app\src\main\AndroidManifest.xml:130:13-56
+144        <!-- Akhir Video Tang -->
+145        <activity
+145-->E:\Plito\app\src\main\AndroidManifest.xml:132:9-134:15
+146            android:name="com.wicak.plito.ui.chat.ChatMessage"
+146-->E:\Plito\app\src\main\AndroidManifest.xml:132:19-54
+147            android:parentActivityName="com.wicak.plito.ui.chat.RoomActivity" />
+147-->E:\Plito\app\src\main\AndroidManifest.xml:133:13-63
+148        <activity
+148-->E:\Plito\app\src\main\AndroidManifest.xml:135:9-137:59
+149            android:name="com.wicak.plito.SignInActivity"
+149-->E:\Plito\app\src\main\AndroidManifest.xml:136:13-43
+150            android:theme="@style/AppTheme.NoActionBar" />
+150-->E:\Plito\app\src\main\AndroidManifest.xml:137:13-56
+151        <activity
+151-->E:\Plito\app\src\main\AndroidManifest.xml:138:9-140:59
+152            android:name="com.wicak.plito.SignUpActivity"
+152-->E:\Plito\app\src\main\AndroidManifest.xml:139:13-43
+153            android:theme="@style/AppTheme.NoActionBar" />
+153-->E:\Plito\app\src\main\AndroidManifest.xml:140:13-56
+154        <activity android:name="com.wicak.plito.ui.materi.tang.MateriEmpat" />
+154-->E:\Plito\app\src\main\AndroidManifest.xml:141:9-64
+154-->E:\Plito\app\src\main\AndroidManifest.xml:141:19-61
+155        <activity android:name="com.wicak.plito.ui.materi.obeng.MateriTiga" />
+155-->E:\Plito\app\src\main\AndroidManifest.xml:142:9-64
+155-->E:\Plito\app\src\main\AndroidManifest.xml:142:19-61
+156        <activity android:name="com.wicak.plito.ui.materi.palu.MateriDua" />
+156-->E:\Plito\app\src\main\AndroidManifest.xml:143:9-62
+156-->E:\Plito\app\src\main\AndroidManifest.xml:143:19-59
+157        <activity android:name="com.wicak.plito.ui.materi.kunci.MateriSatu" />
+157-->E:\Plito\app\src\main\AndroidManifest.xml:144:9-64
+157-->E:\Plito\app\src\main\AndroidManifest.xml:144:19-61
+158        <activity
+158-->E:\Plito\app\src\main\AndroidManifest.xml:145:9-149:59
+159            android:name="com.wicak.plito.ui.materi.kunci.TabsKunci"
+159-->E:\Plito\app\src\main\AndroidManifest.xml:146:13-54
+160            android:label="Kunci"
+160-->E:\Plito\app\src\main\AndroidManifest.xml:147:13-34
+161            android:parentActivityName="com.wicak.plito.ui.materi.kunci.TabsKunci"
+161-->E:\Plito\app\src\main\AndroidManifest.xml:148:13-68
+162            android:theme="@style/AppTheme.NoActionBar" />
+162-->E:\Plito\app\src\main\AndroidManifest.xml:149:13-56
+163        <activity
+163-->E:\Plito\app\src\main\AndroidManifest.xml:150:9-154:59
+164            android:name="com.wicak.plito.ui.materi.palu.TabsPalu"
+164-->E:\Plito\app\src\main\AndroidManifest.xml:151:13-52
+165            android:label="Palu"
+165-->E:\Plito\app\src\main\AndroidManifest.xml:153:13-33
+166            android:parentActivityName="com.wicak.plito.ui.materi.palu.TabsPalu"
+166-->E:\Plito\app\src\main\AndroidManifest.xml:152:13-66
+167            android:theme="@style/AppTheme.NoActionBar" />
+167-->E:\Plito\app\src\main\AndroidManifest.xml:154:13-56
+168        <activity
+168-->E:\Plito\app\src\main\AndroidManifest.xml:155:9-159:59
+169            android:name="com.wicak.plito.ui.materi.extension.TabsExtension"
+169-->E:\Plito\app\src\main\AndroidManifest.xml:156:13-62
+170            android:label="Additional"
+170-->E:\Plito\app\src\main\AndroidManifest.xml:158:13-39
+171            android:parentActivityName="com.wicak.plito.ui.materi.extension.TabsExtension"
+171-->E:\Plito\app\src\main\AndroidManifest.xml:157:13-76
+172            android:theme="@style/AppTheme.NoActionBar" />
+172-->E:\Plito\app\src\main\AndroidManifest.xml:159:13-56
+173        <activity
+173-->E:\Plito\app\src\main\AndroidManifest.xml:160:9-164:59
+174            android:name="com.wicak.plito.ui.materi.tang.TabsTang"
+174-->E:\Plito\app\src\main\AndroidManifest.xml:161:13-52
+175            android:label="Tang"
+175-->E:\Plito\app\src\main\AndroidManifest.xml:163:13-33
+176            android:parentActivityName="com.wicak.plito.ui.materi.tang.TabsTang"
+176-->E:\Plito\app\src\main\AndroidManifest.xml:162:13-66
+177            android:theme="@style/AppTheme.NoActionBar" />
+177-->E:\Plito\app\src\main\AndroidManifest.xml:164:13-56
+178        <activity
+178-->E:\Plito\app\src\main\AndroidManifest.xml:165:9-169:59
+179            android:name="com.wicak.plito.ui.materi.obeng.TabsObeng"
+179-->E:\Plito\app\src\main\AndroidManifest.xml:166:13-54
+180            android:label="Obeng"
+180-->E:\Plito\app\src\main\AndroidManifest.xml:168:13-34
+181            android:parentActivityName="com.wicak.plito.ui.materi.obeng.TabsObeng"
+181-->E:\Plito\app\src\main\AndroidManifest.xml:167:13-68
+182            android:theme="@style/AppTheme.NoActionBar" />
+182-->E:\Plito\app\src\main\AndroidManifest.xml:169:13-56
+183        <activity android:name="com.wicak.plito.ui.quiz.HasilKuis" />
+183-->E:\Plito\app\src\main\AndroidManifest.xml:170:9-55
+183-->E:\Plito\app\src\main\AndroidManifest.xml:170:19-52
+184        <activity android:name="com.wicak.plito.ui.quiz.MulaiKuis" />
+184-->E:\Plito\app\src\main\AndroidManifest.xml:171:9-55
+184-->E:\Plito\app\src\main\AndroidManifest.xml:171:19-52
+185        <activity
+185-->E:\Plito\app\src\main\AndroidManifest.xml:172:9-174:61
+186            android:name="com.wicak.plito.BottomActivity"
+186-->E:\Plito\app\src\main\AndroidManifest.xml:173:13-43
+187            android:label="@string/title_activity_bottom" />
+187-->E:\Plito\app\src\main\AndroidManifest.xml:174:13-58
+188        <activity
+188-->E:\Plito\app\src\main\AndroidManifest.xml:175:9-183:20
+189            android:name="com.wicak.plito.SplashScreen"
+189-->E:\Plito\app\src\main\AndroidManifest.xml:176:13-41
+190            android:theme="@style/AppTheme.NoActionBar" >
+190-->E:\Plito\app\src\main\AndroidManifest.xml:177:13-56
+191            <intent-filter>
+191-->E:\Plito\app\src\main\AndroidManifest.xml:178:13-182:29
+192                <action android:name="android.intent.action.MAIN" />
+192-->E:\Plito\app\src\main\AndroidManifest.xml:179:17-69
+192-->E:\Plito\app\src\main\AndroidManifest.xml:179:25-66
+193
+194                <category android:name="android.intent.category.LAUNCHER" />
+194-->E:\Plito\app\src\main\AndroidManifest.xml:181:17-77
+194-->E:\Plito\app\src\main\AndroidManifest.xml:181:27-74
+195            </intent-filter>
+196        </activity>
+197        <activity android:name="com.wicak.plito.MainActivity" />
+197-->E:\Plito\app\src\main\AndroidManifest.xml:184:9-50
+197-->E:\Plito\app\src\main\AndroidManifest.xml:184:19-47
+198        <activity
+198-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\Windows 10\.gradle\caches\transforms-2\files-2.1\e4b89fdf0cd4aa94d7d4680d12e28d1d\jetified-firebase-auth-19.2.0\AndroidManifest.xml:24:9-31:50
+199            android:name="com.google.firebase.auth.internal.FederatedSignInActivity"
+199-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\Windows 10\.gradle\caches\transforms-2\files-2.1\e4b89fdf0cd4aa94d7d4680d12e28d1d\jetified-firebase-auth-19.2.0\AndroidManifest.xml:25:13-85
+200            android:excludeFromRecents="true"
+200-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\Windows 10\.gradle\caches\transforms-2\files-2.1\e4b89fdf0cd4aa94d7d4680d12e28d1d\jetified-firebase-auth-19.2.0\AndroidManifest.xml:26:13-46
+201            android:exported="true"
+201-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\Windows 10\.gradle\caches\transforms-2\files-2.1\e4b89fdf0cd4aa94d7d4680d12e28d1d\jetified-firebase-auth-19.2.0\AndroidManifest.xml:27:13-36
+202            android:launchMode="singleTask"
+202-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\Windows 10\.gradle\caches\transforms-2\files-2.1\e4b89fdf0cd4aa94d7d4680d12e28d1d\jetified-firebase-auth-19.2.0\AndroidManifest.xml:28:13-44
+203            android:permission="com.google.firebase.auth.api.gms.permission.LAUNCH_FEDERATED_SIGN_IN"
+203-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\Windows 10\.gradle\caches\transforms-2\files-2.1\e4b89fdf0cd4aa94d7d4680d12e28d1d\jetified-firebase-auth-19.2.0\AndroidManifest.xml:29:13-102
+204            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+204-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\Windows 10\.gradle\caches\transforms-2\files-2.1\e4b89fdf0cd4aa94d7d4680d12e28d1d\jetified-firebase-auth-19.2.0\AndroidManifest.xml:30:13-72
+205
+206        <service
+206-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\Windows 10\.gradle\caches\transforms-2\files-2.1\e4b89fdf0cd4aa94d7d4680d12e28d1d\jetified-firebase-auth-19.2.0\AndroidManifest.xml:33:9-39:19
+207            android:name="com.google.firebase.components.ComponentDiscoveryService"
+207-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\Windows 10\.gradle\caches\transforms-2\files-2.1\e4b89fdf0cd4aa94d7d4680d12e28d1d\jetified-firebase-auth-19.2.0\AndroidManifest.xml:34:13-84
+208            android:directBootAware="true"
+208-->[com.google.firebase:firebase-common:19.5.0] C:\Users\Windows 10\.gradle\caches\transforms-2\files-2.1\d783eb5e4d25e462c5ff8a9ddfc544e8\jetified-firebase-common-19.5.0\AndroidManifest.xml:35:13-43
+209            android:exported="false" >
+209-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\Windows 10\.gradle\caches\transforms-2\files-2.1\e4b89fdf0cd4aa94d7d4680d12e28d1d\jetified-firebase-auth-19.2.0\AndroidManifest.xml:35:13-37
+210            <meta-data
+210-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\Windows 10\.gradle\caches\transforms-2\files-2.1\e4b89fdf0cd4aa94d7d4680d12e28d1d\jetified-firebase-auth-19.2.0\AndroidManifest.xml:36:13-38:85
+211                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+211-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\Windows 10\.gradle\caches\transforms-2\files-2.1\e4b89fdf0cd4aa94d7d4680d12e28d1d\jetified-firebase-auth-19.2.0\AndroidManifest.xml:37:17-109
+212                android:value="com.google.firebase.components.ComponentRegistrar" />
+212-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\Windows 10\.gradle\caches\transforms-2\files-2.1\e4b89fdf0cd4aa94d7d4680d12e28d1d\jetified-firebase-auth-19.2.0\AndroidManifest.xml:38:17-82
+213            <meta-data
+213-->[com.google.firebase:firebase-database:19.5.0] C:\Users\Windows 10\.gradle\caches\transforms-2\files-2.1\57865f2684547697bcf0a2e378da5988\jetified-firebase-database-19.5.0\AndroidManifest.xml:32:13-34:85
+214                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+214-->[com.google.firebase:firebase-database:19.5.0] C:\Users\Windows 10\.gradle\caches\transforms-2\files-2.1\57865f2684547697bcf0a2e378da5988\jetified-firebase-database-19.5.0\AndroidManifest.xml:33:17-109
+215                android:value="com.google.firebase.components.ComponentRegistrar" />
+215-->[com.google.firebase:firebase-database:19.5.0] C:\Users\Windows 10\.gradle\caches\transforms-2\files-2.1\57865f2684547697bcf0a2e378da5988\jetified-firebase-database-19.5.0\AndroidManifest.xml:34:17-82
+216            <meta-data
+216-->[com.google.firebase:firebase-config:19.2.0] C:\Users\Windows 10\.gradle\caches\transforms-2\files-2.1\e1aa1ca0c37452373985dcfb28aafa38\jetified-firebase-config-19.2.0\AndroidManifest.xml:32:13-34:85
+217                android:name="com.google.firebase.components:com.google.firebase.remoteconfig.RemoteConfigRegistrar"
+217-->[com.google.firebase:firebase-config:19.2.0] C:\Users\Windows 10\.gradle\caches\transforms-2\files-2.1\e1aa1ca0c37452373985dcfb28aafa38\jetified-firebase-config-19.2.0\AndroidManifest.xml:33:17-117
+218                android:value="com.google.firebase.components.ComponentRegistrar" />
+218-->[com.google.firebase:firebase-config:19.2.0] C:\Users\Windows 10\.gradle\caches\transforms-2\files-2.1\e1aa1ca0c37452373985dcfb28aafa38\jetified-firebase-config-19.2.0\AndroidManifest.xml:34:17-82
+219            <meta-data
+219-->[com.google.firebase:firebase-storage:19.2.1] C:\Users\Windows 10\.gradle\caches\transforms-2\files-2.1\3c49246819d89d16c5086085c5a36d4c\jetified-firebase-storage-19.2.1\AndroidManifest.xml:33:13-35:85
+220                android:name="com.google.firebase.components:com.google.firebase.storage.StorageRegistrar"
+220-->[com.google.firebase:firebase-storage:19.2.1] C:\Users\Windows 10\.gradle\caches\transforms-2\files-2.1\3c49246819d89d16c5086085c5a36d4c\jetified-firebase-storage-19.2.1\AndroidManifest.xml:34:17-107
+221                android:value="com.google.firebase.components.ComponentRegistrar" />
+221-->[com.google.firebase:firebase-storage:19.2.1] C:\Users\Windows 10\.gradle\caches\transforms-2\files-2.1\3c49246819d89d16c5086085c5a36d4c\jetified-firebase-storage-19.2.1\AndroidManifest.xml:35:17-82
+222            <meta-data
+222-->[com.google.firebase:firebase-firestore:22.0.0] C:\Users\Windows 10\.gradle\caches\transforms-2\files-2.1\7b396bb215b803305333f11cee85c0f1\jetified-firebase-firestore-22.0.0\AndroidManifest.xml:20:13-22:85
+223                android:name="com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar"
+223-->[com.google.firebase:firebase-firestore:22.0.0] C:\Users\Windows 10\.gradle\caches\transforms-2\files-2.1\7b396bb215b803305333f11cee85c0f1\jetified-firebase-firestore-22.0.0\AndroidManifest.xml:21:17-111
+224                android:value="com.google.firebase.components.ComponentRegistrar" />
+224-->[com.google.firebase:firebase-firestore:22.0.0] C:\Users\Windows 10\.gradle\caches\transforms-2\files-2.1\7b396bb215b803305333f11cee85c0f1\jetified-firebase-firestore-22.0.0\AndroidManifest.xml:22:17-82
+225            <meta-data
+225-->[com.google.android.gms:play-services-measurement-api:17.5.0] C:\Users\Windows 10\.gradle\caches\transforms-2\files-2.1\29d033bc80f7fe3bdfce534879e09440\jetified-play-services-measurement-api-17.5.0\AndroidManifest.xml:30:13-32:85
+226                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+226-->[com.google.android.gms:play-services-measurement-api:17.5.0] C:\Users\Windows 10\.gradle\caches\transforms-2\files-2.1\29d033bc80f7fe3bdfce534879e09440\jetified-play-services-measurement-api-17.5.0\AndroidManifest.xml:31:17-139
+227                android:value="com.google.firebase.components.ComponentRegistrar" />
+227-->[com.google.android.gms:play-services-measurement-api:17.5.0] C:\Users\Windows 10\.gradle\caches\transforms-2\files-2.1\29d033bc80f7fe3bdfce534879e09440\jetified-play-services-measurement-api-17.5.0\AndroidManifest.xml:32:17-82
+228            <meta-data
+228-->[com.google.firebase:firebase-installations:16.3.2] C:\Users\Windows 10\.gradle\caches\transforms-2\files-2.1\c324646d0ddf8eb4ab30f3b6bd1343aa\jetified-firebase-installations-16.3.2\AndroidManifest.xml:17:13-19:85
+229                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+229-->[com.google.firebase:firebase-installations:16.3.2] C:\Users\Windows 10\.gradle\caches\transforms-2\files-2.1\c324646d0ddf8eb4ab30f3b6bd1343aa\jetified-firebase-installations-16.3.2\AndroidManifest.xml:18:17-127
+230                android:value="com.google.firebase.components.ComponentRegistrar" />
+230-->[com.google.firebase:firebase-installations:16.3.2] C:\Users\Windows 10\.gradle\caches\transforms-2\files-2.1\c324646d0ddf8eb4ab30f3b6bd1343aa\jetified-firebase-installations-16.3.2\AndroidManifest.xml:19:17-82
+231            <meta-data
+231-->[com.google.firebase:firebase-abt:19.1.0] C:\Users\Windows 10\.gradle\caches\transforms-2\files-2.1\9fbda3305230e1c68fbba3a982164463\jetified-firebase-abt-19.1.0\AndroidManifest.xml:13:13-15:85
+232                android:name="com.google.firebase.components:com.google.firebase.abt.component.AbtRegistrar"
+232-->[com.google.firebase:firebase-abt:19.1.0] C:\Users\Windows 10\.gradle\caches\transforms-2\files-2.1\9fbda3305230e1c68fbba3a982164463\jetified-firebase-abt-19.1.0\AndroidManifest.xml:14:17-109
+233                android:value="com.google.firebase.components.ComponentRegistrar" />
+233-->[com.google.firebase:firebase-abt:19.1.0] C:\Users\Windows 10\.gradle\caches\transforms-2\files-2.1\9fbda3305230e1c68fbba3a982164463\jetified-firebase-abt-19.1.0\AndroidManifest.xml:15:17-82
+234            <!--
+235                This registrar is not defined in the dynamic-module-support sdk itself to allow non-firebase
+236                clients to use it as well, by defining this registrar in their own core/common library.
+237            -->
+238            <meta-data
+238-->[com.google.firebase:firebase-common:19.5.0] C:\Users\Windows 10\.gradle\caches\transforms-2\files-2.1\d783eb5e4d25e462c5ff8a9ddfc544e8\jetified-firebase-common-19.5.0\AndroidManifest.xml:43:13-45:85
+239                android:name="com.google.firebase.components:com.google.firebase.dynamicloading.DynamicLoadingRegistrar"
+239-->[com.google.firebase:firebase-common:19.5.0] C:\Users\Windows 10\.gradle\caches\transforms-2\files-2.1\d783eb5e4d25e462c5ff8a9ddfc544e8\jetified-firebase-common-19.5.0\AndroidManifest.xml:44:17-121
+240                android:value="com.google.firebase.components.ComponentRegistrar" />
+240-->[com.google.firebase:firebase-common:19.5.0] C:\Users\Windows 10\.gradle\caches\transforms-2\files-2.1\d783eb5e4d25e462c5ff8a9ddfc544e8\jetified-firebase-common-19.5.0\AndroidManifest.xml:45:17-82
+241        </service>
+242
+243        <activity
+243-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\Windows 10\.gradle\caches\transforms-2\files-2.1\d92a27efcac738b4f280b9ad0c07bda7\jetified-play-services-base-17.1.0\AndroidManifest.xml:23:9-26:75
+244            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+244-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\Windows 10\.gradle\caches\transforms-2\files-2.1\d92a27efcac738b4f280b9ad0c07bda7\jetified-play-services-base-17.1.0\AndroidManifest.xml:24:13-79
+245            android:exported="false"
+245-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\Windows 10\.gradle\caches\transforms-2\files-2.1\d92a27efcac738b4f280b9ad0c07bda7\jetified-play-services-base-17.1.0\AndroidManifest.xml:25:13-37
+246            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+246-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\Windows 10\.gradle\caches\transforms-2\files-2.1\d92a27efcac738b4f280b9ad0c07bda7\jetified-play-services-base-17.1.0\AndroidManifest.xml:26:13-72
+247
+248        <receiver
+248-->[com.google.android.gms:play-services-measurement:17.5.0] C:\Users\Windows 10\.gradle\caches\transforms-2\files-2.1\b7b92f2f9514564c9583ba6c5d9e72ab\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:29:9-33:20
+249            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+249-->[com.google.android.gms:play-services-measurement:17.5.0] C:\Users\Windows 10\.gradle\caches\transforms-2\files-2.1\b7b92f2f9514564c9583ba6c5d9e72ab\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:30:13-85
+250            android:enabled="true"
+250-->[com.google.android.gms:play-services-measurement:17.5.0] C:\Users\Windows 10\.gradle\caches\transforms-2\files-2.1\b7b92f2f9514564c9583ba6c5d9e72ab\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:31:13-35
+251            android:exported="false" >
+251-->[com.google.android.gms:play-services-measurement:17.5.0] C:\Users\Windows 10\.gradle\caches\transforms-2\files-2.1\b7b92f2f9514564c9583ba6c5d9e72ab\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:32:13-37
+252        </receiver>
+253
+254        <service
+254-->[com.google.android.gms:play-services-measurement:17.5.0] C:\Users\Windows 10\.gradle\caches\transforms-2\files-2.1\b7b92f2f9514564c9583ba6c5d9e72ab\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:35:9-38:40
+255            android:name="com.google.android.gms.measurement.AppMeasurementService"
+255-->[com.google.android.gms:play-services-measurement:17.5.0] C:\Users\Windows 10\.gradle\caches\transforms-2\files-2.1\b7b92f2f9514564c9583ba6c5d9e72ab\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:36:13-84
+256            android:enabled="true"
+256-->[com.google.android.gms:play-services-measurement:17.5.0] C:\Users\Windows 10\.gradle\caches\transforms-2\files-2.1\b7b92f2f9514564c9583ba6c5d9e72ab\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:37:13-35
+257            android:exported="false" />
+257-->[com.google.android.gms:play-services-measurement:17.5.0] C:\Users\Windows 10\.gradle\caches\transforms-2\files-2.1\b7b92f2f9514564c9583ba6c5d9e72ab\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:38:13-37
+258        <service
+258-->[com.google.android.gms:play-services-measurement:17.5.0] C:\Users\Windows 10\.gradle\caches\transforms-2\files-2.1\b7b92f2f9514564c9583ba6c5d9e72ab\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:39:9-43:72
+259            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+259-->[com.google.android.gms:play-services-measurement:17.5.0] C:\Users\Windows 10\.gradle\caches\transforms-2\files-2.1\b7b92f2f9514564c9583ba6c5d9e72ab\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:40:13-87
+260            android:enabled="true"
+260-->[com.google.android.gms:play-services-measurement:17.5.0] C:\Users\Windows 10\.gradle\caches\transforms-2\files-2.1\b7b92f2f9514564c9583ba6c5d9e72ab\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:41:13-35
+261            android:exported="false"
+261-->[com.google.android.gms:play-services-measurement:17.5.0] C:\Users\Windows 10\.gradle\caches\transforms-2\files-2.1\b7b92f2f9514564c9583ba6c5d9e72ab\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:42:13-37
+262            android:permission="android.permission.BIND_JOB_SERVICE" />
+262-->[com.google.android.gms:play-services-measurement:17.5.0] C:\Users\Windows 10\.gradle\caches\transforms-2\files-2.1\b7b92f2f9514564c9583ba6c5d9e72ab\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:43:13-69
+263
+264        <provider
+264-->[com.google.firebase:firebase-common:19.5.0] C:\Users\Windows 10\.gradle\caches\transforms-2\files-2.1\d783eb5e4d25e462c5ff8a9ddfc544e8\jetified-firebase-common-19.5.0\AndroidManifest.xml:26:9-31:39
+265            android:name="com.google.firebase.provider.FirebaseInitProvider"
+265-->[com.google.firebase:firebase-common:19.5.0] C:\Users\Windows 10\.gradle\caches\transforms-2\files-2.1\d783eb5e4d25e462c5ff8a9ddfc544e8\jetified-firebase-common-19.5.0\AndroidManifest.xml:27:13-77
+266            android:authorities="com.wicak.plito.firebaseinitprovider"
+266-->[com.google.firebase:firebase-common:19.5.0] C:\Users\Windows 10\.gradle\caches\transforms-2\files-2.1\d783eb5e4d25e462c5ff8a9ddfc544e8\jetified-firebase-common-19.5.0\AndroidManifest.xml:28:13-72
+267            android:directBootAware="true"
+267-->[com.google.firebase:firebase-common:19.5.0] C:\Users\Windows 10\.gradle\caches\transforms-2\files-2.1\d783eb5e4d25e462c5ff8a9ddfc544e8\jetified-firebase-common-19.5.0\AndroidManifest.xml:29:13-43
+268            android:exported="false"
+268-->[com.google.firebase:firebase-common:19.5.0] C:\Users\Windows 10\.gradle\caches\transforms-2\files-2.1\d783eb5e4d25e462c5ff8a9ddfc544e8\jetified-firebase-common-19.5.0\AndroidManifest.xml:30:13-37
+269            android:initOrder="100" />
+269-->[com.google.firebase:firebase-common:19.5.0] C:\Users\Windows 10\.gradle\caches\transforms-2\files-2.1\d783eb5e4d25e462c5ff8a9ddfc544e8\jetified-firebase-common-19.5.0\AndroidManifest.xml:31:13-36
+270
+271        <meta-data
+271-->[com.google.android.gms:play-services-basement:17.2.1] C:\Users\Windows 10\.gradle\caches\transforms-2\files-2.1\002ce9cd568f5ca2868e28af67b3f6fc\jetified-play-services-basement-17.2.1\AndroidManifest.xml:23:9-25:69
+272            android:name="com.google.android.gms.version"
+272-->[com.google.android.gms:play-services-basement:17.2.1] C:\Users\Windows 10\.gradle\caches\transforms-2\files-2.1\002ce9cd568f5ca2868e28af67b3f6fc\jetified-play-services-basement-17.2.1\AndroidManifest.xml:24:13-58
+273            android:value="@integer/google_play_services_version" />
+273-->[com.google.android.gms:play-services-basement:17.2.1] C:\Users\Windows 10\.gradle\caches\transforms-2\files-2.1\002ce9cd568f5ca2868e28af67b3f6fc\jetified-play-services-basement-17.2.1\AndroidManifest.xml:25:13-66
+274
+275        <provider
+275-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Windows 10\.gradle\caches\transforms-2\files-2.1\750f1a1e9f5b24d221117033f9c85515\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:25:9-29:43
+276            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+276-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Windows 10\.gradle\caches\transforms-2\files-2.1\750f1a1e9f5b24d221117033f9c85515\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:26:13-79
+277            android:authorities="com.wicak.plito.lifecycle-process"
+277-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Windows 10\.gradle\caches\transforms-2\files-2.1\750f1a1e9f5b24d221117033f9c85515\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:27:13-69
+278            android:exported="false"
+278-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Windows 10\.gradle\caches\transforms-2\files-2.1\750f1a1e9f5b24d221117033f9c85515\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:28:13-37
+279            android:multiprocess="true" />
+279-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Windows 10\.gradle\caches\transforms-2\files-2.1\750f1a1e9f5b24d221117033f9c85515\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:29:13-40
+280    </application>
+281
+282</manifest>

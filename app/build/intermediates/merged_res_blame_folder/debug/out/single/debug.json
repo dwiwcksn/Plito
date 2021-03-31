@@ -1,814 +1,814 @@
 [
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_plito_icon2_foreground.png.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\mipmap-xxxhdpi\\plito_icon2_foreground.png"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_ic_action_name.xml.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable-anydpi\\ic_action_name.xml"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_materi.png.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable-v24\\materi.png"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_kuis.png.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\kuis.png"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_addthread.jpg.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable-v24\\addthread.jpg"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_tang.png.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\tang.png"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_plito_icon2_foreground.png.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\mipmap-xxhdpi\\plito_icon2_foreground.png"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_tangsirklipdalam.JPG.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\tangsirklipdalam.JPG"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_plastik.xml.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\layout\\fragment_plastik.xml"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_addbreaker.jpg.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\addbreaker.jpg"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_sockbintang.png.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable-v24\\sockbintang.png"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_kuncinipel.png.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\kuncinipel.png"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_chat_item_right.xml.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\layout\\chat_item_right.xml"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_handtools.png.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\handtools.png"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_plito_icon2.png.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\mipmap-xhdpi\\plito_icon2.png"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_home_black_24dp.xml.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable\\ic_home_black_24dp.xml"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rb_b_selector.xml.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable\\rb_b_selector.xml"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable_expansion_header.xml.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable\\expansion_header.xml"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_allen.xml.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\layout\\fragment_allen.xml"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_rachet.xml.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\layout\\fragment_rachet.xml"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_addbreaker.jpg.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable-v24\\addbreaker.jpg"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_socket.xml.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\layout\\fragment_socket.xml"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_plito_icon2_round.png.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\mipmap-xxhdpi\\plito_icon2_round.png"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rb_c_selector.xml.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable\\rb_c_selector.xml"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_home.png.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable-v24\\home.png"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_plito_icon.png.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\mipmap-xxxhdpi\\plito_icon.png"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_info.png.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\info.png"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_room.xml.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\layout\\activity_room.xml"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_tangslip.png.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\tangslip.png"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_air.xml.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\layout\\fragment_air.xml"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_bg4.png.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\bg4.png"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_addspeed.jpg.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable-v24\\addspeed.jpg"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable_data_cleaning.png.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable\\data_cleaning.png"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sign_up.xml.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\layout\\activity_sign_up.xml"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_plito_icon.png.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\mipmap-xxhdpi\\plito_icon.png"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_infokuis.jpg.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\infokuis.jpg"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_plito_icon_foreground.png.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\mipmap-mdpi\\plito_icon_foreground.png"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sign_in.xml.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\layout\\activity_sign_in.xml"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sign_in.xml.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\layout\\activity_sign_in.xml"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_kuis.xml.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable\\bg_kuis.xml"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_kuncirachet.png.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable-v24\\kuncirachet.png"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_info.xml.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\layout\\fragment_info.xml"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_addstartpunch.png.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable-v24\\addstartpunch.png"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_dashboard_black_24dp.xml.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable\\ic_dashboard_black_24dp.xml"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_plito_icon2.xml.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\mipmap-anydpi-v26\\plito_icon2.xml"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_palukonde.png.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\palukonde.png"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_materi_dua.xml.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\layout\\activity_materi_dua.xml"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_hasil_kuis.xml.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\layout\\activity_hasil_kuis.xml"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_dashboard_black_24dp.xml.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable\\ic_dashboard_black_24dp.xml"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_kuncipas.png.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\kuncipas.png"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_kunciroda.png.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable-v24\\kunciroda.png"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_tangslip.png.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable-v24\\tangslip.png"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_name.png.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable-mdpi\\ic_action_name.png"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_plito_icon2_foreground.png.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\mipmap-hdpi\\plito_icon2_foreground.png"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_plito_icon2_round.png.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\mipmap-hdpi\\plito_icon2_round.png"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_infohasil.jpg.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable-v24\\infohasil.jpg"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_materi_tiga.xml.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\layout\\activity_materi_tiga.xml"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_quiz.xml.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\layout\\fragment_quiz.xml"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_plito_icon_round.xml.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\mipmap-anydpi-v26\\plito_icon_round.xml"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_info_bar.jpg.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable-v24\\info_bar.jpg"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_plito_icon.png.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\mipmap-xhdpi\\plito_icon.png"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_chat_message.xml.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\layout\\activity_chat_message.xml"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_palu.png.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\palu.png"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_materi_lima.xml.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\layout\\activity_materi_lima.xml"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_name.png.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable-hdpi\\ic_action_name.png"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_bgfix2.png.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable-v24\\bgfix2.png"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_plito_icon2.png.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\mipmap-hdpi\\plito_icon2.png"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\navigation_mobile_navigation.xml.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\navigation\\mobile_navigation.xml"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_materi.xml.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\layout\\fragment_materi.xml"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash_screen.xml.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\layout\\activity_splash_screen.xml"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_info_bar.jpg.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\info_bar.jpg"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_home_black_24dp.xml.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable\\ic_home_black_24dp.xml"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_obengketok.jpg.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\obengketok.jpg"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_palu.png.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable-v24\\palu.png"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_plastik.xml.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\layout\\fragment_plastik.xml"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_palukaret.png.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable-v24\\palukaret.png"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_bg2.png.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\bg2.png"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_logo1.png.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable-v24\\logo1.png"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_add.png.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\add.png"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_kuncipas.png.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable-v24\\kuncipas.png"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_appbar.xml.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable\\bg_appbar.xml"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_plito_icon2_round.png.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\mipmap-xhdpi\\plito_icon2_round.png"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_splash.png.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable-v24\\splash.png"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_roda.xml.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\layout\\fragment_roda.xml"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_pas.xml.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\layout\\fragment_pas.xml"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\navigation_mobile_navigation.xml.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\navigation\\mobile_navigation.xml"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_palukuningan.png.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable-v24\\palukuningan.png"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_socksegi6.png.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\socksegi6.png"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rb_d_checked.xml.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable\\rb_d_checked.xml"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_palukulit.png.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable-v24\\palukulit.png"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_plito_icon2_foreground.png.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\mipmap-xhdpi\\plito_icon2_foreground.png"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_sockbusi.png.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable-v24\\sockbusi.png"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_minus.xml.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\layout\\fragment_minus.xml"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_plito_icon_foreground.png.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\mipmap-xxxhdpi\\plito_icon_foreground.png"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_plito_icon2_foreground.png.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\mipmap-mdpi\\plito_icon2_foreground.png"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_quiz.xml.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\layout\\fragment_quiz.xml"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_paluplastik.png.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\paluplastik.png"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rb_b_checked.xml.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable\\rb_b_checked.xml"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_plito_icon2_foreground.png.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\mipmap-mdpi\\plito_icon2_foreground.png"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_potong.xml.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\layout\\fragment_potong.xml"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_home.png.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\home.png"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_inggris.xml.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\layout\\fragment_inggris.xml"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_kunciinggris.png.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\kunciinggris.png"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_tangcucut.png.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable-v24\\tangcucut.png"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_expand.xml.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable\\bg_expand.xml"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_left.xml.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable\\bg_left.xml"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_name.png.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_name.png"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_socksegi6.png.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable-v24\\socksegi6.png"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_vicegrip.xml.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\layout\\fragment_vicegrip.xml"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_white.xml.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable\\bg_white.xml"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mood_bad.xml.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable\\mood_bad.xml"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_addext.jpg.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable-v24\\addext.jpg"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_besi.xml.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\layout\\fragment_besi.xml"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_plito_icon_round.png.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\mipmap-xhdpi\\plito_icon_round.png"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable_degrad.xml.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable\\degrad.xml"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_obengplus.png.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable-v24\\obengplus.png"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_plito_icon_foreground.png.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\mipmap-mdpi\\plito_icon_foreground.png"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_cucut.xml.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\layout\\fragment_cucut.xml"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_playbutton.png.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\playbutton.png"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_ic_action_name.xml.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable-anydpi\\ic_action_name.xml"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_kunci.png.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\kunci.png"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_video_player.xml.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\layout\\video_player.xml"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_splash.png.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\splash.png"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_infokuis.jpg.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable-v24\\infokuis.jpg"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_sock.xml.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\layout\\fragment_sock.xml"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home.xml.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\layout\\fragment_home.xml"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_tangpotong.png.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable-v24\\tangpotong.png"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_plito_icon2.png.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\mipmap-xxhdpi\\plito_icon2.png"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rb_a_checked.xml.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable\\rb_a_checked.xml"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_name.png.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_name.png"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_tangair.png.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable-v24\\tangair.png"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_allen.xml.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\layout\\fragment_allen.xml"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_send_24.xml.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable\\ic_baseline_send_24.xml"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_tangvice.png.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\tangvice.png"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_slip.xml.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\layout\\fragment_slip.xml"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_plito_icon2_foreground.png.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\mipmap-xxhdpi\\plito_icon2_foreground.png"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable_data_cleaning.png.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable\\data_cleaning.png"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_cucut.xml.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\layout\\fragment_cucut.xml"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_plito_icon_foreground.png.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\mipmap-xxhdpi\\plito_icon_foreground.png"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_kuningan.xml.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\layout\\fragment_kuningan.xml"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_plito_icon.png.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\mipmap-hdpi\\plito_icon.png"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_pinpunch.xml.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\layout\\fragment_pinpunch.xml"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_plito_icon2_round.png.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\mipmap-xhdpi\\plito_icon2_round.png"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_room.xml.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\layout\\activity_room.xml"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_plito_icon2.png.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\mipmap-hdpi\\plito_icon2.png"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_plito_icon2.png.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\mipmap-xxxhdpi\\plito_icon2.png"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_name.png.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable-mdpi\\ic_action_name.png"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_bg1.png.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\bg1.png"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_sirklip.xml.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\layout\\fragment_sirklip.xml"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_obengmin.png.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\obengmin.png"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_add.png.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable-v24\\add.png"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_left.xml.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable\\bg_left.xml"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_bottom.xml.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\layout\\activity_bottom.xml"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_chat_item_left.xml.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\layout\\chat_item_left.xml"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_info.xml.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\layout\\fragment_info.xml"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cardview_bg.xml.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable\\cardview_bg.xml"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_logo1.png.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\logo1.png"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_addpinpunch.png.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable-v24\\addpinpunch.png"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_nipel.xml.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\layout\\fragment_nipel.xml"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_plito_icon.png.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\mipmap-mdpi\\plito_icon.png"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_bgfix2.png.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\bgfix2.png"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_bg1.png.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable-v24\\bg1.png"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_tangkombi.png.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable-v24\\tangkombi.png"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_materi_lima.xml.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\layout\\activity_materi_lima.xml"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_nipel.xml.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\layout\\fragment_nipel.xml"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_plito_icon2_round.png.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\mipmap-mdpi\\plito_icon2_round.png"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_plito_icon2_round.xml.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\mipmap-anydpi-v26\\plito_icon2_round.xml"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash_screen.xml.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\layout\\activity_splash_screen.xml"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_chat_item_left.xml.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\layout\\chat_item_left.xml"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_video_player.xml.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\layout\\video_player.xml"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_plito_icon2.png.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\mipmap-xxhdpi\\plito_icon2.png"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\menu_bottom_nav_menu.xml.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\menu\\bottom_nav_menu.xml"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_kombinasi.xml.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\layout\\fragment_kombinasi.xml"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_plito_icon2_foreground.png.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\mipmap-hdpi\\plito_icon2_foreground.png"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_materi.xml.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\layout\\fragment_materi.xml"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "E:\\Plito\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_tabs.xml.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\layout\\activity_tabs.xml"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_chat_message.xml.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\layout\\activity_chat_message.xml"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_bgfix.png.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable-v24\\bgfix.png"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_getfoto.jpg.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\getfoto.jpg"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_skrap.xml.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\layout\\fragment_skrap.xml"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_kunciallen.png.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\kunciallen.png"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_plito_icon.png.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\mipmap-xhdpi\\plito_icon.png"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_plito_icon2_round.xml.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\mipmap-anydpi-v26\\plito_icon2_round.xml"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_materi_satu.xml.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\layout\\activity_materi_satu.xml"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable_nav_up.xml.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable\\nav_up.xml"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_pinpunch.xml.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\layout\\fragment_pinpunch.xml"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_chat_item_right.xml.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\layout\\chat_item_right.xml"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_addslide.jpg.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable-v24\\addslide.jpg"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_addslide.jpg.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\addslide.jpg"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_vicegrip.xml.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\layout\\fragment_vicegrip.xml"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_addstartpunch.png.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\addstartpunch.png"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_bg3.png.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable-v24\\bg3.png"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_plito_icon_round.png.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\mipmap-mdpi\\plito_icon_round.png"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_notifications_black_24dp.xml.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable\\ic_notifications_black_24dp.xml"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_right.xml.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable\\bg_right.xml"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_skrap.xml.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\layout\\fragment_skrap.xml"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_tangvice.png.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable-v24\\tangvice.png"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mood_bad.xml.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable\\mood_bad.xml"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_addext.jpg.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\addext.jpg"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_addfeeler.png.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable-v24\\addfeeler.png"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mood_up.xml.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable\\mood_up.xml"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_plito_icon_round.png.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\mipmap-hdpi\\plito_icon_round.png"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_bottom.xml.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\layout\\activity_bottom.xml"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_plito_icon_foreground.png.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\mipmap-xhdpi\\plito_icon_foreground.png"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_materi_satu.xml.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\layout\\activity_materi_satu.xml"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_tangsirklipdalam.JPG.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable-v24\\tangsirklipdalam.JPG"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_plito_icon.png.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\mipmap-mdpi\\plito_icon.png"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_tangsirklipluar.JPG.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable-v24\\tangsirklipluar.JPG"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_plito_icon_round.png.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\mipmap-hdpi\\plito_icon_round.png"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_chat.png.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable-v24\\chat.png"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_obengmin.png.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable-v24\\obengmin.png"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_tangkombi.png.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\tangkombi.png"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_rachet.xml.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\layout\\fragment_rachet.xml"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_plito_icon_foreground.png.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\mipmap-xxhdpi\\plito_icon_foreground.png"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_bg2.png.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable-v24\\bg2.png"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_plito_icon.png.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\mipmap-hdpi\\plito_icon.png"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_materi_empat.xml.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\layout\\activity_materi_empat.xml"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_chatroom.xml.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\layout\\fragment_chatroom.xml"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_paluplastik.png.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable-v24\\paluplastik.png"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_materi.png.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\materi.png"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_sock.xml.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\layout\\fragment_sock.xml"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_addskrap.png.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable-v24\\addskrap.png"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_tangsirklipluar.JPG.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\tangsirklipluar.JPG"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_air.xml.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\layout\\fragment_air.xml"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rb_a_selector.xml.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable\\rb_a_selector.xml"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_plito_icon_foreground.png.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\mipmap-xhdpi\\plito_icon_foreground.png"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable_next.xml.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable\\next.xml"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_plus.xml.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\layout\\fragment_plus.xml"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_handtools.png.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable-v24\\handtools.png"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_palukulit.png.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\palukulit.png"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_appbar.xml.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable\\bg_appbar.xml"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_infohasil.jpg.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\infohasil.jpg"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_besi.xml.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\layout\\fragment_besi.xml"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rb_b_checked.xml.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable\\rb_b_checked.xml"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_chatroom.xml.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\layout\\fragment_chatroom.xml"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_addthread.jpg.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\addthread.jpg"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_plito_icon.xml.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\mipmap-anydpi-v26\\plito_icon.xml"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_sock.png.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\sock.png"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_palukaret.png.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\palukaret.png"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mood_up.xml.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable\\mood_up.xml"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rb_a_checked.xml.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable\\rb_a_checked.xml"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_kuis.xml.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable\\bg_kuis.xml"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_minus.xml.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\layout\\fragment_minus.xml"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_roda.xml.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\layout\\fragment_roda.xml"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_plito_icon.png.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\mipmap-xxxhdpi\\plito_icon.png"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_obeng.png.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable-v24\\obeng.png"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_send_24.xml.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable\\ic_baseline_send_24.xml"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_tang.png.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable-v24\\tang.png"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_sockbusi.png.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\sockbusi.png"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_palukonde.png.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable-v24\\palukonde.png"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_plito_icon_foreground.png.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\mipmap-hdpi\\plito_icon_foreground.png"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_plito_icon_round.png.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\mipmap-xxhdpi\\plito_icon_round.png"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_uh.png.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\uh.png"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_chat_item.xml.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\layout\\chat_item.xml"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_uh.png.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable-v24\\uh.png"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_sirklip.xml.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\layout\\fragment_sirklip.xml"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rb_a_unchecked.xml.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable\\rb_a_unchecked.xml"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_notifications_black_24dp.xml.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable\\ic_notifications_black_24dp.xml"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_plito_icon2_foreground.png.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\mipmap-xhdpi\\plito_icon2_foreground.png"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_white.xml.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable\\bg_white.xml"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable_expansion_header.xml.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable\\expansion_header.xml"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_bottom.xml.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable\\bg_bottom.xml"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_kuncikombi.png.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable-v24\\kuncikombi.png"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_plito_icon_round.png.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\mipmap-xxxhdpi\\plito_icon_round.png"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rb_c_selector.xml.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable\\rb_c_selector.xml"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_materi_dua.xml.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\layout\\activity_materi_dua.xml"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rb_d_selector.xml.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable\\rb_d_selector.xml"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_kombinasi.xml.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\layout\\fragment_kombinasi.xml"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cardview_bg.xml.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable\\cardview_bg.xml"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_adduniversaljoint.png.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\adduniversaljoint.png"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_plito_icon.xml.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\mipmap-anydpi-v26\\plito_icon.xml"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_plito_icon2.png.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\mipmap-xxxhdpi\\plito_icon2.png"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_cardview_materi.xml.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\layout\\cardview_materi.xml"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rb_b_unchecked.xml.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable\\rb_b_unchecked.xml"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rb_d_checked.xml.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable\\rb_d_checked.xml"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_sock6ganda.png.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable-v24\\sock6ganda.png"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_materi_empat.xml.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\layout\\activity_materi_empat.xml"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_playbutton.png.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable-v24\\playbutton.png"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rb_c_checked.xml.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable\\rb_c_checked.xml"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_kunciring.png.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\kunciring.png"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bar_layout.xml.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable\\bar_layout.xml"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_sock6ganda.png.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\sock6ganda.png"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable_nav_up.xml.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable\\nav_up.xml"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_mulai_kuis.xml.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\layout\\activity_mulai_kuis.xml"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_infopengembang.jpg.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable-v24\\infopengembang.jpg"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_plito_icon2_round.png.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\mipmap-xxxhdpi\\plito_icon2_round.png"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_expand.xml.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable\\bg_expand.xml"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_kuncirachet.png.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\kuncirachet.png"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_plito_icon.png.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\mipmap-xxhdpi\\plito_icon.png"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_kuis.png.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable-v24\\kuis.png"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_infopengembang.jpg.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\infopengembang.jpg"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_tangair.png.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\tangair.png"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home.xml.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\layout\\fragment_home.xml"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable_next.xml.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable\\next.xml"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_plito_icon_round.png.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\mipmap-mdpi\\plito_icon_round.png"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_chat.png.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\chat.png"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_mulai_kuis.xml.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\layout\\activity_mulai_kuis.xml"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rb_d_unchecked.xml.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable\\rb_d_unchecked.xml"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_kunciallen.png.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable-v24\\kunciallen.png"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bar_layout.xml.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable\\bar_layout.xml"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_plito_icon2.png.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\mipmap-mdpi\\plito_icon2.png"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_pas.xml.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\layout\\fragment_pas.xml"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rb_c_unchecked.xml.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable\\rb_c_unchecked.xml"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_slip.xml.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\layout\\fragment_slip.xml"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_palukuningan.png.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\palukuningan.png"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sign_up.xml.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\layout\\activity_sign_up.xml"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_ketok.xml.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\layout\\fragment_ketok.xml"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_socket.xml.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\layout\\fragment_socket.xml"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_obeng.png.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\obeng.png"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_materi_tiga.xml.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\layout\\activity_materi_tiga.xml"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rb_c_unchecked.xml.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable\\rb_c_unchecked.xml"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_karet.xml.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\layout\\fragment_karet.xml"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rb_a_selector.xml.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable\\rb_a_selector.xml"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_plito_icon2_round.png.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\mipmap-xxxhdpi\\plito_icon2_round.png"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_sockbintang.png.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\sockbintang.png"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_kunci.png.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable-v24\\kunci.png"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_addspeed.jpg.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\addspeed.jpg"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_name.png.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable-hdpi\\ic_action_name.png"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rb_d_selector.xml.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable\\rb_d_selector.xml"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_plito_icon_round.xml.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\mipmap-anydpi-v26\\plito_icon_round.xml"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rb_b_unchecked.xml.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable\\rb_b_unchecked.xml"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_kunciring.png.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable-v24\\kunciring.png"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_right.xml.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable\\bg_right.xml"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_bottom.xml.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable\\bg_bottom.xml"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_plito_icon2.png.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\mipmap-xhdpi\\plito_icon2.png"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_plito_icon_foreground.png.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\mipmap-hdpi\\plito_icon_foreground.png"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_plito_icon2.png.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\mipmap-mdpi\\plito_icon2.png"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_plus.xml.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\layout\\fragment_plus.xml"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_addskrap.png.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\addskrap.png"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_kunciinggris.png.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable-v24\\kunciinggris.png"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_bgfix.png.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\bgfix.png"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable_degrad.xml.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable\\degrad.xml"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_inggris.xml.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\layout\\fragment_inggris.xml"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_plito_icon2_round.png.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\mipmap-hdpi\\plito_icon2_round.png"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_addpinpunch.png.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\addpinpunch.png"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_info.png.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable-v24\\info.png"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_bg3.png.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\bg3.png"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_plito_icon2_round.png.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\mipmap-mdpi\\plito_icon2_round.png"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rb_a_unchecked.xml.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable\\rb_a_unchecked.xml"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rb_d_unchecked.xml.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable\\rb_d_unchecked.xml"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_kulit.xml.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\layout\\fragment_kulit.xml"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_plito_icon_foreground.png.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\mipmap-xxxhdpi\\plito_icon_foreground.png"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_tangcucut.png.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\tangcucut.png"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_cardview_materi.xml.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\layout\\cardview_materi.xml"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_gauge.xml.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\layout\\fragment_gauge.xml"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_ketok.xml.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\layout\\fragment_ketok.xml"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_plito_icon_round.png.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\mipmap-xxhdpi\\plito_icon_round.png"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_adduniversaljoint.png.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable-v24\\adduniversaljoint.png"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_plito_icon2_foreground.png.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\mipmap-xxxhdpi\\plito_icon2_foreground.png"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_name.png.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_name.png"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_obengplus.png.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\obengplus.png"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_plito_icon_round.png.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\mipmap-xxxhdpi\\plito_icon_round.png"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_kulit.xml.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\layout\\fragment_kulit.xml"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_tangpotong.png.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\tangpotong.png"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_kuningan.xml.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\layout\\fragment_kuningan.xml"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_chat_item.xml.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\layout\\chat_item.xml"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_gauge.xml.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\layout\\fragment_gauge.xml"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_potong.xml.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\layout\\fragment_potong.xml"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_name.png.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_name.png"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rb_c_checked.xml.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable\\rb_c_checked.xml"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_hasil_kuis.xml.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\layout\\activity_hasil_kuis.xml"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rb_b_selector.xml.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable\\rb_b_selector.xml"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_kuncinipel.png.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable-v24\\kuncinipel.png"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_tabs.xml.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\layout\\activity_tabs.xml"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_bg4.png.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable-v24\\bg4.png"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_karet.xml.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\layout\\fragment_karet.xml"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\menu_bottom_nav_menu.xml.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\menu\\bottom_nav_menu.xml"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_kunciroda.png.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\kunciroda.png"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_plito_icon_round.png.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\mipmap-xhdpi\\plito_icon_round.png"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_kuncikombi.png.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\kuncikombi.png"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_getfoto.jpg.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable-v24\\getfoto.jpg"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_plito_icon2_round.png.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\mipmap-xxhdpi\\plito_icon2_round.png"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_obengketok.jpg.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable-v24\\obengketok.jpg"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_plito_icon2.xml.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\mipmap-anydpi-v26\\plito_icon2.xml"
     },
     {
-        "merged": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_sock.png.flat",
-        "source": "D:\\BACKUP\\AndroidStudioProjects\\Plito\\app\\src\\main\\res\\drawable-v24\\sock.png"
+        "merged": "E:\\Plito\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_addfeeler.png.flat",
+        "source": "E:\\Plito\\app\\src\\main\\res\\drawable-v24\\addfeeler.png"
     }
 ]
