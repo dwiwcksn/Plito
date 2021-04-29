@@ -33,14 +33,15 @@
     <ImageButton
         android:layout_width="60dp"
         android:layout_height="60dp"
-        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
         android:layout_alignParentBottom="true"
-        android:layout_marginStart="24dp"
+        android:layout_marginEnd="320dp"
         android:layout_marginBottom="24dp"
+        android:background="@color/white"
         android:onClick="ulangi"
-        android:src="@drawable/ic_notifications_black_24dp"
+        android:src="@drawable/updatearrow"
         app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintStart_toStartOf="parent" />
+        app:layout_constraintEnd_toEndOf="parent" />
 
     <ImageButton
         android:layout_width="60dp"
@@ -50,6 +51,7 @@
         android:layout_marginEnd="24dp"
         android:layout_marginBottom="24dp"
         android:onClick="kuis"
+        android:background="@color/white"
         android:src="@drawable/ic_home_black_24dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent" />

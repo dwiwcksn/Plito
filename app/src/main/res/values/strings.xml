@@ -12,8 +12,8 @@
     <string name="des_hero">Aplikasi ini digunakan sebagai media pembelajaran yang dikhususkan untuk siswa SMK kelas X Teknik Kendaraan Ringan</string>
     <string name="tujuan_hero">Tujuan Penggunaan Aplikasi</string>
     <string name="des_tujuan_hero">1. Mempermudah Proses Pembelajaran\n2. Meningkatkan Efisiensi Proses Pembelajaran\n3. Menjadi Media Belajar Mandiri dan Kelompok\n</string>
-    <string name="kompetensi">Kompetensi Hand Tools</string>
-    <string name="kompetensi_hand_tools">Hand Tools adalah alat yang dalam penggunaannya hanya menggunakan tenaga manusia untuk pengoperasiannya</string>
+    <string name="kompetensi">Kompetensi <i>Hand Tools</i></string>
+    <string name="kompetensi_hand_tools"><i>Hand Tools</i> adalah alat yang dalam penggunaannya hanya menggunakan tenaga manusia untuk pengoperasiannya</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
 
@@ -55,13 +55,13 @@
     <string name="pengertian_kuncikombi">Kunci yang memiliki 2 sisi dengan jenis berbeda. Pada 1 sisi terdapat kunci pas dan sisi lain kunci ring</string>
     <string name="penggunaan_kuncikombi">Bagian ring untuk mengendorkan juga mengencangkan baut/mur, bagian pas untuk memasang dan melepaskan mur/baut</string>
 
-    <string name="pengertian_kuncinipel">Kunci untuk mengencangkan/melepas baut pada sambungan pipa yang digunakan pada injector line atau pipa rem</string>
+    <string name="pengertian_kuncinipel">Kunci untuk mengencangkan/melepas baut pada sambungan pipa yang digunakan pada <i>injector</i> line atau pipa rem</string>
     <string name="penggunaan_kuncinipel">1. Pilih ukuran kunci yang sesuai\n2. Pasang kunci pada kepala baut sampai pas\n3. Tarik kunci ke arah ke kanan untuk memasang dan arah sebaliknya untuk melepaskan\nJangan menggunakan kunci nipel untuk membuka baut biasa karena dapat merusak kunci maupun kepala baut.</string>
 
     <string name="pengertian_kuncirachet">Ratchet adalah kelengkapan kunci socket untuk melepas/memasang baut dalam keadaan longgar, tanpa harus melepaskan kunci sock dari kepala baut atau mur</string>
     <string name="penggunaan_kuncirachet">1. Pilih sock yang sesuai dan pasang dengan menekan tombol belakang pada kepala rachet\n2. Atur jarum rachet (Arah kanan untuk mengencangkan dan kiri untuk mengendorkan)\n3. Tarik kunci ke arah ke kanan untuk memasang dan arah sebaliknya untuk mengendorkan</string>
 
-    <string name="pengertian_kunciallen">Kunci allen dibuat dari baja heksagonal high tensile berbentuk huruf ”L” danhuruf ”T”. Untuk melepaskan dan mengganti mur/sekrup dengan tengah kepala berbentuk segi enam <i>(Allen headed cap)</i></string>
+    <string name="pengertian_kunciallen">Kunci allen dibuat dari baja heksagonal <i>high tensile</i> berbentuk huruf ”L” danhuruf ”T”. Untuk melepaskan dan mengganti mur/sekrup dengan tengah kepala berbentuk segi enam <i>(Allen headed cap)</i></string>
     <string name="penggunaan_kunciallen">1. Pilih ukuran kunci sesuai jenis kepala baut\n2. Pasang kunci pada bagian tengah kepala baut sampai pas\n3. Tarik kunci ke arah ke kanan untuk memasang dan arah sebaliknya untuk mengendorkan\n</string>
 
     <string name="pengertian_kuncibusi">Kunci busi untuk membantu memasang dan melepas busi</string>
@@ -72,7 +72,7 @@
     <string name="pengertian_socket6ganda">Socket segi 6 ganda memiliki 12 bagian bidang. Socket ini digunakan untuk pengencangan yang memudahkan posisi stand saat proses melepas baut</string>
     <string name="pengertian_socketbintang">Socket Bintang hampir mirip socket 6 ganda, namun penggunaanya pada jenis kepala baut yang berbeda</string>
 
-    <string name="pengertian_kunciroda">Kunci roda untuk melepaskan dan memasang kembali pelak(lug)/mur(nut) pada roda</string>
+    <string name="pengertian_kunciroda">Kunci roda untuk melepaskan dan memasang kembali pelak(<i>lug</i>)/mur(<i>nut</i>)</string>
     <string name="penggunaan_kunciroda">1. Pasang kunci yang sesuai\n2. Putar ke arah kanan untuk mengencangkan dan kiri untuk mengendorkan</string>
 
     <string name="pengertian_kunciinggris">Kunci inggris digunakan bila kunci atau socket yang tepat untuk pekerjaan tersebut tidak tersedia (ukuran khusus)</string>
@@ -94,20 +94,20 @@
     <string name="pengertian_paluplastik">Palu Plastik dibuat dari plastik. Bagian tengah palu terbuat dari besi agar menahan daya pukul dan kerasnya objek</string>
     <string name="fungsi_paluplastik">Digunakan serupa dengan brass hammer namun ditujukan hanya untuk pemukulan ringan contohnya pengerjaan cetakan</string>
     <!--    tang-->
-    <string name="pengertian_tangpotong">Tang potong berfungsi untuk melepaskan dan memasang cotter pin, memotong selang berdiameter kecil, pipa tembaga, baja berdiameter kecil, mengelupas isolasi dari kabel, dsb</string>
+    <string name="pengertian_tangpotong">Tang potong berfungsi untuk melepaskan dan memasang <i>cotter pin</i>i>, memotong selang berdiameter kecil, pipa tembaga, baja berdiameter kecil, mengelupas isolasi dari kabel, dsb</string>
     <string name="penggunaan_tangpotong">1. Siapkan tang dan pengang dengan kuat\n2. Potong kawat sesuai yang diinginkan</string>
 
-    <string name="pengertian_tangkombinasi">Tang Kombinasi mempunyai gerigi untuk memegang beda rata, gerigi untuk memegang pipa, pemotong samping (side cutter),dan dua sambungan atau pemotong kabel (wire cutter)</string>
+    <string name="pengertian_tangkombinasi">Tang Kombinasi mempunyai gerigi untuk memegang beda rata, gerigi untuk memegang pipa, pemotong samping (<i>side cutter</i>),dan dua sambungan atau pemotong kabel (<i>wire cutter</i>)</string>
     <string name="penggunaan_tangkombinasi">1. Siapkan tang dan pengang dengan kuat\n2. Gunakan bagian ujung tang untuk memegang plat/kawat, bagian tengah untuk mencengkeran kabel, dan bagian belakang untuk memotong kabel</string>
 
     <string name="pengertian_tangcucut">Tang ini digunakan dalam pekerjaan di ruangan sempit, untuk membengkokkan dan membentuk kabel atau lembaran besi lunak</string>
     <string name="penggunaan_tangcucut">1. Siapkan tang dan pengang dengan kuat\n2. Gunakan membentuk kabel/kawat/besi plat</string>
 
-    <string name="pengertian_tangsirklipdalam">Tang ini untuk melepask atau memasang internal circlip yang digunakan untuk menahan beberapa pengunci di dalam piston. Alat ini mempunyai gerakan ganda saat menutup jaw tertutup.</string>
-    <string name="penggunaan_tangsirklipdalam">1. Siapkan tang dan pengang dengan kuat\n2. Masukkan ujung jaw tang ke bagian bundaran ring\n3. Gunakan seperti menggunakan gunting, maka tang akan menekan ring kearah dalam</string>
+    <string name="pengertian_tangsirklipdalam">Tang ini untuk melepask atau memasang <i>internal circlip</i> yang digunakan untuk menahan beberapa pengunci di dalam piston. Alat ini mempunyai gerakan ganda saat menutup <i>jaw</i> tertutup.</string>
+    <string name="penggunaan_tangsirklipdalam">1. Siapkan tang dan pengang dengan kuat\n2. Masukkan ujung <i>jaw</i> tang ke bagian bundaran ring\n3. Gunakan seperti menggunakan gunting, maka tang akan menekan ring kearah dalam</string>
 
-    <string name="pengertian_tangsirklipluar">Tang ini untuk melepas dan memasang external circlip seperti yang digunakan untuk menahan bearing pada shaft. Alat ini mempunyai gerakan ganda saat menutup jaw terbuka</string>
-    <string name="penggunaan_tangsirklipluar">1. Siapkan tang dan pengang dengan kuat\n2. Masukkan ujung jaw tang ke bagian bundaran ring\n3. Gunakan seperti menggunakan gunting, maka tang akan menekan ring kearah luar</string>
+    <string name="pengertian_tangsirklipluar">Tang ini untuk melepas dan memasang <i>external</i> circlip seperti yang digunakan untuk menahan bearing pada shaft. Alat ini mempunyai gerakan ganda saat menutup <i>jaw</i> terbuka</string>
+    <string name="penggunaan_tangsirklipluar">1. Siapkan tang dan pengang dengan kuat\n2. Masukkan ujung <i>jaw</i> tang ke bagian bundaran ring\n3. Gunakan seperti menggunakan gunting, maka tang akan menekan ring kearah luar</string>
 
     <string name="pengertian_tangair">Tang ini untuk menjepit benda bundar atau bengkok dengan sangat kuat</string>
     <string name="penggunaan_tangair">1. Geser as pada kepala tang dan atur sesuai kebutuhan\n2. Jepit benda kerja dengan menekan tang</string>
@@ -129,22 +129,22 @@
     <string name="penggunaan_obengketok">1. Pasang mata obeng ke badan obeng\n2. Tekan ujung obeng lalu pilih ke arah yang diinginkan (L kiri, R kanan)\n3. Posisikan obeng sampai pas pada kepala sekrup\n4. Pukul obeng dengan kuat</string>
 
     <!--    additional-->
-    <string name="pengertian_uni">Sambungan sock universal digunakan untuk melepas atau memasang baut/mur pada posisi yang menyudul dan tidak terjangkau batang perpanjangan saja</string>
+    <string name="pengertian_uni">Sambungan <i>sock universal</i> digunakan untuk melepas atau memasang baut/mur pada posisi yang menyudul dan tidak terjangkau batang perpanjangan saja</string>
     <string name="pengertian_speed">Engkol Percepatan digunakan untuk melepas secara cepat baut atau mur yang sudah kendor. Dibutuhkan ruang yang cukup untuk dapat mengaplikasikan alat ini</string>
-    <string name="pengertian_slide">Sliding ‘T’ Bar digunakan untuk mengendorkan sebuah mur atau baut yang sangat kencang dengan menggunakan dua pegangan yang digunakan untuk memberikan tekanan pada arah yang berlawanan</string>
+    <string name="pengertian_slide"><i>Sliding ‘T’ Bar</i> digunakan untuk mengendorkan sebuah mur atau baut yang sangat kencang dengan menggunakan dua pegangan yang digunakan untuk memberikan tekanan pada arah yang berlawanan</string>
     <string name="pengertian_breaker">Batang universal bisa disambung dengan berbagai jenis penyambung untuk mengendorkan baut-baut yang sangat kuat misalnya baut kepala silinder</string>
     <string name="pengertian_ext">Batang perpanjangan sock digunakan bersama dengan ratchet atau alat yang sama untuk menjangkau mur atau baut yang tidak terjangkau oleh kunci</string>
 
-    <string name="pengertian_startpunch">Start Punch adalah punch yang dilancipkan/diruncingkan menjadi lebih kuat dibanding pin punch. Kegunaannya sebagai pembuka awal sebuah dowel/retaining pin sebelum menggunakan pin punch.</string>
-    <string name="penggunaan_startpunch">1. Posisikan punch pada pin\n2. Pukul dengan kuat sampai pin bergerak\n3. Lanjutkan mengeluarkan dengan menggunakan pin punch</string>
+    <string name="pengertian_startpunch"><i>Start Punch</i> adalah <i>punch</i> yang dilancipkan/diruncingkan menjadi lebih kuat dibanding pin <i>punch</i>. Kegunaannya sebagai pembuka awal sebuah dowel/<i>retaining pin</i> sebelum menggunakan <i>pin punch.</i></string>
+    <string name="penggunaan_startpunch">1. Posisikan <i>punch</i> pada pin\n2. Pukul dengan kuat sampai pin bergerak\n3. Lanjutkan mengeluarkan dengan menggunakan <i>pin punch</i></string>
 
-    <string name="pengertian_pinpunch">Pin Punch memiliki diameter yang sama dari ujung hingga kerangka/bodinya. Digunakan untuk melepaskan pin penahan komponen yang sebelumnya telah diawali dengan starting punch.</string>
-    <string name="penggunaan_pinpunch">1. Posisikan punch pada pin\n2. Pukul sampai pin keluar dan dapat diambil</string>
+    <string name="pengertian_pinpunch"><i>Pin Punch</i> memiliki diameter yang sama dari ujung hingga kerangka/bodinya. Digunakan untuk melepaskan pin penahan komponen yang sebelumnya telah diawali dengan <i>starting punch.</i></string>
+    <string name="penggunaan_pinpunch">1. Posisikan <i>punch</i> pada pin\n2. Pukul sampai pin keluar dan dapat diambil</string>
 
-    <string name="pengertian_threadgauge">Thread Gauge digunakan untuk mengidentifikasi threat pitch atau jenis ulir pada baut yang tidak diketahui.</string>
+    <string name="pengertian_threadgauge"><i>Thread Gauge</i> digunakan untuk mengidentifikasi threat pitch atau jenis ulir pada baut yang tidak diketahui.</string>
     <string name="penggunaan_threadgauge">1. Bersihkan baut dan alat ukur\n2. Tempelkan thread gauge tegak lurus dengan ulir\n3. Bila thread dan ulir belum pas, maka ubah ukuran thread\n4. Setelah thread gauge dan ulir sudah pas, baca hasilnya</string>
 
-    <string name="pengertian_feelergauge">Feeler Gauge digunakan untuk mengukur celah atau kerenggangan kecil di antara dua komponen</string>
+    <string name="pengertian_feelergauge"><i>Feeler Gauge</i> digunakan untuk mengukur celah atau kerenggangan kecil di antara dua komponen</string>
     <string name="penggunaan_feelergauge">1. Bersihkan benda kerja dan alat ukur\n2. Posisikan feeler lurus pada celah yang diukur\n3. Tarik feeler dan rasakan sampai terasa rapat\n4. Bila sudah terasa rapat, baca hasilnya</string>
 
     <string name="pengertian_skrap">Skrap digunakan untuk melepaskan material gasket yang menempel pada komponen sebelum komponen dipasang kembali.</string>
@@ -191,7 +191,7 @@
     <string name="Extension"><b>BATANG PERPANJANGAN SOCK <i>(Socket Extension Bar)</i></b></string>
     <string name="uni"><b>SAMBUNGAN SOCK UNIVERSAL <i>(Universal Socket Joint Wrench)</i></b></string>
     <string name="info_des">Spesifikasi Minimum</string>
-    <string name="info_menu">1. Menu Awal/<i>home</i>\nMenu ini berisi penjelasan <i>Hand Tools</i> dan tujuan penggunaan aplikasi PLITO\n \n2. Menu Materi\nMenu ini berisi materi lengkap <i>Hand Tools</i> beserta video penggunaanya.\nMateri yang disajikan diantaranya:\na. Kunci\nb. Palu\nc. Obeng\nd.Tang\ne. Tambahan <i>(Additional)</i>\n \n3. Menu Kuis\nMenu ini berisi pertanyaan untuk menguji tingkat pemahaman siswa pada kompetensi <i>Hand Tools</i>. Ada 10 soal kuis yang disediakan.\n \n4. Menu Info\nMenu ini berisi informasi spesifikasi minimum aplikasi, penjelasan menu, cara pengerjaan kuis, dan informasi pengembang.</string>
+    <string name="info_menu">1. Menu Awal/<i>home</i>\nMenu ini berisi penjelasan <i>Hand Tools</i> dan tujuan penggunaan aplikasi PLITO\n \n2. Menu Materi\nMenu ini berisi materi lengkap <i>Hand Tools</i> beserta video penggunaanya.\nMateri yang disajikan diantaranya:\na. Kunci\nb. Palu\nc. Obeng\nd.Tang\ne. Tambahan <i>(Additional)</i>\nSumber Materi berasal dari BSE RISTEKDIKTI\n \n3. Menu Kuis\nMenu ini berisi pertanyaan untuk menguji tingkat pemahaman siswa pada kompetensi <i>Hand Tools</i>. Ada 10 soal kuis yang disediakan.\n \n4. Menu Chat\nMenu ini berisi pembagian ruang chat tiap kelasnya.\n\n5. Menu Info\nMenu ini berisi informasi spesifikasi minimum aplikasi, penjelasan menu, cara pengerjaan kuis, dan informasi pengembang.</string>
     <string name="info_kuis">Pada menu kuis disediakan 10 soal pilihan ganda dengan 4 pilihan jawaban</string>
     <string name="info_kuis1">Setelah setelah mengerjakan kuis hasil niai akan ditampilkan</string>
     <string name="info_pengembang">Dwi Wicaksono\nS1 Pendidikan Teknik Otomotif\nFakultas Teknik\nUniversitan Negeri Malang</string>

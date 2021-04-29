@@ -97,7 +97,7 @@
                             android:layout_weight="1"
                             android:gravity="start" />
                         <TextView
-                            android:text="1 GB"
+                            android:text="2 GB"
                             android:layout_weight="1"
                             android:gravity="start" />
 

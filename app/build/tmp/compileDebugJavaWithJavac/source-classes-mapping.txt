@@ -249,9 +249,9 @@ com/wicak/plito/ui/materi/kunci/Socket.java
 com/wicak/plito/ui/materi/obeng/Ketok.java
  com.wicak.plito.ui.materi.obeng.Ketok
  com.wicak.plito.ui.materi.obeng.Ketok$1
-com/wicak/plito/ui/materi/extension/video/VideoAwal.java
- com.wicak.plito.ui.materi.extension.video.VideoAwal
- com.wicak.plito.ui.materi.extension.video.VideoAwal$1
+com/wicak/plito/ui/home/HomeFragment.java
+ com.wicak.plito.ui.home.HomeFragment
+ com.wicak.plito.ui.home.HomeFragment$1
 com/wicak/plito/ui/materi/kunci/Inggris.java
  com.wicak.plito.ui.materi.kunci.Inggris
  com.wicak.plito.ui.materi.kunci.Inggris$1
@@ -264,6 +264,6 @@ com/wicak/plito/SignUpActivity.java
  com.wicak.plito.SignUpActivity$3
  com.wicak.plito.SignUpActivity$4
  com.wicak.plito.SignUpActivity$4$1
-com/wicak/plito/ui/home/HomeFragment.java
- com.wicak.plito.ui.home.HomeFragment
- com.wicak.plito.ui.home.HomeFragment$1
+com/wicak/plito/ui/materi/extension/video/VideoAwal.java
+ com.wicak.plito.ui.materi.extension.video.VideoAwal
+ com.wicak.plito.ui.materi.extension.video.VideoAwal$1

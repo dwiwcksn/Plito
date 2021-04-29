@@ -1584,6 +1584,7 @@ drawable addspeed
 drawable addstartpunch
 drawable addthread
 drawable adduniversaljoint
+drawable anxiety
 drawable avd_hide_password
 drawable avd_show_password
 drawable ayp_background_item_selected
@@ -1599,8 +1600,6 @@ drawable ayp_shape_rounded_corners
 drawable bar_layout
 drawable bg1
 drawable bg2
-drawable bg3
-drawable bg4
 drawable bg_appbar
 drawable bg_bottom
 drawable bg_expand
@@ -1639,7 +1638,6 @@ drawable common_google_signin_btn_text_light
 drawable common_google_signin_btn_text_light_focused
 drawable common_google_signin_btn_text_light_normal
 drawable common_google_signin_btn_text_light_normal_background
-drawable data_cleaning
 drawable degrad
 drawable design_bottom_navigation_item_background
 drawable design_fab_background
@@ -1653,8 +1651,8 @@ drawable googleg_disabled_color_18
 drawable googleg_standard_color_18
 drawable handtools
 drawable home
+drawable homeicon
 drawable ic_action_name
-drawable ic_baseline_send_24
 drawable ic_calendar_black_24dp
 drawable ic_clear_black_24dp
 drawable ic_dashboard_black_24dp
@@ -1688,9 +1686,11 @@ drawable kuncirachet
 drawable kunciring
 drawable kunciroda
 drawable logo1
+drawable loogo1
 drawable materi
 drawable mood_bad
 drawable mood_up
+drawable motivation
 drawable mtrl_dialog_background
 drawable mtrl_dropdown_arrow
 drawable mtrl_ic_arrow_drop_down
@@ -1757,6 +1757,7 @@ drawable test_custom_background
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
 drawable uh
+drawable updatearrow
 id ALT
 id BOTTOM_END
 id BOTTOM_START
